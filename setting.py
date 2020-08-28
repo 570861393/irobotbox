@@ -4,17 +4,23 @@
 
 import datetime
 import json
+import logging
+import os
 import platform
 import random
 import re
 import smtplib
 import time
 from email.mime.text import MIMEText
-import psycopg2
 import pymysql
 import redis
 import requests
 from fake_useragent import UserAgent
+import chardet
+from sqlalchemy import create_engine
+import sqlalchemy
+import pandas as pd
+import sys,io
 
 #告警邮件功能
 msg_from = ''  # 发送方邮箱
@@ -35,29 +41,97 @@ def smt(content):
     except:
         pass
 
-# redis与pg库的链接设置
+# logging的设置
+# 第一步，创建一个logger
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)  # Log等级总开关
+# 第二步，创建一个handler，用于写入日志文件
+rq = time.strftime('%Y%m%d', time.localtime(time.time()))
+log_path = os.path.dirname(os.getcwd()) + '/Logs/'
+log_name = rq + '.log'
+logfile = log_name
+fh = logging.FileHandler(logfile, mode='w+')
+fh.setLevel(logging.DEBUG)  # 输出到file的log等级的开关
+# 第三步，定义handler的输出格式
+formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s")
+fh.setFormatter(formatter)
+# 第四步，将logger添加到handler里面
+logger.addHandler(fh)
+
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='utf8')
+user_name = "root"
+user_password = "Biadmin@123"
+database_ip = "10.0.1.73:3306"
+database_name = "amazon_bdata"
+database_all = "mysql+pymysql://" + user_name + ":" + user_password + "@" + database_ip + \
+"/" + database_name + "?charset=utf8mb4"
+engine = create_engine(database_all)
+
+# engine=sqlalchemy.create_engine('mysql+mysqldb://{user}:{password}@{host}:3306/{database}'.format
+#         (user='root',password='Biadmin@123',host='10.0.1.73',database='amazon_bdata'))
+
+def encod(file):
+    f = open(file, 'rb')
+    f_charInfo = chardet.detect(f.read())
+    encode = f_charInfo['encoding']
+    return encode
+
+# redis的队列设置
 dbnum = 15
-#本地测试环境
-# if 'Win' in platform.system():
-#     redis_conn = redis.Redis(host='127.0.0.1', port=6379, db=dbnum, encoding='utf-8', decode_responses=True)
-#     conn = pymysql.connect(host='218.17.184.119', user='spider', password='aJX4$vQOgdrUJ$u0', port=33306, db='spider_db')
-# #生产环境
-# else:
-#     redis_conn = redis.Redis(host='10.101.0.239', port=6379, password='abc123', db=dbnum, encoding='utf-8',
-#                                   decode_responses=True)
-#     conn = pymysql.connect(host='218.17.184.119', user='spider', password='aJX4$vQOgdrUJ$u0', port=33306, db='spider_db')
+# redis_conn = redis.Redis(host='127.0.0.1', port=6379, db=dbnum, encoding='utf-8', decode_responses=True)
+# redis_conn = redis.Redis(host='47.115.181.162', port=6379, password='123456', db=dbnum, encoding='utf-8',decode_responses=True)
+redis_conn = redis.Redis(host='10.0.1.201', port=6379, password='iA7gahY7l', db=dbnum, encoding='utf-8',decode_responses=True)
 
 
-## redis的队列设置
-today = 'cityloc'
-redis_key = '20190425:key'
-redis_all_city = '{}:allcity'.format(today)
-redis_task = '{}:task'.format(today)
-redis_total = '{}:total'.format(today)
-redis_task_backup = '{}:backup_task'.format(today)
-redis_error = '{}:error'.format(today)
-redis_result = '{}:result'.format(today)
-redis_failure_point = '{}:failure_point'.format(today)
+redis_name = 'irobotbox'
+redis_all_city = '{}:all_city'.format(redis_name)
+redis_task = '{}:task'.format(redis_name)
+redis_downloadurl = '{}:downloadurl'.format(redis_name)
+redis_downloadurl_backup = '{}:downloadurl_backup'.format(redis_name)
+redis_task_backup = '{}:backup_task'.format(redis_name)
+redis_error = '{}:error'.format(redis_name)
+redis_result = '{}:result'.format(redis_name)
+redis_failure_point = '{}:failure_point'.format(redis_name)
+
+#来源表
+# conn2 = pymysql.connect(host='rm-wz9bd2h2i9846lv92to.mysql.rds.aliyuncs.com',
+#                              port=3306,
+#                              user='spider_user',
+#                              password='K845CTp8',
+#                              db='apidb',
+#                              charset='utf8')
+
+# 结果表
+result_conn = pymysql.connect(host='10.0.1.73',
+                             port=3306,
+                             user='root',
+                             password='Biadmin@123',
+                             db='amazon_bdata',
+                             charset='utf8')
+conn = result_conn
+
+# mysql--spider
+# self.conn1 = pymysql.connect(host='218.17.184.119',
+#                             port=33306,
+#                             user='spider',
+#                             password='aJX4$vQOgdrUJ$u0',
+#                             db='spider_db',
+#                             charset='utf8')
+# # mysql--aliyun
+# self.conn2 = pymysql.connect(host='rm-wz9bd2h2i9846lv92to.mysql.rds.aliyuncs.com',
+#                              port=3306,
+#                              user='spider_user',
+#                              password='K845CTp8',
+#                              db='datav',
+#                              charset='utf8')
+# # mysql--10.0.2.108
+# self.conn3 = pymysql.connect(host='10.0.2.108',
+#                              port=3306,
+#                              user='ops',
+#                              password='jS0rarzFQIltwJCC',
+#                              db='dev2_nextop',
+#                              charset='utf8')
+
 
 # 请求头的更换
 def get_ua():
@@ -91,6 +165,7 @@ def create_sql(column_item, table_name):
     return sql
 
 # sql的链接
+
 def select_db(sql):
     try:
         cur = conn.cursor()
@@ -101,7 +176,6 @@ def select_db(sql):
     except Exception as e:
         conn.rollback()
         print('出错信息：' + str(e))
-
 
 def db_insert(sql):
     try:

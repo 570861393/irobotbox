@@ -1,0 +1,19 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity
+TDEU05-A10XXX-FRWH0A-A1S1	X00184Z3DJ	B08C31B4JH	SNAPTAIN A10 Drone Pliable avec CamÃ©ra HD 720P WiFi FPV, ContrÃ´le par voix et gestes, G-senseur, Vol de Trajectoire, Mode sans TÃªte, 360Â° Flips, Maintien d'altitude, pour Les DÃ©butants et Les Enfants	New	59.99	No		Yes	0	0	0	0	1248	3254.63	528	720	0
+TDEU05-A10XXX-ITWH0A-A1S1	X00185XCU9	B0899T7R9Q		Unknown					0	0	0	0	1440		0	1440	0
+TDEU05-H610-FRBK0A-A1S1	X00184X1JR	B08FJ8HFPQ	Vantop Dashcam CamÃ©ra de Voiture H610	New	99.99	No		Yes	0	0	0	0	1224	3077.98	1224	0	0
+TDEU05-H823HP-FRGN0A-A1S1	X00184EIHL	B089SX1N2T	SNAPTAIN H823H Plus Mini Drone Enfant, Drone Jouet, 21 Mins Autonomie, 3 Batteries, HÃ©licoptÃ¨re TÃ©lÃ©commande, Mode sans TÃªte, 360Â°Flips, Maintien d'Altitude, Facile Ã  Piloter, Vert	New	29.99	No		Yes	0	0	0	0	2520	1718.51	1440	1080	0
+TDEU05-H823HP-ITGN0A-A1S1	X001863TDD	B087J8JCHW		Unknown					0	0	0	0	540		0	540	0
+TDEU05-H82P-ESRD1A-A1S1	X00180B0CV	B084YPMG5Y		Unknown					0	0	0	0	2340		2340	0	0
+TDEU05-H82P-FRBU1A-A1S1	X001865T9P	B07WS6WDWF	SNAPTAIN H823H Mini Drone Enfant 21 Mins Autonomie 3 Batteries Avion HÃ©licoptÃ¨re,Mode sans TÃªte, Maintien d'altitude, OpÃ©ration Ã  Un Bouton, 360Â°Flips pour Les DÃ©butants et Les Enfants	New	59.99	No		Yes	0	0	0	0	2160	2125.4	2160	0	0
+TDEU05-H82P-ITBU1A-A1S1	X0017TGJDX	B07Z4FV8TY		Unknown					0	0	0	0	540		0	540	0
+TDEU05-H82P-ITRD1A-A1S1	X001801XHD	B07YFTJFM8		Unknown					0	0	0	0	360		0	360	0
+TDEU05-S300-ESBU0A-A1S1	X00180E3MP	B084YY3YD5		Unknown					0	0	0	0	2496		2496	0	0
+TDEU05-S350-DEBU0A-A1S1	X0017TQ60J	B088M7HRGK		Unknown					0	0	0	0	1		1	0	0
+TDEU05-S500-FRBK0A-A1S1	X00186MB87	B07YYC89WV	SNAPTAIN SP500 Drone avec CamÃ©ra GPS 1080P Pliable ,30 Mins Autonomie,2 Batteires,Suivez-Moi,Auto Rentrer Ã  la Maison ,Smartcapture	New	179.99	No		Yes	0	0	0	0	2880	7537.39	2880	0	0
+TDEU05-S500-ITBK0A-A1S1	X0017TGLF9	B081TVL9DR		Unknown					0	0	0	0	300		0	300	0
+TDEU05-S5C0-ESBK6A-A1S1	X00180B0ZN	B084YVYVLL		Unknown					0	0	0	0	2688		2688	0	0
+TDEU05-S5C0-ITBK6A-A1S1	X0017TE4FX	B07Y65S63B		Unknown					0	0	0	0	600		600	0	0
+TDEU05-S650-FRBK6A-A1S1	X00186TEIH	B07YRPGWND	SNAPTAIN SP650 Drone avec CamÃ©ra 1080P Full HD 120Â° Grand Angle RÃ©glable, WiFi Transmission en Temps RÃ©el ,ContrÃ´le Gestuel, Vol de Trajectoire, 360Â°Flips, Mode sans TÃªte, et Maintien de l'altitude	New	129.99	No		Yes	0	0	0	0	1524	8544.87	1524	0	0
+TDEU05-S650-ITBK6A-A1S1	X0017TGKOL	B081RV7J2S		Unknown					0	0	0	0	600		0	600	0
+TDEU05-SP350X-FRRD0A-A1S1	X00184U50Z	B089SV9P1X	SNAPTAIN SP350 Mini Drone pour Enfant, Drone Jouet TÃ©lÃ©commandÃ©, 21 Mins Autonomie avec 3 Batteries, Mode sans TÃªte, Maintien de l'altitude, Facile Ã  utiliser, Parfait pour Enfants et DÃ©butants, Rouge	New	29.99	No		Yes	0	0	0	0	1920	1316.7	1440	480	0

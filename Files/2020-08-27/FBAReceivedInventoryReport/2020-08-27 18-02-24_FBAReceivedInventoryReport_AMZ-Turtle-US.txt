@@ -1,0 +1,2 @@
+received-date	fnsku	sku	product-name	quantity	fba-shipment-id	fulfillment-center-id
+2020-08-26T00:00:00-07:00	X002KZZSY7	TRL-E30X-USBK0A-3WCS1	Kyvol Cybovac E30 Robot Vacuum Cleaner 2200Pa Strong Suction, Smart Navigation, 150 mins Runtime, Robotic Vacuum Cleaner, Wi-Fi Connected, Works with Alexa, Ideal for Pet Hair, Carpets & Hard Floors	15	FBA15NZLLKZD	LGB8

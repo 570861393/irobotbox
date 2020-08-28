@@ -1,0 +1,79 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity
+C09K-G10XXX-JPBK0A	X000UJDDFF	B087N6GX5S	VANKYO ゲーミングイヤホン ゲームイヤフォン ゲーミングヘッドセット イヤホン マイク付き マイクミュート機能 G10 有線 PS4 スマホ PC 高音質 重低音 Nintendo/Switch/Xbox One/PUBG 荒野行動対応	New	4980.00	No		Yes	781	767	2	12	781	644.01	0	0	0
+CACK-PM20-JPBK0A-A1S3	X000RWBD61	B07P6Z8XKX	VANKYO 天吊り金具 汎用 プロジェクターブラケット ホルダー プロジェクターマウント 壁掛け/天吊り オフィス/家庭用 ホームシアター (ブラック)	New	1899.00	No		Yes	0	0	0	0	0	2154.24	0	0	0
+CACK-PM20-JPWH0A-A1S3	X000RYYD1B	B07P852FBW	VANKYO 天吊り金具 汎用 プロジェクターブラケット ホルダー プロジェクターマウント 壁掛け/天吊り オフィス/家庭用 ホームシアター (ホワイト)	New	1899.00	No		Yes	0	0	0	0	0	2078.7	0	0	0
+CACK-PS04-JPWH3A-A2S3	X000RWBBI1	B07DFDCMZD	VANKYO 壁掛け式スクリーン 折りたたみ式 スクリーン プロジェクター用 ホームシアター スクリーン ポータブル 投射スクリーン 映画鑑賞/オフィス会議/プレゼン 16:9 しわなし (100インチ)	New	2698.00	No		Yes	0	0	0	0	0	6687.4	0	0	0
+CGTK-CM70-JPRD0A-A1S2	X000S7T3FN	B07VWQSVH7	VANKYO ゲーミングヘッドセット ps4 ヘッドホン7.1chサラウンド ゲームヘッドセット 50MMドライバー ノイズキャンセルマイク付き 軽量 重低音強化ヘッドフォン USB 有線 高音質 PC用ヘッドセットpc ps4 xboxone xbox360 switch 等対応	New	4980.00	Yes	0	No	0	0	0	0	0	8085.87	0	0	0
+CLPN-FL30-JPBK0A	X000SPI85B	B07Y5BMW8L		Unknown					0	0	0	0	0		0	0	0
+CPJK-V600-JPSV0A-A1S3	X000RGZ7Q9	B07N1GRF83	VANKYO V600 プロジェクター 1080pフルHD データプロジェクター 6500ルーメン 1920×1080ネイティブ解像度 4KフルHD対応 300インチ 大画面 高コントラスト5000：1 ビジネス用とホームシアター両用	New	22880.00	No		Yes	0	0	0	0	0	17428.46	0	0	0
+CSCH-CA01-JPWH0A-A1S1	X000VF5ZVN	B08F9ZN8T9	HeimVision HM241ワイヤレス防犯カメラセット 専用増設カメラ 1080P 200万画素屋外/屋内 防水防塵 監視カメラ	New	4990.00	No		Yes	0	0	0	0	54	2138.18	54	0	0
+CSCH-H136-JPWH0A-A1S2	X000SCB1JJ	B07VB9295C		Unknown					0	0	0	0	0		0	0	0
+CSKH-A80S-JPWH0A-A2S1	X000RE7ZDT	B07QPSRTCQ		Unknown					0	0	0	0	0		0	0	0
+CUVP-A15H-JPGY0A	X000RELVT3	B07Q453XQD		Unknown					0	0	0	0	0		0	0	0
+CUVP-H82P-JPRD1A-A2S3	X000RVH0LT	B07R6BWXRB		Unknown					0	0	0	0	0		0	0	0
+CUVP-S5C0-JPBK6A-A3S3	X000RHA1KZ	B07KXNW5WF	SNAPTAIN ドローン カメラ付き バッテリー2個付き 飛行時間15分 室内向け 200g未満 WIFI FPV リアルタイム 720P HDカメラ 高度維持機能 体感モード 3D VRサポート ワンキー起動/着陸 初心者 子供に対応可能S5C	New	5999.00	No		Yes	66	57	1	8	66	7769.27	0	0	0
+P9-FBKC-9NN1-A1S2	X000RWBCY9	B07M6QMQKX		Unknown					0	0	0	0	0		0	0	0
+TB-TM2R-80QX	X000U2V4NP	B082LRBNXR	VIVIMAGE EX3 1080pフルHDプロジェクター 6500lm高輝度1920 x 1080解像度4K対応 4D±50°台形補正 10Wスピーカーx2 300”大画面 USB/HDMI/AV/VGA対応 ビジネス/ホームシアターに適用	New	25000.00	No		Yes	220	218	0	2	220	23041.69	0	0	0
+VDJP-H203-JPWH0A-A1S2	X000RPF13J	B07Q29917Z	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	New	2750.00	No		Yes	129	111	6	12	441	2635.7	312	0	0
+VDJP-H205-JPWH0A-A1S2	X000RXXJ5X	B07RW8LWMG		Unknown					0	0	0	0	0		0	0	0
+VDJP-S310-JPBK1A-A1S2	X000RP43L5	B07SN4KDRC	SNAPTAIN ドローン おもちゃ 小型 ミニドローン バッテリー２個付き 最大飛行時間14分 放り投げ飛行機能 高度維持機能 ヘッドレスモード 360°フリップ ワンキーリターン 初心者/子供向け 国内認証済みSP310	New	3699.00	No		Yes	175	168	3	4	175	2513.78	0	0	0
+VDJP-S600-JPBK6A-A1S2	X000RYD7CH	B07RT5B4FH		Unknown					0	0	0	0	0		0	0	0
+VNTP-5A0002-JPWH2A-AC1SC3	X000VC5PWF	B07YJH5B9V	VANKYO 壁掛け式スクリーン 折りたたみ式 スクリーン プロジェクター用 ホームシアター スクリーン ポータブル 投射スクリーン 映画鑑賞/オフィス会議/プレゼン 16:9 しわなし (72インチ)	New	2299.00	No		Yes	0	0	0	0	180	6526.97	30	150	0
+VNTP-CT09-JPBK0A-AC1SC1	X000URIVK9	B07TPLMSPW	SNAPTAIN H823H Plus ドローン 専用バッテリー 4個セット 充電器*2 バッテリー4個同時充電可能	New	1900.00	No		Yes	0	0	0	0	100	217.62	100	0	0
+VNTP-PT20-JPWH1A-AC1SC3	X000RYGFOT	B07CWPV988	VANKYO プロジェクター台 ノートパソコンスタンド 業務用 三脚式 折りたたみ式プロジェクタースタンド 44-116まで高さ調節可能 オフィス/会議室/ホームシアターに対応 耐荷重15 (ホワイト)	New	4699.00	No		Yes	0	0	0	0	200	19954.36	200	0	0
+VNTP1--V600-JPSV0AAC1SC2	X000SEXNWP	B07N1GRF83	VANKYO V600 プロジェクター 1080pフルHD データプロジェクター 6500ルーメン 1920×1080ネイティブ解像度 4KフルHD対応 300インチ 大画面 高コントラスト5000：1 ビジネス用とホームシアター両用	New	22880.00	No		Yes	1	0	1	0	1	17428.46	0	0	0
+VNTP1-3D0006-JPGY3A-AC1SC4	X000VK2TJ9	B087NPGZGJ	【VANKYO タブレットS10専用ケース】 10.1インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	New	2380.00	No		Yes	0	0	0	0	180	825.58	180	0	0
+VNTP1-4D0005-JPCR3A-AC1SC2	X000VHP8GD	B087NPK1Q7	【VANKYO タブレットS10専用保護フィルム】 2枚 10.1インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフィルム	New	1580.00	No		Yes	0	0	0	0	200	590.59	200	0	0
+VNTP1-5A0003-JPWH2A-AC1SC7	X000VG9XRJ	B07L51G7GH	VANKYO 壁掛け式スクリーン 折りたたみ式 スクリーン プロジェクター用 ホームシアター スクリーン ポータブル 投射スクリーン 映画鑑賞/オフィス会議/プレゼン 16:9 しわなし (84インチ)	New	2498.00	No		Yes	0	0	0	0	0	6681.01	0	0	0
+VNTP1-C740XX-JPBK0A-AC1SC1	X000VJ3DBD	B08G52T2QY	VANKYO C740 ヘッドホンノイズキャンセリングヘッドホンBluetooth 5.0ワイヤレス ANCノイズキャンセル最大30時間連続再生 HiFi高音質 密閉型ヘッドセット マイク付 有線無線兼用 通話可能CVC8.0通話ノイズキャンセリング搭載 iPhone/iPad/Android対応	New	6980.00	No		Yes	0	0	0	0	0		0	0	0
+VNTP1-CM6000-JPPK0A-AC1SC1	X000VLD3ED	B08GPJS5DT	VANKYO CM6000 ゲーミングヘッドセット ピンク JP	New	5980.00	No		Yes	0	0	0	0	0		0	0	0
+VNTP1-CTAK-Z4AA-JPBK4A-AC1SC1	X000SEXG8B	B07V32P1SC		Unknown					0	0	0	0	0		0	0	0
+VNTP1-CY75-JPSV0A-AC1SC1	X000U6STE3	B081GZJ7YB	VANKYO CY750 ヘッドホンノイズキャンセリングヘッドホンBluetooth 5.0ワイヤレス ANCノイズキャンセル 2台デバイスと同時に接続可能 最大30時間連続再生 HiFi高音質 密閉型ヘッドセット マイク付 有線無線兼用 通話可能CVC8.0通話ノイズキャンセリング搭載 iPhone/iPad/Android対応	New	10880.00	No		Yes	130	123	2	5	130	2399.56	0	0	0
+VNTP1-CY75-JPWH0A-AC1SC1	X000VLI0O1	B08GQ1DZ7R	VANKYO CY750 ノイズキャンセリングヘッドホン シルバー JP	New	9980.00	No		Yes	0	0	0	0	0		0	0	0
+VNTP1-FL10-JPBK0A-AC1SC1	X000SPJP6R	B07Y6FYLLQ		Unknown					0	0	0	0	0		0	0	0
+VNTP1-H202-JPWH0A-AC2SC2	X000SJP3TV	B07WPJM9TM		Unknown					0	0	0	0	0		0	0	0
+VNTP1-H241-JPWH0A-AC1SC1	X000SYEVT9	B07Y86NFYS	HeimVision HM241 防犯カメラセット 屋外/屋内 1080P 200万画素 ネットワークカメラ4台 8チャンネルNVRシステム IP66防水 暗視撮影 動体検知 監視カメラ・録画機セット スマホ/パソコン遠隔監視 増設可能	New	19980.00	No		Yes	167	163	1	3	167	16844.43	0	0	0
+VNTP1-H302-JPBK0A-AC1SC2	X000U6FN8X	B07YFW8SRN	【新バージョン】HeimVision ネットワークWIFIカメラ1536P 300万画素Alexa対応 防犯 Wi-Fiカメラ 動体検知 暗視機能 警報通知 WIFI/LANケーブ対応 双方向音声 録画可能 安全対策 ペット/子供/老人見守り 技適認証済み 日本仕様	New	5980.00	No		Yes	262	258	0	4	262	2031.67	0	0	0
+VNTP1-H402-JPBK0A-AC1SC2	X000U6FAJF	B0811QF237	【最新版】HeimVision 400万高画素 ネットワークカメラ WiFiカメラ ベビーモニター 動体検知自動追跡 暗視機能 警報通知 双方向音声 録画可能 安全対策 遠隔操作 ペット/子供/老人見守り 技適認証済みiOS/Android/Windows/MACシステムに対応 HM402	New	8590.00	No		Yes	194	190	2	2	194	2083.62	0	0	0
+VNTP1-H612RX-JPBK0A-AC1SC1	X000UWAUHL	B089NSW6DC	【業界唯一の4K解像度】VanTopドライブレコーダー【SONY IMX415】【12インチ右ハンドル仕様】【最新版日本音声コントロール】【GPS搭載】最大128GB対応64GBカード付属 ミラー型ドラレコ 前後カメラ 電波障害対策 大広角レンズ 超鮮明夜間撮影フルスクリーン ドラレコ 前後同時録画/Gセンサー/衝撃録画/駐車監視/ループ録画/タイムラプス動画 日本語説明書	New	17880.00	No		Yes	0	0	0	0	600	893.75	600	0	0
+VNTP1-H82P-JPBU1A-AC1SC1	X000SDNTD9	B07KSSBK7M	SNAPTAIN H823H Plus ドローン 小型 ミニドローン 室内用 マイクロドローン ヘッドレスモード/360度フリップ/3段階スピード調節 プレゼント 国内認証済み (青)	New	3480.00	No		Yes	810	800	3	7	810	3164.51	0	0	0
+VNTP1-HM202A-JPWH0A-AC1SC3	X000UJF04H	B08698XJQF	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	New	4990.00	No		Yes	0	0	0	0	192	2026.75	192	0	0
+VNTP1-HMB2XX-JPWH0A -AC1SC2	X000URR71X	B086C7C4X3	HeimVision ワイヤレステレビドアホン 1080P HDインターホン 無線WiFi スマホ対応 双方向音声 暗視機能 動体検知 IP65防塵防水 工事不要 日本仕様 HMB1	New	12980.00	No		Yes	320	320	0	0	320	2090.01	0	0	0
+VNTP1-HMB2XX-JPWH0A -AC1SC3	X000VCPLVP	B086C7C4X3		Unknown					0	0	0	0	0		0	0	0
+VNTP1-HMD3XX-JPWH0A-A1S3	X000VKOEDD	B08FDJGSH3	HeimVision 防犯カメラ Wi-Fi バッテリーカメラ 屋外対応 ソーラーパネル対応 完全無線 130°超広角 双方向通話 省エネルギー PIR人体検知センサー 強力磁石式スタンド ネジ止め不要 角度調整可能	New	9980.00	No		Yes	0	0	0	0	192	1022.88	192	0	0
+VNTP1-L420-JPSV0A-AC1SC2	X000RPG0HZ	B07J54VT4H		Unknown					0	0	0	0	0		0	0	0
+VNTP1-L430-JPWH0A-AC1SC1	X000S94P7H	B07W6P38XB		Unknown					0	0	0	0	0		0	0	0
+VNTP1-L430XX-JPWH2A-AC1SC1	X000U54Y43	B083BP39RZ	VANKYO Leisure 430XX 小型 プロジェクター LED 4500lm 1080PフルHD対応 内蔵スピーカー 台形補正 HDMI/USB/SD/AV/VGA対応 スマホ/パソコン/タブレット/ゲーム機/DVDプレーヤー/USB接続可 HDMI/AVケーブル/収納ケース付属	New	11999.00	No		Yes	545	523	9	13	545	8015.9	0	0	0
+VNTP1-L430XX-JPWH2A-AC1SC3	X000U6TLP9	B083BP39RZ	VANKYO Leisure 430XX 小型 プロジェクター LED 4500lm 1080PフルHD対応 内蔵スピーカー 台形補正 HDMI/USB/SD/AV/VGA対応 スマホ/パソコン/タブレット/ゲーム機/DVDプレーヤー/USB接続可 HDMI/AVケーブル/収納ケース付属	New	11999.00	No		Yes	481	470	0	11	481	8015.9	0	0	0
+VNTP1-L430XX-JPWH2A-AC1SC5	X000UD7PJV	B083BP39RZ		Unknown					0	0	0	0	0		0	0	0
+VNTP1-L470-JPWH0A-AC1SC2	X000U4VRPD	B07Z1V5YBD	VANKYO Leisure 470 HD プロジェクター 4000ルーメン スマホに直接接続可 小型 プロジェクター ホームシアター 1920×1080最大解像度 TV Stick/HDMI/X-Box/Laptop/iPhone/ゲーム機に接続可	New	9999.00	No		Yes	1706	1640	7	59	1706	7347.14	0	0	0
+VNTP1-L510-JPBK0A-AC1SC1	X000SEXCXZ	B07WRJ8Z6V		Unknown					0	0	0	0	0		0	0	0
+VNTP1-LS30-JPWH0A-AC1SC3	X000SIYA8R	B07X23LH65		Unknown					0	0	0	0	0		0	0	0
+VNTP1-LS30-JPWH0A-AC1SC4	X000SIYJN3	B07X23LH65		Unknown					0	0	0	0	0		0	0	0
+VNTP1-MM4UXX-JPBK0A-AC1SC1	X000VLIKV9	B08GQ4895K	VanTop MM4U アクションカメラ JP	New	10980.00	No		Yes	0	0	0	0	0		0	0	0
+VNTP1-N10XXX-JPWH0A-AC1SC1	X000VLEM7P	B08GPTQLNP	VANKYO N10 TWS ワイヤレスイヤホン JP	New	7880.00	No		Yes	0	0	0	0	0		0	0	0
+VNTP1-PH01-AC1SC1	X000SGB2TT	B07QWKQR9J		Unknown					0	0	0	0	0		0	0	0
+VNTP1-PH01-JPGY0A-AC1SC1	X000T7LQS9	B07QWKQR9J		Unknown					0	0	0	0	0		0	0	0
+VNTP1-S10FAX-JPBK3A-AC2SC6	X000VBDPFF	B0872Q8JNL	VANKYO S10 タブレット 10.1インチ Android 9.0 RAM2GB/ROM32GB Wi-Fiモデル デュアルカメラ GPS FM機能搭載 日本語取扱説明書	New	13999.00	No		Yes	76	7	3	66	76	2878.72	0	0	0
+VNTP1-S10FAX-JPBK3A-AC2SC7	X000VKXRU9	B0872Q8JNL	VANKYO S10 タブレット 10.1インチ Android 9.0 RAM2GB/ROM32GB Wi-Fiモデル デュアルカメラ GPS FM機能搭載 日本語取扱説明書	New	13999.00	No		Yes	0	0	0	0	0	2878.72	0	0	0
+VNTP1-S20H-JPGY4A-AC1SC1	X000VG1VS3	B08BC9VY1D		Unknown					0	0	0	0	0		0	0	0
+VNTP1-S20I-JPGY4A-AC2SC4	X000UDAB2T	B086H9BHJG	VANKYO タブレット10インチS20 Android 9.0 RAM3GB/ROM64GB Wi-Fiモデル 8コアCPU Bluetooth 5.0 GPS FM機能搭載 日本語取扱説明書付き	New	19999.00	No		Yes	0	0	0	0	200	3164.67	200	0	0
+VNTP1-S300-JPBU0A-AC1SC1	X000UD5MXH	B07XZ9WW3R	SNAPTAIN ドローン こども向け ミニドローン 室内用 放り投げ飛行機能 ジェスチャー制御 自動回避障害機能 重力センサーブレスレット制御 ヘッドレスモード 360°フリップ 初心者/子供向けSP300	New	3980.00	No		Yes	276	276	0	0	276	4476.13	0	0	0
+VNTP1-S30H-JPSV4A-A2S4	X000UDCWBH	B085GB81H5	[2020NEW モデル] VANKYO タブレット10インチS30 Android 9.0 RAM3GB/ROM32GB Wi-Fiモデル 8コアCPU 1920x1200 IPSディスプレイ Bluetooth 5.0 GPS FM機能搭載 日本語仕様書付き	New	19999.00	No		Yes	200	187	0	13	200	3548.13	0	0	0
+VNTP1-S350-JPBU0A-AC1SC1	X000T6DWYV	B07Z1VYWGZ	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	New	2999.00	No		Yes	186	177	0	9	186	1332.76	0	0	0
+VNTP1-S650-JPBK6A-AC1SC1	X000SFRTMJ	B07VBM89DB	SNAPTAIN ドローン カメラ付き 1080P HD 120°広角カメラ 200g未満 最大24分飛行時間 WIFI FPVリアルタイム伝送 高度維持 自動ホバリング 低電圧アラーム ヘッドレスモード 高速回転ホバー機能 体感モード モード１/２転換可能 国内認証済みSP650	New	9999.00	No		Yes	73	52	0	21	73	9201.34	0	0	0
+VNTP1-S660-JPBK6A-AC1SC1	X000SQ8GOD	B07V9DB8F5		Unknown					0	0	0	0	0		0	0	0
+VNTP1-S8FA-JPBK2A-AC1SC1	X000VCHZU5	B08612D8B1	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	New	12999.00	No		Yes	0	0	0	0	1188	1586.27	1188	0	0
+VNTP1-V620-JPGV0A-AC1SC1	X000SJE30B	B07XBLXZZL		Unknown					0	0	0	0	0		0	0	0
+VNTP1-V630-JPWH0A-AC1SC2	X000TNNK87	B07YTVMJVL	VANKYO V630 1080PフルHDプロジェクター 6800ルーメン LED ±45°デジタル台形補正 1920×1080ネイティブ解像度 4K対応 TV Stick/HDMI/X-Box/Laptop/iPhone/ゲーム機に対応 300”大画面 ビジネス/ホームシアターに適用	New	25900.00	No		Yes	9	7	0	2	129	21765.13	120	0	0
+VNTP1-VX20-JPBK0A-AC1SC1	X000U6SFOH	B081V7SXYN	VanTop ドライブレコーダー 2.5K SONY センサー GPS 12インチ 前後カメラ高画質ミラー型最大128GB対応(専用32GBカード付属) 電波障害対策 大広角レンズ 超鮮明夜間撮影 ミラーダッシュカム フルスクリーン ドラレコ 前後同時録画/Gセンサー/衝撃録画/駐車監視/ループ録画/タイムラプス動画	New	16880.00	No		Yes	9	0	9	0	9	3148.12	0	0	0
+VNTP1-X100-JPBK0A-AC1SC1	X000T7680Z	B07ZVLVHJ3	VANKYO X100ワイヤレスイヤホンIPX7防水 Bluetoothイヤホン完全ワイヤレスイヤホン Bluetooth 5.0 左右分離型 マイク内蔵 両耳通話Hi-Fi高音質CVC8.0ノイズキャンセリング自動接続 LEDディスプレイ電量表示 120時間連続駆動 超大容量充電ケース付き iPhone/Android対応	New	4980.00	Yes	0	No	0	0	0	0	0	606.16	0	0	0
+VNTP1-X400XX-JPBK0A-AC1SC1	X000VG72QN	B08FFT8GLM	VANKYO X400 TWS 完全ワイヤレスイヤホンBluetooth 5.0 タッチボタン 片耳/両耳 左右分離型 Hi-Fi高音質 両耳通話 マイク内蔵 自動ペアリンAAC対応 IPX6防水 type-c&Qi無線充電 bluetooth イヤホンiPhone/iPad/Android適用 PSE認証付き/技適認証済	New	4980.00	No		Yes	0	0	0	0	0		0	0	0
+VNTP1-Z1AA-JPBK1A-AC1SC2	X000RV3N7J	B07Q122SNK		Unknown					0	0	0	0	0		0	0	0
+VNTP1-Z1AA-JPBK1A-AC1SC3	B07Q122SNK	B07Q122SNK		Unknown					0	0	0	0	0		0	0	0
+VNTP1-Z1AA-JPBK1A-AC1SC4	X000SEXJI3	B07Q122SNK		Unknown					0	0	0	0	0		0	0	0
+VNTP1-Z1AK-JPBU1A-AC1SC2	X000SFSBDZ	B07WCLLJ9K	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	New	8980.00	No		Yes	500	493	0	7	500	2397.92	0	0	0
+VNTP1-Z1AK-JPPK1A-AC1SC2	X000SEQ0S9	B07W9JCL7D	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	New	8980.00	No		Yes	445	438	0	7	445	2397.92	0	0	0
+VNTP1-Z4BB-JPBK4A-AC1SC1	X000TKK1F5	B07XBSVWBZ		Unknown					0	0	0	0	0		0	0	0
+VNTP1-ZTBB-JPBK4A-AC2SC2	X000TUR3ZB	B084KYQTZL		Unknown					0	0	0	0	0		0	0	0
+VNTP1-ZTBB-JPBK4A-AC3SC10	X000U6SVUP	B085G4PLFM	VANKYO タブレット10インチ Android 9.0 RAM3GB/ROM32GB 1920*1200 IPSディスプレイ デュアルカメラ WiFiモデル GPS HDMI機能 Z10日本語仕様書付き	New	18999.00	No		Yes	408	401	0	7	408	2617.51	0	0	0

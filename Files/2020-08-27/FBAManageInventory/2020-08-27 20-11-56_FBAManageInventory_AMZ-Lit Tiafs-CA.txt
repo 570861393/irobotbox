@@ -1,0 +1,282 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+CPJK-V600-USSV0A-A1S1	B07NBNCNLM	B07NBNCNLM		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-V600-USSV0A-A4S3	B07NBNCNLM	B07NBNCNLM		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-V600-USSV0A-A4S7	B07NBNCNLM	B07NBNCNLM		Unknown					0	0	0	0	0		0	0	0	0
+CPJV-C580-USBK0A-A1S3	X0020SXPGH	B07NYS4VF2		Unknown					0	0	0	0	0		0	0	0	0
+CSCH-H202-USWH0A-FBA	B07KCS69H6	B07KCS69H6		Unknown					0	0	0	0	0		0	0	0	0
+CSCH-H202-USWH0A-UPC	B07KCS69H6	B07KCS69H6		Unknown					0	0	0	0	0		0	0	0	0
+CSCH-H203-CAWH0A-A1S2	B07PX1YXVM	B07PX1YXVM	HeimVision HM203 Security Camera, 1080P Surveillance WiFi Camera with Night Vision/PTZ/Two-Way Audio, 2.4Ghz Wireless Home IP Camera for Pet/ Baby/ Elder/ Dog Camera Monitor, Cloud Service/ MicroSD Support	New	39.99	No		Yes	2394	1913	89	390	6520	2279.93	1608	1398	1120	2
+CSCH-H203-CAWH0A-A1S3	X002IYSVZ3	B07PX1YXVM	HeimVision HM203 Security Camera, 1080P Surveillance WiFi Camera with Night Vision/PTZ/Two-Way Audio, 2.4Ghz Wireless Home IP Camera for Pet/ Baby/ Elder/ Dog Camera Monitor, Cloud Service/ MicroSD Support	New	42.99	No		Yes	92	5	86	1	92	2279.93	0	0	0	0
+CSCH-H203-USWH0A-FBA	B07N819P4K	B07N819P4K		Unknown					0	0	0	0	0		0	0	0	0
+CSCH-H205-CAWH0A-A1S2	X0026951O9	B07RWB4WJT	HeimVision HM205 Security Camera 1080P?Works with Alexa?WiFi Camera with Night Vision/PTZ/Two-Way Audio, Wireless Home Camera for Pet/Baby/Elder/Dog Camera Monitor, Cloud Service Support	New	43.99	No		Yes	36	0	36	0	36	2078.86	0	0	0	0
+CSCH-H205-USWH0A-A1S2	B07P6QTBPZ	B07P6QTBPZ		Unknown					0	0	0	0	0		0	0	0	0
+CSCH-H205-USWH0A-A2S2	B07R6HVN3K	B07R6HVN3K		Unknown					0	0	0	0	0		0	0	0	0
+CSCH-H205-USWH0A-A2S3	X0026A39SN	B07R6HVN3K		Unknown					0	0	0	0	0		0	0	0	0
+CSCH-H211-CAWH0A-A1S2	X0028H34KH	B07TTSJWGK	HeimVision HM211 Outdoor Security Camera Wireless, 1080P WiFi Surveillance Camera with Night Vision, Floodlight, Siren Alarm, Two-Way Audio, Motion Detection, Waterproof, Cloud Service/Microsd Support	New	75.99	No		Yes	47	0	47	0	47	3417.03	0	0	0	0
+CSCH-H241-USWH0A-A1S2	X00258MQA3	B07RKJDK65		Unknown					0	0	0	0	0		0	0	0	0
+CTBK-TB80-USBK0A-A1S2	B07H3MS3GM	B07H3MS3GM		Unknown					0	0	0	0	0		0	0	0	0
+CTBK-X95A-USBK0A-A3S1	B07Q869TKN	B07Q869TKN		Unknown					0	0	0	0	0		0	0	0	0
+CTBK-X95A-USBK0A-A3S2	X00279JB3Z	B07Q869TKN		Unknown					0	0	0	0	0		0	0	0	0
+CUVP-A15H-USGY0A-A4S5	X0023R5BKD	B07P6PRXLH		Unknown					0	0	0	0	0		0	0	0	0
+CUVP-H82P-USRD1A-A1S2	X002689M4P	B07R48VP3D		Unknown					0	0	0	0	0		0	0	0	0
+FBA15KBDK7QB.missing	B083BRVG28	B083BRVG28		Unknown					0	0	0	0	0		0	0	0	0
+LFA- S350-USBU0A-S2A1	X002CDHL3D	B07YV417S1		Unknown					0	0	0	0	0		0	0	0	0
+LFA-1A0003-USBK0A-S1A1	X002F67ETX	B082YYS6HZ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-1A0006-USWH0A-S2A1	X002IVX40N	B088K9NMZQ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-2A0001-USBK0A-S2A1	X002FP2STZ	B083LXKFKF		Unknown					0	0	0	0	0		0	0	0	0
+LFA-2A0002-USBK0A-S1A1	X002F679MF	B083351Y1M		Unknown					0	0	0	0	0		0	0	0	0
+LFA-2A0010-USBK0A-S1A1	X002HRLAGN	B085ZM6RF5		Unknown					0	0	0	0	0		0	0	0	0
+LFA-2A0011-USBK0A-S2A1	X002J3XYJV	B088DBSGJQ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-2A0017-USBK0A-S1A1	X002MG9CDH	B08GFZQ2CV		Unknown					0	0	0	0	0		0	0	0	0
+LFA-3D0001-CAGY1A-A1S3	X002FPDSDF	B083SHTZ4X	VANKYO MatrixPad S7 7 inch Tablet Case, Stand Folio Cover for VANKYO MatrixPad S7, Premuim PU Leather Slim Fit with Multiple Viewing Angles	New	19.99	No		Yes	200	200	0	0	200	328.23	0	0	0	0
+LFA-3D0001-USGY1A-A1S3	X002FPEOL5	B083K64JR3		Unknown					0	0	0	0	0		0	0	0	0
+LFA-3D0002-CAGY2A-A1S3	X002FF5P27	B083BVXKHP	VANKYO MatrixPad S8 8 inch Tablet Case, Stand Folio Cover for VANKYO MatrixPad S8, Premuim PU Leather Slim Fit with Multiple Viewing Angles	New	25.99	No		Yes	6	0	6	0	326	618.78	320	0	0	0
+LFA-3D0002-USGY2A-S1A1	X002F3YHMN	B082TTS6X7		Unknown					0	0	0	0	0		0	0	0	0
+LFA-3D0003-CAGY3A-A1S2	X002IY73A7	B088NPM1PL	VANKYO Tablet Case for MatrixPad S20 Tablet 10.1 inch, VANKYO MatrixPad S20 Tablet Slim Stand Folio Cover, Premium PU Leather Fit with Multiple Viewing Angles, Gray	New	32.99	No		Yes	200	200	0	0	400	1009.77	200	0	0	0
+LFA-3D0003-USGY3A-S2A1	X002FOOMV3	B083K7JGJQ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-3D0004-CAGY3A-A1S2	X002HNXQU5	B083S774XZ	VANKYO Tablet Case for MatrixPad S30 Tablet 10.1 inch, VANKYO MatrixPad S30 Tablet Slim Stand Folio Cover, Premium PU Leather Fit with Multiple Viewing Angles, Gray	New	29.99	No		Yes	264	247	1	15	544	1694.91	280	0	0	1
+LFA-3D0004-USGY3A-S1A1	X002FP32CR	B083S774XZ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-3D0006-CAGY3A-A1S2	X002JBFOWX	B0899TC1RM	VANKYO MatrixPad S10 10.1 inch Tablet Case, Stand Folio Cover for VANKYO MatrixPad S10, Premuim PU Leather Slim Fit with Multiple Viewing Angles	New	29.99	No		Yes	297	297	0	0	297	595.01	0	0	0	0
+LFA-3D0006-USGY3A-S2A1	B088M7GTNY	B088M7GTNY		Unknown					0	0	0	0	0		0	0	0	0
+LFA-3D0008-CAGY3A-A1S2	X002LEZYEB	B08DHLSD1L	VANKYO Tablet Case for MatrixPad S21 Tablet 10.1 inch, VANKYO MatrixPad S21 Tablet Slim Stand Folio Cover, Premium PU Leather Fit with Multiple Viewing Angles	New	29.99	No		Yes	0	0	0	0	360	1530.06	0	360	0	0
+LFA-3D0008-USGY3A-S1A1	X002LKEWYX	B08DKFPPV7		Unknown					0	0	0	0	0		0	0	0	0
+LFA-4D0001-CACR1A-A1S2	X002ID1YRB	B087D12T4M	(2 Pack) Vankyo Glass Screen Protector for Vankyo MatrixPad S7/Z1 Tablet 7 inch, Tempered Glass High Definition/Scratch Resistant	New	19.99	No		Yes	156	151	2	3	156	387.06	0	0	0	0
+LFA-4D0002-CACR2A-A1S3	X002FF9ZVJ	B083BXBQZP	(2 Pack) Vankyo Glass Screen Protector for Vankyo MatrixPad S8 Tablet 8 inch, Tempered Glass High Definition/Scratch Resistant	New	19.99	No		Yes	33	23	4	5	33	499.48	0	0	0	1
+LFA-4D0002-USCR2A-S1A1	X002FBKGN9	B083BMD4VJ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-4D0003-CACR3A-A1S2	X002IY73BL	B088NCTRHN	(2 Pack) Vankyo Glass Screen Protector for Vankyo MatrixPad S20 Tablet 10 inch, Tempered Glass High Definition/Scratch Resistant	New	19.99	No		Yes	385	365	0	20	385	590.59	0	0	0	0
+LFA-4D0003-USCR3A-S1A1	X002FVE1FD	B083K7FZBB		Unknown					0	0	0	0	0		0	0	0	0
+LFA-4D0004-CACR3-A1S2	X002ID1QVZ	B087CZ79TG	(2 Pack) Vankyo Glass Screen Protector for Vankyo MatrixPad S30 Tablet 10 inch, Tempered Glass High Definition/Scratch Resistant	New	19.99	No		Yes	255	170	1	84	255	589.28	0	0	0	0
+LFA-4D0004-USCR2A-S1A1	X002FZEG7R	B0842FSTSQ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-4D0005-CACR3A-A1S2	X002JBFUG3	B0899T5YZ7	Vankyo Glass Screen Protector for Vankyo MatrixPad S10 10 inch (2 Pack), Tempered Glass High Definition/Scratch Resistant	New	19.99	No		Yes	195	194	1	0	195	723.16	0	0	0	0
+LFA-4D0005-USCR3A -S2A1	B088M92ZC3	B088M92ZC3		Unknown					0	0	0	0	0		0	0	0	0
+LFA-4D0006-CACR3A-A1S2	X002LF05K3	B08DHWSD4C	(2 Pack) VANKYO Glass Screen Protector for VANKYO MatrixPad S21 Tablet 10.1 inch, Tempered Glass High Definition/Scratch Resistant	New	19.99	No		Yes	200	200	0	0	200	614.68	0	0	0	0
+LFA-4D0006-USCR3A-S1A1	X002LG6WK9	B08DJ58B5V		Unknown					0	0	0	0	0		0	0	0	0
+LFA-9A0003-UNBK0A-S1A1	X002J0P7S5	B083M47DHB		Unknown					0	0	0	0	0		0	0	0	0
+LFA-A10XXX-USWH0A-S2A2	X002I656H7	B086V8RPT6		Unknown					0	0	0	0	0		0	0	0	0
+LFA-A15H-USGY0A-S2A5	X002HBQNT3	B085DHR1N6		Unknown					0	0	0	0	0		0	0	0	0
+LFA-A15H-USGY0A-S2A7	X002HR91CX	B085GDH4FX		Unknown					0	0	0	0	0		0	0	0	0
+LFA-A15H-USGY0A-S2A8	X002HK0LXX	B085GDH4FX		Unknown					0	0	0	0	0		0	0	0	0
+LFA-A15H-USGY0A-S5A7	X002J940H5	B085GDH4FX		Unknown					0	0	0	0	0		0	0	0	0
+LFA-AK01-USBK0A-S1A1	X0028SCEON	B07V6XK947		Unknown					0	0	0	0	0		0	0	0	0
+LFA-AK04-USBK0A-S1A1	X002B7W15D	B07XRW8K8D		Unknown					0	0	0	0	0		0	0	0	0
+LFA-AK05-USBK0A-S1A1	X002CC9UM9	B07YB9FM8S		Unknown					0	0	0	0	0		0	0	0	0
+LFA-AK07-USBK0A-S1A1	X002DVCCSX	B081B3TNCP		Unknown					0	0	0	0	0		0	0	0	0
+LFA-AK08-USBK0A-S2A1	X002DRQHAV	B0819X75BY		Unknown					0	0	0	0	0		0	0	0	0
+LFA-AR09-USBKOA-S1A1	X002DU64UV	B081DM43WB		Unknown					0	0	0	0	0		0	0	0	0
+LFA-ASK26X-USWH0A-S2A1	X002LIIM37	B08DKYC4D5		Unknown					0	0	0	0	0		0	0	0	0
+LFA-BA04-USBU0A-S1A1	B07W8NCPD6	B07W8NCPD6		Unknown					0	0	0	0	0		0	0	0	0
+LFA-BA04-USPK0A-S1A1	B07W3SHSBK	B07W3SHSBK		Unknown					0	0	0	0	0		0	0	0	0
+LFA-C751-USBK0A-S1A1	X002I8E8KV	B0868MDSL5		Unknown					0	0	0	0	0		0	0	0	0
+LFA-C751-USBK0A-S2A1	X002JMMP83	B0868MDSL5		Unknown					0	0	0	0	0		0	0	0	0
+LFA-C751XX-USBK0A-S8A1	X002KZYFJL	B0868MDSL5		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CA01-USWH0A-S2A1	X0029PE321	B07TD4GK65		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CE28-UNBK0A-A1S2	X002LBCWPD	B08DFSPB14	HeimVision 30ft/10m Power Extension Cable DC 12V Power Adapter Extension Cord for Security Camera, Router, Black	New	19.99	No		Yes	180	178	0	2	180	405.91	0	0	0	0
+LFA-CE28-UNBK0A-S2A1	X002IE961V	B081Q8MZ57		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CM70-CARD0A-A1S1	X002DQCVLB	B07W22F9G3	VANKYO Gaming Headset CM7000 Pro PS4 headset with 7.1 Surround Sound Stereo Xbox One Headset, Gaming Headphones with Noise Canceling Mic & Memory Foam Ear Pads for PC, PS4, Xbox One, Nintendo Switch	New	59.99	No		Yes	16	7	9	0	4016	4947.58	4000	0	0	0
+LFA-CM70-CARD0A-A1S2	X002IWX75J	B07W22F9G3	VANKYO Gaming Headset CM7000 Pro PS4 headset with 7.1 Surround Sound Stereo Xbox One Headset, Gaming Headphones with Noise Canceling Mic & Memory Foam Ear Pads for PC, PS4, Xbox One, Nintendo Switch	New	49.99	No		Yes	1529	896	51	571	8029	4947.58	2500	4000	0	11
+LFA-CM70-USRD0A-A1S2	X0029JIRKV	B07W22F9G3		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CM70-USRD0A-S6A1	X002CFLCBX	B07W22F9G3		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CT08-UNBK0A-S2A2	X002IAS2GF	B084GRHD1R		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CT08-USBK0A-S1A1	X00291KLIZ	B07V5SWVY7		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CT13-USBK0A-S1A1	X002AOD40X	B07WYGX7FD		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CT14-USBK0A-S1A1	X002AML137	B07WXQ1ZYF		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CT17-USBK0A-S1A1	X002B78P9J	B07XRCZD35		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CT18-USBK0A-S1A1	X002B7TZJX	B07XL9G853		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CT21-USBK0A-S3A1	X002DUE025	B08161654D		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CT23-USBK0A-S1A1	X002DW7PLL	B081B3HCWQ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CT25-UNBK0A-S2A1	X002IBVQQH	B087BVR1K3		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CY75-USSV0A-A1S2	X002IPC63P	B087R2R8S6		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CY75-USWH0A-A1S3	X002MHTHXL	B08DTVXNWM		Unknown					0	0	0	0	0		0	0	0	0
+LFA-E20X-USBK0A-S1A1	X002KZUG1R	B088WMZSP5		Unknown					0	0	0	0	0		0	0	0	0
+LFA-E30X-USBK0A-S1A1	X002L05UWB	B089CV1N97		Unknown					0	0	0	0	0		0	0	0	0
+LFA-E31X-USBK0A-S1A1	X002KZNY1B	B089R3K2X6		Unknown					0	0	0	0	0		0	0	0	0
+LFA-F10XXX-USBN3A-S1A1	X002MMJ52T	B08GLXTTYV		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H136-USWH0A-S2A1	X0028N52PV	B07TY1C6KL		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H202A-USWH0A-V2S2	X002HREQJL	B085ZBDNB5		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H202A-USWH0A-V3S2	X002HRHGGB	B085ZMDF4B		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H202A-USWH0A-V4S2	X002IBU78P	B0861C1HQS		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H203-USWH0A-S1A2	X002C96SA9	B07YXPW7JJ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H203-USWH0A-S3A3	X002HRLOOL	B07YXPW7JJ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H203-USWH0A-S3A4	X002IHHTJ9	B07YXPW7JJ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H203-USWH0A-V1S3	X002HNMYRL	B085TJ5MBC		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H206X-USBK0A-V6S2	X002IPD0ZN	B0885WVDXJ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H206X-USBK0A-V7S2	X002IPPZRT	B0885TRS3S		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H206X-USBK0A-V8S2	X002IP41WJ	B0885TRS3S		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H211-USWH0A-A2S2	X0029S0XXB	B07W96YXQY		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H241-USWH0A-S2A2N	X002HNUE41	B07RKJDK65		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H243-USWH0A-S2A1	X002BNT1Y1	B07YB38CM8		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H243-USWH0A-S2A1N	X002LZMM95	B07YB38CM8		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H245-USBK0A-S1A2	X002D5K48T	B07ZGBMVJ9		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H302-CABK0A-A1S1	X002BNUXIJ	B07Y9ZS6FK	Heimvision HM302 3MP Security Camera, 2K HD Wifi Camera with Night Vision/PTZ/2-Way Audio, 2.4Ghz Wireless Home IP Indoor Camera for Pet/Baby/Elder/Dog Camera Monitor, Cloud Service, Compatible with Alexa	New	69.99	No		Yes	16	0	16	0	16	2044.94	0	0	0	0
+LFA-H302-USBK0A-A1S2	X002BMCMTX	B07YFW8SRN		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H302-USBK0A-A2S2	X002IA9WCX	B07YFW8SRN		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H311X-USWH0A-A1S2	X002I53FU3	B086DP6TTR		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H311X-USWH0A-A2S3	X002JWZPHL	B088LLVHL8		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H609XX-USBK0A-S1A1	X002GX2CYR	B084WWXPBS		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H609XX-USBK0A-S2A1	X002HB9WWN	B084WWXPBS		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H610-USBK0A-S1A1	X002BI0N5R	B07XZ1D226		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H612TX-USBK0A-S1A1	X002LJ03ZB	B089SVCW1X		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H612XX-USBK0A-S1A1	X002LEUO3R	B08DF94H7D		Unknown					0	0	0	0	0		0	0	0	0
+LFA-H823HP-USGN0A-S2A2	X002I6F5ZZ	B086TYM52B		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HA2XX-USWH0A-V1S2	X002J8PD77	B0893191H3		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HM132C-USWH0A-S3A3	X002M1IR9R	B08FJBN9Q9		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HM132X-CAWH0A-A1S2	X002I51DQ1	B086C5Q1KL	HeimVision HM132 Video Baby Monitor, Security Camera, 4.3'' Lcd Split Screen and Digital Cam, Baby Camera with Night Vision, 2-way Audio, VOX, 8 Lullabies, Feed-reminder, Extra Lens and Holder Included	New	119.99	No		Yes	358	350	0	8	658	3755.42	300	0	0	0
+LFA-HM132X-USWH0A-S2A1	X002I8TSPV	B086DJNPRX		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HM132X-USWH0A-S3A3	X002J7M85N	B0894FBZ68		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HM202A-CAWH0A-A1S2	X002HT9ORX	B085ZDZR85	Heimvision HM202A Security Camera, 3MP 2K Surveillance WiFi Camera with Night Vision/PTZ/Two-Way Audio,2.4Ghz 2K Wireless Home Indoor IP Camera for Pet/Baby/Elder/Dog Camera Monitor, Cloud Storage	New	64.99	No		Yes	992	957	32	3	2769	2279.44	1776	0	1	0
+LFA-HM241A-USWH0A-S3A1	X002IRUX9R	B088BGHCW6		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HM311X-CAWH0A-A1S2	X002HS7EKN	B085ZTLMG2	HeimVision HM311 Outdoor Security Camera Wireless, 3MP 1536P 2K WiFi Home Surveillance Camera with Night Vision, Floodlight, Siren Alarm, Two-Way Audio, Motion Detection, Waterproof, Cloud Service/ Microsd Support	New	79.98	No		Yes	691	542	111	37	3897	2926.4	408	1440	1358	1
+LFA-HM311X-CAWH0A-A1S3	X002KWZUKH	B085ZTLMG2	HeimVision HM311 Outdoor Security Camera Wireless, 3MP 1536P 2K WiFi Home Surveillance Camera with Night Vision, Floodlight, Siren Alarm, Two-Way Audio, Motion Detection, Waterproof, Cloud Service/ Microsd Support	New	89.99	No		Yes	0	0	0	0	0	2926.4	0	0	0	0
+LFA-HM341X-USWH0A-S2A1	X002KNGBOZ	B08CB4QL7L		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HM541X-USBK0A-S1A2	X002FMJ5PX	B083QGHQNQ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HMA2XX-CAWH0A-A1S2	X002JYBFH3	B08BCL3WDZ	HeimVision 1080P Home Security Camera, HMA2 Indoor Wireless WiFi Camera for Baby/Nanny/Pet with 2-Way Audio, Night Vision, Motion Detection	New	49.99	No		Yes	389	388	0	1	789	1513.35	0	400	0	0
+LFA-HMB1XX-CAWH0A-A1S3	X002I53YXB	B086DQ2655	HeimVision HMB1 Video Doorbell Camera, 1080P WiFi Wireless doorbell with Chime, Smart Doorbell with 9600mAh Battery, PIR Motion Detection, 2-Way Audio, IP65 Waterproof, Night Vision, Cloud Service	New	124.99	No		Yes	351	343	1	7	671	2023.64	320	0	0	0
+LFA-HMB1XX-USWH0A-S4A1	X002IFQKT1	B086GCQ52R		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HMD2-USWH0A-A1S2	X0027TIMYT	B07T2Q7WJ5		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HMD2-USWH0A-S7A1N	X002D725VL	B07T2Q7WJ5		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HMD3XX-CAWH0A-A1S2	X002JRNQX1	B088ZVXNBC	HeimVision HMD3 Wireless Security Camera, Rechargeable Battery Powered Outdoor Camera, 1080P Solar WiFi Home Camera with 2-Way Audio, Night Vision, Waterproof, Motion Detection, Cloud Service	New	99.99	No		Yes	407	405	0	2	647	1059.1	0	240	0	0
+LFA-HMD3XX-USWH0A-S1A1	X002K0PHMF	B088ZVXNBC		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HMD3XX-USWH0A-S2A1	X002K1SHC1	B089DC59ZV		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HMW1-USBK3A-V1S2	X002IRPFUT	B088BWLT2H		Unknown					0	0	0	0	0		0	0	0	0
+LFA-HMW10A-CABK3A-A1S2	X002IRTF4B	B088BQSWJS	VANKYO 1080P Webcam with Microphones, HMW1 HD USB Web Camera for Streaming Computer, Laptop, Desktop, Conference, Study, Video Calling, Skype, YouTube, Zoom	New	39.99	No		Yes	280	240	17	23	280	913.91	0	0	0	0
+LFA-K300-USBU0A-S1A5	X002M2F4MT	B08FB5WMJB		Unknown					0	0	0	0	0		0	0	0	0
+LFA-K300-USBU0A-S4A1	X002CV68LB	B07YXT8253		Unknown					0	0	0	0	0		0	0	0	0
+LFA-K300-USPK0A-S1A5	X002M1UCEP	B08FB6892C		Unknown					0	0	0	0	0		0	0	0	0
+LFA-K500-USBU0A-S1A1	X002AFMJPX	B07WRKF3H5		Unknown					0	0	0	0	0		0	0	0	0
+LFA-K500-USBU0A-S2A1	X002DLZUDR	B07WRKF3H5		Unknown					0	0	0	0	0		0	0	0	0
+LFA-K500-USPK0A-S1A1	X002AGKD3R	B07WNQB65T		Unknown					0	0	0	0	0		0	0	0	0
+LFA-K500-USPK0A-S2A1	X002DOYRM9	B07WNQB65T		Unknown					0	0	0	0	0		0	0	0	0
+LFA-K600-USBU0A-S1A1	X002APFJ05	B07X2N6YR8		Unknown					0	0	0	0	0		0	0	0	0
+LFA-K800-USBU0A-S1A1	X002CQ2EMN	B07ZFT594Y		Unknown					0	0	0	0	0		0	0	0	0
+LFA-KYHD-USDG0A-S1A1	X002KZZEP5	B08CGTBN6Z		Unknown					0	0	0	0	0		0	0	0	0
+LFA-KYHD-USWH0A-S1A1	X002L04GMV	B08CGK75DM		Unknown					0	0	0	0	0		0	0	0	0
+LFA-MM3C-USBK0A-S3A2	X002F1EWUR	B082186KCS		Unknown					0	0	0	0	0		0	0	0	0
+LFA-MM3C-USBK0A-S5A2	X002FNG055	B082186KCS		Unknown					0	0	0	0	0		0	0	0	0
+LFA-MM40-USBK0A-S3A2	X002F1EXAL	B0821FV3F6		Unknown					0	0	0	0	0		0	0	0	0
+LFA-MM40-USBK0A-S5A2	X002I6MFZN	B0821FV3F6		Unknown					0	0	0	0	0		0	0	0	0
+LFA-MM4C-USBK0A-S4A1	X002IAITLX	B0877YNTX2		Unknown					0	0	0	0	0		0	0	0	0
+LFA-MM4UXX-UNBK0A-S2A1	X002LMATJD	B08D6JSXQC		Unknown					0	0	0	0	0		0	0	0	0
+LFA-MM4UXX-UNBK0A-S2A3	X002LNRIJL	B08DY5FP1T		Unknown					0	0	0	0	0		0	0	0	0
+LFA-MM5C-CABK0A-S2A2	X002H8D5XD	B0856XV1VD	VanTop Moment 5C Native 4K 60fps WiFi Action Camera with Touch Screen, 20MP Super Photo, EIS, 30M Waterproof Underwater Sports Camera with 2Pcs Rechargeable Batteries and Gopro Compatible Accessories	New	99.99	No		Yes	111	96	15	0	483	3006.04	372	0	0	0
+LFA-MM6S-USBK0A-S2A1	X002HZYKMB	B085ZWJGHT		Unknown					0	0	0	0	0		0	0	0	0
+LFA-MT01-USSV0A-S1A1	B07VXGM4KG	B07VXGM4KG		Unknown					0	0	0	0	0		0	0	0	0
+LFA-NBM3XX-USGY0A-S1A1	X002LAX94R	B08C7VLMJD		Unknown					0	0	0	0	0		0	0	0	0
+LFA-NINJAX-USCA0A-S2A1	X002LM7SCJ	B08DNSPKXD		Unknown					0	0	0	0	0		0	0	0	0
+LFA-PH06-CAGY0A-A1S3	X002F6RGWD	B0834X4DMV	VANKYO Tablet Case for MatrixPad Z10 Tablet 10.1 inch, VANKYO MatrixPad Z10 Tablet Slim Stand Folio Cover, Premium PU Leather Fit with Multiple Viewing Angles	New	32.99	No		Yes	337	278	6	53	417	1246.73	0	0	80	0
+LFA-PRB02X-USWH0A-A1S2	X002M7F37P	B08FXL15NB		Unknown					0	0	0	0	0		0	0	0	0
+LFA-PRD01X-CAWH0A-A1S2	X002MGDS3H	B08GFKC4WR	HeimVision HM612 4MP Security Camera Outdoor, Wi-Fi Wireless Home Surveillance Camera with Night Vision, Floodlight, Siren Alarm, Two-Way Audio, Motion Detection, Waterproof, Cloud Service/ Microsd Support	New	109.99	No		Yes	0	0	0	0	576	3951.74	0	576	0	0
+LFA-PRD01X-USWH0A-A1S2	X002LNMWLZ	B08DKX6NPH		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S05A-CABK0A-A1S1	X002LMBUM3	B08BLJGHSC	Earbuds	New	71.99	No		Yes	0	0	0	0	1440	602.22	1440	0	0	0
+LFA-S05A-CABK0A-A1S2	X002LM8PGR	B08BLJGHSC	Earbuds	New	72.00	No		Yes	0	0	0	0	0	602.22	0	0	0	0
+LFA-S05AXX-USBK0A-S2A1	X002KTY281	B08BLJGHSC		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S10FAX-USBK3A-S3A1	X002I9PIBX	B0869DPZJ3		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S10FAX-USBK3A-S4A1	B0869DPZJ3	B0869DPZJ3		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S20H-CAGY4A-A1S2	X002FDVRPN	B083BT92M1	VANKYO MatrixPad S20 10 inch Tablet, Octa-Core Processor, 3GB RAM, 32GB ROM, Android 9.0 Pie, IPS HD Display, Bluetooth 5.0, 5G WiFi, GPS, USB C,Metal Body, Gray	New	199.99	No		Yes	783	712	0	68	2283	3250.05	1500	0	0	3
+LFA-S20H-USGY4A-S1A1	X002FI4G51	B083J7DVY1		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S20H-USGY4A-S2A1	B083J7DVY1	B083J7DVY1		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S20I-CAGY4A-A1S2	X002L8OCFJ	B08CZK551C	Vankyo MatrixPad S20 Tablet, Android 9.0 Pie, 3 GB RAM, 64 GB Storage, Octa-Core Processor, 10 inch Android Tablets, 1280x800 IPS Display, 13MP Rear Camera,2.4/5G WiFi, HDMI, GPS, Gray	New	239.99	No		Yes	0	0	0	0	1500	3056.84	1000	500	0	0
+LFA-S20I-USGY4A-S3A1	B0869BWJ8L	B0869BWJ8L		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S20I-USGY4A-S4A1	X002L3ZTVF	B0869BWJ8L		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S21FAX-CABU3A-A1S2	X002LEWH87	B087QDM3P6	VANKYO MatrixPad S21 10 inch Android Tablet, Octa-Core Processor, Android 9.0 Pie, 2GB RAM, 32GB Storage, 1280x800 IPS Display, Bluetooth 5.0, 5G Wi-Fi, GPS, Type C Port, Blue	New	174.99	No		Yes	155	152	0	3	455	3770.66	0	300	0	0
+LFA-S300-USBU0A-S1A1	X002B4DKUB	B07XSF1MNQ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S30H-CASV4A-A1S2	X002FE5DAH	B083BTHGDR	Vankyo MatrixPad S30 10 inch Android Tablet, Octa-Core Processor, Android 9.0 Pie, 3GB RAM, 32GB Storage, 13MP Rear Camera, 1920x1200 IPS Full HD Display, Bluetooth 5.0, 5G Wi-Fi, GPS, Type C Port	New	239.99	No		Yes	734	695	30	0	2234	3490.44	1500	0	0	9
+LFA-S30H-USSV4A-S1A1	X002FDXSWD	B083BRVG28		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S30H-USSV4A-S1A1-fbm	X002KJ41V9	B083BRVG28		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S310-USBK1A-S1A1	X0027L4A1V	B07T11J2VW		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S330-USBU0A-S1A1	X002CAWVDB	B07YMPP87X		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S330-USRD0A-S1A1	X002C7LKK9	B07YMSDZYG		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S500-USBK0A-S1A1	X002BSPJ01	B07Y9YMVRG		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S510-USBK0A-S1A1	X002CODGYZ	B07Z3M7F7X		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S550-USBK0A-S1A2	X002GUT5HR	B084WSWHBK		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S550-USBK0A-S1A3	X002IP3NUZ	B08868QT3M		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S650-USBK6A-S1A1	X002A1XRBR	B07WHRJ99S		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S660-USBK6A-S1A1	X002AUOU2D	B07X24N2QL		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S700-USCA0A-S2A1	X002D2PHFR	B07ZM8MVKX		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S700-USCA0A-S8A1	X002M7D9OJ	B07ZM8MVKX		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S7FA-CABK1A-A1S3	X002ELFVC1	B081YW3W18	VANKYO MatrixPad S7 7 inch Android Tablet, Android 9.0 Pie, 2GB RAM 32GB Storage, Quad-Core Processor, IPS HD Display, Wi-Fi, Bluetooth 4.2, GPS, Black	New	109.99	No		Yes	1136	1010	63	59	2936	1175.28	1500	300	0	4
+LFA-S7FA-USBK1A-NGS2A1	X002IFQNH5	B0821B76WY		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S7FA-USBK1A-S2A1	X002F81Y5V	B0821B76WY		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S7FA-USBK1A-S5A1	X002K6VPOX	B0821B76WY		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S7FA-USPK1A-S1A3	X002HMNJUX	B085TKK4S4		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S7FA-USPK1A-S1A4	X002M2EHYP	B085TKK4S4		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S7FK-CABU1A-A1S2	X002JCCMGN	B089DBMPCM	Vankyo MatrixPad S7 Kids Tablet 7 inch, 2 GB RAM, 32GB ROM, Kidoz Pre Installed, IPS HD Display, WiFi Android Tablet, Blue	New	119.99	No		Yes	0	0	0	0	322	2776.62	322	0	0	0
+LFA-S7FK-CAPK1A-A1S2	X002JCCMFT	B089DB76ZJ	Vankyo MatrixPad S7 Kids Tablet 7 inch, 2 GB RAM, 32GB ROM, Kidoz Pre Installed, IPS HD Display, WiFi Android Tablet, Pink	New	119.99	No		Yes	0	0	0	0	322	2776.62	322	0	0	0
+LFA-S7FK-USBU1A-S3A1	B089DCH39Y	B089DCH39Y		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S7FK-USGN1A-S3A1	B089DF7PP1	B089DF7PP1		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S7FK-USGN1A-S4A1	X002K85WK9	B089DF7PP1		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S7FK-USPK1A-S3A1	B089DH5B6C	B089DH5B6C		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S7FK-USPK1A-S4A1	X002LF0HSX	B089DH5B6C		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S8FA-CABK2A-A1S2	X002EKNHXH	B0813VL2K8	Vankyo MatrixPad S8 8 inch Android Tablet, Android 9.0 Pie, 1280x800 IPS Display, 2GB RAM 32GB ROM, 5MP Rear Camera, IPS HD Display, Wi-Fi, BT 4.2, GPS, FM, GMS-Certified, Black	New	129.99	No		Yes	1230	1176	17	37	3048	1510.72	1812	0	6	0
+LFA-S8FA-USBK2A-S1A1	X002EOHX4H	B0868RQYTC		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S8FA-USBK2A-S1A2	X002J5OC7R	B0868RQYTC		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S8FKXX-CABU2A-S1A1	X002LEYMVR	B08DH9JFCV	VANKYO MatrixPad S8 Kids Tablet 8 inch, 32GB ROM, Android 9.0 Pie, Kidoz Pre Installed, IPS HD Display, WiFi Android Tablet, Kid-Proof, Blue	New	199.99	No		Yes	0	0	0	0	300	2993.92	300	0	0	0
+LFA-S8FKXX-CAPK2A-S1A1	X002LE2MOV	B08DHNLMTM	VANKYO MatrixPad S8 Kids Tablet 8 inch, 32GB ROM, Android 9.0 Pie, Kidoz Pre Installed, IPS HD Display, WiFi Android Tablet, Kid-Proof, Pink	New	199.99	No		Yes	0	0	0	0	300	2993.92	300	0	0	0
+LFA-S8FKXX-USBU2A-S1A1	X002LVBCBN	B08DHRX9JN		Unknown					0	0	0	0	0		0	0	0	0
+LFA-S8FKXX-USPK2A-S1A1	X002LFYLY9	B08DK8S4PW		Unknown					0	0	0	0	0		0	0	0	0
+LFA-SE01-CABK0A-S2A1	X002AS0F8X	B07X6DKWYW	Solar Panel Compatible with HeimVision HMD2 Rechargeable Battery Security Camera, Waterproof 3.2W/ 5.5V Solar Panel with 13ft/ 4m USB Cable, Support Continuously Supply Power for Security Camera	New	49.99	No		Yes	0	0	0	0	0	2840.04	0	0	0	0
+LFA-SE01-USBK0A-A1S2	X0028JG65Z	B07TMXZF5Q		Unknown					0	0	0	0	0		0	0	0	0
+LFA-SP350X-USRD0A-S3A2	X002IBVSSX	B086V39SGX		Unknown					0	0	0	0	0		0	0	0	0
+LFA-SP350X-USYE0A-S3A1	X002IS05IZ	B087BYBWV3		Unknown					0	0	0	0	0		0	0	0	0
+LFA-TM01-USCR1A-S2A1	B07VX5NTRZ	B07VX5NTRZ		Unknown					0	0	0	0	0		0	0	0	0
+LFA-TM04-CACR4A-A1S2	X002F6RH0J	B0834WX32L	(2 Pack) VANKYO Glass Screen Protector for VANKYO MatrixPad Z10 Tablet 10.1 inch, Tempered Glass High Definition/Scratch Resistant	New	19.99	No		Yes	3	0	3	0	323	607.63	320	0	0	0
+LFA-X180-CABK0A-A1S1	X002KY1635	B087423FSS		Unknown					0	0	0	0	1440		0	1440	0	0
+LFA-X180-USBK0A-S1A1	X002I8E8DN	B087423FSS		Unknown					1	1	0	0	1		0	0	0	0
+LFA-X200-CABK0A-A1S1	X002HFJBA7	B07ZQCST89	True Wireless Earbuds, VANKYO X200 Bluetooth 5.0 Earbuds in-Ear TWS Stereo Headphones with Smart LED Display Charging Case IPX8 Waterproof 120H Playtime Built-in Mic with Deep Bass for Sports Work	New	72.99	No		Yes	1398	50	98	1224	5173	584.03	3500	0	275	26
+LFA-X200-CABK0A-A1S2	X002J0592T	B07ZQCST89	True Wireless Earbuds, VANKYO X200 Bluetooth 5.0 Earbuds in-Ear TWS Stereo Headphones with Smart LED Display Charging Case IPX8 Waterproof 120H Playtime Built-in Mic with Deep Bass for Sports Work	New	72.99	No		Yes	1393	0	3	1390	12893	584.03	3000	8500	0	0
+LFA-X200-CABL0A-A1S1	X002M791ZZ	B08FSSGRB3	VANKYO Wireless Earbuds X200 in-Ear Bluetooth 5.0 Earphones	New	79.99	No		Yes	0	0	0	0	600	370.35	0	600	0	0
+LFA-X200-USBK0A-A1S3	X002H1JVU1	B07ZQCST89		Unknown					0	0	0	0	0		0	0	0	0
+LFA-X200-USBK0A-S2A1	X002E42XK1	B07ZQCST89		Unknown					0	0	0	0	0		0	0	0	0
+LFA-X200-USBU0A-AS3	X002M5LP29	B08FSSGRB3		Unknown					0	0	0	0	0		0	0	0	0
+LFA-X400XX-USBK0A-A1S3	X002MKU5GB	B08FLGHKHB		Unknown					0	0	0	0	0		0	0	0	0
+LFA-X95M-USBK0K-S1A1	X0029FFHYJ	B07VPPLZQ4		Unknown					0	0	0	0	0		0	0	0	0
+LFA-X95M-USBK0L-S1A1	X0029J0RHH	B07VLGPY34		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AA-USBK1A	X0028JO189	B07PXB4F7N		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AA-USBU1A-S2A1	X002E0NLIN	B07ZYVLQBX		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AAUP-CABK1A-A1S2	X002LWTUKR	B08CRSSF6G	Vankyo MatrixPad Z1 7 inch Android Tablet, Android 10.0, 32GB Storage, Quad-Core Processor, IPS HD Display, Wi-Fi, Bluetooth, Black	New	99.99	No		Yes	0	0	0	0	1800	1335.55	600	1200	0	0
+LFA-Z1AAUP-USBK1A-S3A1	B08BLGFZBS	B08BLGFZBS		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AAUP-USBK1A-S4A1	X002KWQRD1	B08BLGFZBS		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AK-USBU1A-A1S1	B07VFWRVPS	B07VFWRVPS		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AK-USBU1A-A1S4	X002LKKXDH	B07VFWRVPS		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AK-USBU1A-NG1S1	X002IFNX5F	B07VFWRVPS		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AK-USBU1A-UPA1S1	X002L9Q1ST	B07VFWRVPS		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AK-USPK1A-A1S4	X002LKHLWD	B07VM866DV		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AK-USPK1A-S1A1	X0029KLGDF	B07VM866DV		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AK-USPK1A-S2A1	B07VM866DV	B07VM866DV		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AK-USPK1A-UPA1S1	X002L9NHQN	B07VM866DV		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AKUP-CABU1A-A1S2	X002LB6DE9	B08CZ65T3V	Vankyo MatrixPad Z1 Upgrade Kids Tablet 7 inch, 32GB ROM, Kidoz Pre Installed, IPS HD Display, WiFi Android Tablet, Blue	New	109.99	No		Yes	0	0	0	0	420	2735.49	420	0	0	0
+LFA-Z1AKUP-CAPK1A-A1S2	X002LB6DBR	B08CYY4QWJ	Vankyo MatrixPad Z1 Upgrade Kids Tablet 7 inch, 32GB ROM, Kidoz Pre Installed, IPS HD Display, WiFi Android Tablet, Pink	New	109.99	No		Yes	0	0	0	0	420	2735.49	420	0	0	0
+LFA-Z1AKUP-USBU1A-S3A1	X002LEEN9N	B08CZFJSLS		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AKUP-USGN1A-S3A1	X002K53ECZ	B08BLK6SSL		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z1AKUP-USPK1A-S3A1	X002LESQFF	B08CZN2BSD		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z4AA-USBK4A-NGS1A1	X002IFTGY7	B07TBM1SVR		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z4AA-USBK4A-S1A1	B07TBM1SVR	B07TBM1SVR		Unknown					0	0	0	0	0		0	0	0	0
+LFA-Z4BB-USBK4A-S1A1	X0029A62GL	B07TYCN1PG		Unknown					0	0	0	0	0		0	0	0	0
+LFA-ZTBB-CABK4A-A1S2	X002EHJIUB	B07ZRFSQGZ	VANKYO MatrixPad Z10 Tablet, Android 9.0 Pie, 3 GB RAM, 32 GB Storage, 10 inch Android Tablets, 1920x1200 IPS Display, 13MP Rear Camera, Quad-Core Processor, 2.4/5G WiFi, HDMI, GPS, Gray	New	199.99	No		Yes	796	727	46	23	2204	2612.75	1008	0	400	0
+LFA-s21fax-usBU3a-s1a1	X002KZUCD9	B0861QVWY5		Unknown					0	0	0	0	0		0	0	0	0
+LFB-1A0006-CAWH0A-S2A1	X002IQLL8Z	B0876NSF2W	SNAPTAIN A10 Mini Drone Battery 3.7V 380mAh Modular Rechargeable Li-po Battery (2 Piece) with 2 in 1 Charging Cables for SNAPTAIN A10 Foldable FPV WiFi Drone	New	40.99	No		Yes	0	0	0	0	50	59.98	50	0	0	0
+LFB-2A0011-CABK0A-S2A1	X002IQM4JF	B0876NGJRC	SNAPTAIN Drone Spare Parts Accessories Kits for SNAPTAIN A10 Foldable Mini Drone	New	20.99	No		Yes	0	0	0	0	50	93.73	50	0	0	0
+LFB-A10XXX-CAWH0A-S2A1	X002HV2CTD	B085ZRY9FD	SNAPTAIN A10 Mini Drone With 720P HD Camera Foldable FPV WiFi RC Nano Quadcopter w/Voice Control Trajectory Flight/Altitude Hold/G-Sensor/3D Flips/Headless Mode/One Key Return/2 Modular Batteries/App Control	New	109.99	No		Yes	370	366	1	3	1378	3307.56	1008	0	0	0
+LFB-A15H-CAGY0A-S2A1	X002CRV6XF	B07ZJD3X2P	SNAPTAIN A15H Foldable FPV WiFi Drone w/Voice Control/120�Wide-Angle 720P HD Camera/Trajectory Flight/Altitude Hold/G-Sensor/3D Flips/Headless Mode/One Key Return/2 Modular Batteries/App Control	New	199.99	No		Yes	767	717	44	6	1079	4664.09	312	0	0	0
+LFB-AK02-CABK0A-S1A1	X002IPZP0L	B0876QVZF2	SNAPTAIN Spare Parts Kits for SP650 Drone, with Propellers, Landing Gears, Propeller Guards, Screwdriver, Screws	New	30.99	No		Yes	0	0	0	0	50	393.95	50	0	0	0
+LFB-AK07-CABK0A-S2A1	X002IQMLHP	B087CP1QLD	SNAPTAIN Drone Spare Parts Accessories Kits for SNAPTAIN SP500 GPS Foldable FPV Drone	New	26.99	No		Yes	40	40	0	0	140	917.68	100	0	0	0
+LFB-CT12-CABK0A-S1A1	X002IQ4RRH	B0876QR4BM	Battery Kit for SNAPTAIN SP650 Drone, 2-Pack 3.7V 1000mAh Li-Po Battery + 1-Pack 2 in 1 USB Charging Cable	New	40.99	No		Yes	0	0	0	0	50	281.2	50	0	0	0
+LFB-CT23-CABK0A-S2A1	X002IQLP5J	B087CNQDQ8	SNAPTAIN SP500 GPS Drone Battery 7.4V 1000mAh Modular Rechargeable Li-po Battery (2 Piece) with 2 Charging Cables for SNAPTAIN SP500 GPS Foldable FPV WiFi Drone	New	41.99	No		Yes	39	39	0	0	139	609.76	100	0	0	0
+LFB-H136-CAWH0A-S2A1	X0028WQTUJ	B07V27W6PB	HeimVision HM136 Video Baby Monitor, Security Camera, 5? Screen, 720P HD, Wide Angle, Safe Wireless Connection, Two-Way Audio, Night Vision, Multi-Camera, Temperature & Sound Alarm, Lullaby, Pan/Tilt/Zoom Baby Camera	New	209.99	No		Yes	47	0	47	0	447	3842.44	400	0	0	0
+LFB-H13C-CAWH0A-S1A1	X002BJHXA9	B07WPBMTNL	HeimVision HM13C Security Camera for Video Baby Monitor, Only Compatible with HeimVision HM136 Baby Monitor, 720P Surveillance Camera Indoor IP Camera with Night Vision	New	79.99	No		Yes	3	0	3	0	3	3884.55	0	0	0	0
+LFB-H211-CAWH0A-S1A1	X0028N6E6H	B07TTSJWGK	HeimVision HM211 Outdoor Security Camera Wireless, 1080P WiFi Surveillance Camera with Night Vision, Floodlight, Siren Alarm, Two-Way Audio, Motion Detection, Waterproof, Cloud Service/Microsd Support	New	109.99	No		Yes	1	0	1	0	1	3417.03	0	0	0	0
+LFB-H610-CABK0A-S1A1	X002MDJJXD	B08G4GYX1X	VanTop H610 10" 2.5K Mirror Dash Cam for Cars with Full Touch Screen, Waterproof Backup Camera Rear View Mirror Camera, Enhanced Night Vision with Sony Starvis Sensor, Parking Assistance	New	199.99	No		Yes	0	0	0	0	192	3080.28	192	0	0	0
+LFB-HM206X-CABK0A-S1A1	X002LR9UOX	B08864LR5M	TeamMe Mini Spy Camera, HM206 1080P Wireless WiFi Hidden Camera for Covert Home Security Surveillance, Small Nanny Cam with Motion Detection, Night Vision(32GB SD Card Included)	New	59.99	No		Yes	0	0	0	0	400	440.98	400	0	0	0
+LFB-HM206X-CABK0A-S2A1	X002IPQ5I7	B0885TRS3S	Mini Spy Camera, 1080P Full HD WiFi Hidden Camera with Audio/Live Stream/Night Vision/Motion Detection	New	9.99	No		Yes	0	0	0	0	500	345.6	500	0	0	0
+LFB-HMD2-USWH0A-S2A1	X002AGK3B9	B07WH1C8MM	HeimVision HMD2 Wireless Rechargeable Battery-Powered Security Camera, 1080P Video with 2-Way Audio, Night Vision, Waterproof Home Indoor/Outdoor WiFi Cameras with Cloud Service	New	109.99	No		Yes	643	632	5	6	1923	1131.04	0	1280	0	0
+LFB-MM4UXX-CABK0A-S3A1	X002M620WH	B08FQLC2LQ	VanTop Moment 4U 4K Action Camera w/Gopro Compatible Carrying Case, Remote Control, 16MP Sony Sensor, 30M Waterproof Action Camera w/Gopro Compatible Accessories,2 Batteries, 170�Ultra Wide Angle	New	99.99	No		Yes	0	0	0	0	200	2128.52	200	0	0	0
+LFB-MT01-CASV0A-A1S1	X0029FOPOR	B07VXHJTDD	VANKYO Adjustable Tablet Stand, Compatible with iPhone, iPad Mini, Samsung Galaxy, VANKYO MatrixPad Z1, Z4 & Z4 pro, and More Tablets, 270� Adjustable Tablet Holder for 4.0-10.1 inch Tablets, E-readers and Phones - Silver	New	15.99	No		Yes	1	1	0	0	1	786.25	0	0	0	0
+LFB-S10FAX-CABK3A-A1S2	X002IAA0WJ	B086P6SX8B	VANKYO MatrixPad S10 10 inch Tablet, Android 9.0 Pie, 32GB ROM, 2GB RAM, 8MP Rear Camera, HD IPS Display, Quad-Core Processor, Wi-Fi, Bluetooth 4.2, GPS, FM, OTG, USB Type-C Charging, Slate Black	New	159.99	No		Yes	785	782	0	1	796	3034.56	0	0	11	2
+LFB-S350-CABU0A-S1A1	X002FGMGFF	B083DZKPG5	SNAPTAIN SP350 Mini Drone for Kids/Beginners, Portable Throw'n Go RC Quadcopter with 3 Batteries, Circle Flying, 3D Flip, Speed Adjustment & Altitude Hold, Great Gift/Toys for Boys & Girls	New	59.99	No		Yes	3	0	3	0	291	1351.77	288	0	0	0
+LFB-S500-CABK0A-S2A1	X002IQBJUZ	B087CL18SJ	SNAPTAIN SP500 Foldable GPS FPV Drone with 1080P HD Camera Live Video for Beginners, RC Quadcopter with GPS Return Home, Follow Me, Gesture Control, Circle Fly, Auto Hover & 5G WiFi Transmission	New	300.99	No		Yes	439	427	0	11	967	7870.71	528	0	0	1
+LFB-S650-CABK6A-S1A1	X002FA129R	B082W9TB9K	SNAPTAIN SP650 1080P Drone with Camera for Adults 1080P HD Live Video Camera Drone for Beginners w/Voice Control, Gesture Control, Circle Fly, High-Speed Rotation, Altitude Hold, Headless Mode	New	199.99	No		Yes	488	487	0	0	1736	8796.41	1248	0	0	1
+LFB-X180XX-CABK0A-S2A2	X002MFE6HZ	B08G4G59ZC	VANKYO Wireless Earbuds X180 in-Ear Bluetooth 5.0 Earphones for iPhone Android with USB-C Charging Case, IPX7 Waterproof Sport Headphones with Mic, Touch Control for Gym, Home, Office, Single/Twin	New	89.99	No		Yes	0	0	0	0	144	481.78	0	144	0	0
+LFB-Z1AK-CABU1A-A1S1	X002BKQSNB	B07WT9NXNS	Vankyo MatrixPad Z1 Kids Tablet 7 inch, 32GB ROM, Kidoz Pre Installed, IPS HD Display, WiFi Android Tablet, Blue	New	129.99	No		Yes	2	0	2	0	2	2397.92	0	0	0	0
+LFB-Z1AK-CAPK1A-A1S1	X002AWSWRP	B07WV8GZST	Vankyo MatrixPad Z1 Kids Tablet 7 inch, 32GB ROM, Kidoz Pre Installed, IPS HD Display, WiFi Android Tablet, Pink	New	129.99	No		Yes	3	0	3	0	3	2468.55	0	0	0	0
+LT-C751-CABK0A-V1S1	X002KVAOBD	B0868MDSL5	Hybrid Active Noise Cancelling Headphones, VANKYO C751 Over Ear Wireless Bluetooth Headphone with CVC 8.0 Mic, Deep Bass, Hi-Fi Sound, Comfortable Protein Earpads, 30H Playtime for Travel/Work	New	89.99	No		Yes	840	587	14	238	3048	3063.73	528	1680	0	1
+LT-C751-CABK0A-V1S2	X002M679YV	B0868MDSL5	Hybrid Active Noise Cancelling Headphones, VANKYO C751 Over Ear Wireless Bluetooth Headphone with CVC 8.0 Mic, Deep Bass, Hi-Fi Sound, Comfortable Protein Earpads, 30H Playtime for Travel/Work	New	89.99	No		Yes	0	0	0	0	0	3063.73	0	0	0	0
+V5-M5AB-Z62Y	X002LMBSHF	B08BLJGHSC	Earbuds	New	73.99	No		Yes	0	0	0	0	0	602.22	0	0	0	0

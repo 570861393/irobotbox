@@ -1,0 +1,56 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+B07Z52FDF4	B07Z52FDF4	B07Z52FDF4		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PS04-USWH3A-A2S4	B07M8L799V	B07M8L799V		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PS05-USWH4A-A2S3	B07LH34LW8	B07LH34LW8		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-B101-USWH0A-A1S2	X0027FBSHL	B07RGGCJB4		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-C10-USBU0A-A1S2	B07X3TK1P1	B07X3TK1P1		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-C100-USBU0A-A1S2	B07X3TK1P1	B07X3TK1P1		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L430-USWH0A-A2S3	X00294AIP3	B07VKL7YPG		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-LS30-USWH0A-A1S4	B078KF8CSX	B078KF8CSX		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-LS30-USWH0A-A2S2	B078KF8CSX	B078KF8CSX		Unknown					0	0	0	0	0		0	0	0	0
+CPJV-C480-USSV0A-A1S2	X0027BRXSN	B07SPCMZ3S		Unknown					0	0	0	0	0		0	0	0	0
+CPJV-C680-USSV0A-A1S2	B07XD25GCJ	B07XD25GCJ		Unknown					0	0	0	0	0		0	0	0	0
+CPJV-EX20-USWH0A-A1S3	B07Z52FDF4	B07Z52FDF4		Unknown					0	0	0	0	0		0	0	0	0
+CSKH-A80S-USWH0A-A1S3	B07MZ2WFLJ	B07MZ2WFLJ		Unknown					0	0	0	0	0		0	0	0	0
+CTAK-Z1AA-USBK1A-A1S1	X0023K85JT	B07PXB4F7N		Unknown					0	0	0	0	0		0	0	0	0
+CTAK-Z1AA-USBK1A-A1S2	B07PXB4F7N	B07PXB4F7N		Unknown					0	0	0	0	0		0	0	0	0
+KCA-5A005-USWH5A-S1A1	X002L0PZWV	B08BLNBVNL		Unknown					0	0	0	0	0		0	0	0	0
+KCA-A60C-USWH0A-S2A1	B07Y5WYQT1	B07Y5WYQT1		Unknown					0	0	0	0	0		0	0	0	0
+KCA-A80S-USWH0A-A1S4-FBM	X002KGA481	B07MZ2WFLJ		Unknown					0	0	0	0	0		0	0	0	0
+KCA-A80S-USWH0A-A1S5-FBM	X002KZTRRV	B07MZ2WFLJ		Unknown					0	0	0	0	0		0	0	0	0
+KCA-C100XX-USWH2A-S1A1	B088N6ZHF1	B088N6ZHF1		Unknown					0	0	0	0	0		0	0	0	0
+KCA-C100XX-USWH2A-S2A1	X002JR0H9R	B088N6ZHF1		Unknown					0	0	0	0	0		0	0	0	0
+KCA-EX2PDX-USWH2A-S1A1	B07Z52FDF4	B07Z52FDF4		Unknown					0	0	0	0	0		0	0	0	0
+KCA-EX2PDX-USWH2A-S2A1	X002FNHQLH	B07Z52FDF4		Unknown					0	0	0	0	0		0	0	0	0
+KCA-G300-USBK0A-S1A1	B07ZRPXDRY	B07ZRPXDRY		Unknown					0	0	0	0	0		0	0	0	0
+KCA-GD100X-USWH0A-S1A1	X002KQ4FWH	B08CDVM6HR		Unknown					0	0	0	0	0		0	0	0	0
+KCA-L410XX-USWH2A-S1A1	X002HFRQBX	B085HMVXNP		Unknown					0	0	0	0	0		0	0	0	0
+KCA-L430W-USWH2A-S1A2	X002KZHH37	B08CV7BXQM		Unknown					0	0	0	0	0		0	0	0	0
+KCA-L460-USWH0A-S2A2	X002CQ536R	B07ZH362WF		Unknown					0	0	0	0	0		0	0	0	0
+KCA-LS3PRO-USWH2A-S2A1	B08B63Z4T4	B08B63Z4T4		Unknown					0	0	0	0	0		0	0	0	0
+KCA-LS3W-USBK0A-S1A1	B07ZF9KL1T	B07ZF9KL1T		Unknown					0	0	0	0	0		0	0	0	0
+KCA-M110-USBU0A-S1A1	B088BMS7HG	B088BMS7HG		Unknown					0	0	0	0	0		0	0	0	0
+KCA-M110-USBU0A-S2A1	X002JL1P1R	B088BMS7HG		Unknown					0	0	0	0	0		0	0	0	0
+KCA-PS05-USWH4A-S1A1	X002L0NJ9H	B08BLNBVNL		Unknown					0	0	0	0	0		0	0	0	0
+KCA-V630-USWH0A-S1A1	X002CIM0EN	B07Z7FSQHN		Unknown					0	0	0	0	0		0	0	0	0
+KCA-V630WX-USWH3A-S6A1	X002KZXUBP	B08CS82TJT		Unknown					0	0	0	0	0		0	0	0	0
+KCA-VKS200-USBU0A-S1A2	B089KM429V	B089KM429V		Unknown					0	0	0	0	0		0	0	0	0
+KCA-VKS200-USBU0A-S2A1	X002M67DZL	B089KM429V		Unknown					0	0	0	0	0		0	0	0	0
+KCB-B101-CAWH0A-S5A1	X002JJD0XP	B07VQQ1HM2	VANKYO Burger 101 Dlp Mini WiFi Projector, 3D Pico Projector with 100" Display, Built-in System and FULL HD 1080P Supported, Suitable for Home Theater	New	299.99	No		Yes	341	300	38	3	4013	3897.5	3600	72	0	0
+KCB-C100-CABU0A-S2A1	B07X211MYR	B07X211MYR	VANKYO Cinemango 100 Mini Projector, 220" Display and 1080P Supported, 3800 LUX Projector with 50,000 Hrs Lamp Life, Suitable for Home Theater	New	168.99	No		Yes	0	0	0	0	0	8046.38	0	0	0	0
+KCB-L430WX-CAWH2A-S2A1	X002JIDBVR	B089K55DHG	VANKYO Leisure 430W Mini WiFi Projector with Synchronize Smartphone Screen, Full HD 1080P Supported with 4500 LUX, Portable Projector for Home/Outdoor, Compatible with TV Stick, Smartphone, PS4	New	179.99	No		Yes	247	238	0	6	347	8021.3	0	100	0	3
+KCB-L430XX-CAWH2A-A1S2	X002JIC7N5	B089K55DHG		Unknown					0	0	0	0	0		0	0	0	0
+KCB-L430XX-CAWH2A-A1S3	B089K55DHG	B089K55DHG		Unknown					0	0	0	0	0		0	0	0	0
+KCB-L470-CAWH0A-S4A1	B081CVBMWL	B081CVBMWL	VANKYO Leisure 470 Wireless Projector, Synchronize Smart Phone Screen, Mini WiFi Projector for iOS/Android, 1080P Supported, 4500 LUX with 250" Size, Movie Portable Projector for Home & Outdoor	New	239.99	No		Yes	0	0	0	0	50	8421.64	50	0	0	0
+KCB-L470-CAWH0A-S5A1	B081CVBMWL	B081CVBMWL		Unknown					0	0	0	0	50		50	0	0	0
+KCB-L470-CAWH0A-S6A1	B081CVBMWL	B081CVBMWL	VANKYO Leisure 470 Wireless Projector, Synchronize Smart Phone Screen, Mini WiFi Projector for iOS/Android, 1080P Supported, 4500 LUX with 250" Size, Movie Portable Projector for Home & Outdoor	New	216.99	No		Yes	0	0	0	0	50	8421.64	50	0	0	0
+KCB-L470-CAWH0B-A3S3	X002KXY0L1	B081CVBMWL	VANKYO Leisure 470 Wireless Projector, Synchronize Smart Phone Screen, Mini WiFi Projector for iOS/Android, 1080P Supported, 4500 LUX with 250" Size, Movie Portable Projector for Home & Outdoor	New	229.99	No		Yes	0	0	0	0	150	8421.64	0	150	0	0
+KCB-L470-USBK0A-S3A1	B07ZSCWL6C	B07ZSCWL6C		Unknown					0	0	0	0	0		0	0	0	0
+KCB-LS3WDX-CABK1A-S3A1	B08869KH64	B08869KH64	VANKYO Leisure 3W Mini WiFi Projector with Smart Phone Synchronize, 1080P Supported, 3600 LUX Portable Projector for iOS/Android Devices, Suitable for Home & Outdoor	New	199.99	No		Yes	468	411	11	46	508	6624.96	40	0	0	0
+KCB-LS3WDX-CABK1A-S4A1	X002JU3RKP	B08869KH64	VANKYO Leisure 3W Mini WiFi Projector with Smart Phone Synchronize, 1080P Supported, 3600 LUX Portable Projector for iOS/Android Devices, Suitable for Home & Outdoor	New	199.99	No		Yes	0	0	0	0	500	6624.96	0	500	0	0
+KCB-V620-CAGV0A-S2A1	B07Y4RQFXC	B07Y4RQFXC		Unknown					3	0	3	0	3		0	0	0	0
+KCB-V620-CAGV0A-S3A1	B07Y4RQFXC	B07Y4RQFXC	VANKYO 6500 LUX Performance V620 Native 1080P Projector, 2020 Upgraded HD Video Projector 200" Display with 55,000 Hrs Lamp Life, Support TV Stick, Laptop, HDMI, Smartphone for Home & Office Purpose	New	326.99	No		Yes	3	0	3	0	3	23591.15	0	0	0	0
+KCB-V630-CAWH0A-S2A1	B07Z91YH3S	B07Z91YH3S	VANKYO Performance V630 Native 1080P Movie Projector, 6500 LUX with 300" Display, �45�Electronic Keystone Correction, LCD LED Home and Business Projector Compatible with TV Stick, HDMI, USB, Laptop, Smartphone	New	368.99	No		Yes	330	320	8	0	630	24397.88	300	0	0	2
+KCB-V630WX-CAWH3A-S5A1	X002LWG0L9	B08CZCYGKX	VANKYO Performance V630W Native 1080P Wifi Projector, Upgraded 7000LUX Portable Projector with Zoom Function, Synchronized Smartphone Screen for iOS/Android Devices, Compatible with TV Stick, HDMI, TV Box and More	New	466.99	No		Yes	0	0	0	0	4800	21124.56	4800	0	0	0
+L9-UIHW-8QPU	B07M8L799V	B07M8L799V		Unknown					0	0	0	0	0		0	0	0	0
+YA-CMK9-SOJX	B07LH34LW8	B07LH34LW8		Unknown					0	0	0	0	0		0	0	0	0

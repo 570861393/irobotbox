@@ -1,0 +1,9 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity
+J6-PTNU-YIG9	X0017XEIGJ	B088M7HRGK	SNAPTAIN SP350 Mini Drohne mit 3 Akkus fÃ¼r 21 Minuten Flugzeit, RC Drone, Mini Helikopter mit Kopfloser Modus, Throw'N Go, 3 Geschwindigkeitsmodi, Spielzeug Drohne fÃ¼r AnfÃ¤nger und Kinder	New	999.00	No		Yes	0	0	0	0	1	1419.78	1	0	0
+JTE07-A10XXX-ITWH0A-A1S1	X00180CVD3	B0899T7R9Q		Unknown					0	0	0	0	480		0	480	0
+JTE07-H823HP-ITGN0A-A1S1	X00180C3E5	B087J8JCHW		Unknown					0	0	0	0	540		0	540	0
+JTE07-H82P-ITRD1A-A1S1	X00186IE5L	B07YFTJFM8		Unknown					0	0	0	0	360		360	0	0
+JTE07-S500-ITBK0A-A1S1	X00186FFSZ	B081TVL9DR		Unknown					0	0	0	0	540		540	0	0
+JTE07-S5C0-ITBK6A-A1S1	X00180BAL7	B07Y65S63B		Unknown					0	0	0	0	600		600	0	0
+JTE07-S650-ITBK6A-A1S1	X00181CGPP	B081RV7J2S		Unknown					0	0	0	0	300		0	300	0
+JTE07-SP350X-ITYE0A-A1S1	X00180C7HX	B087JRXFWJ		Unknown					0	0	0	0	624		624	0	0

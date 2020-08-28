@@ -1,0 +1,15 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity	afn-reserved-future-supply	afn-future-supply-buyable
+TRL-2A09-USBK0A-3WCS1	X002JCCXM1	B0894SQRBV	Kyvol Robot Vacuum Replacement Parts-Full Set of Accessories, Main Brush Filters Accessories Kit Compatible with Kyvol Cybovac E20/E30/E31 Robotic Vacuum Cleaner	New	29.99	No		Yes	0	0	0	0	0	0.11	0	0	0	0	0	0
+TRL-E20X-USBK0A-3WCS1	X002KZWTDF	B088WMZSP5	Kyvol Cybovac E20 Robot Vacuum Cleaner, 2000Pa Suction, 150 min Runtime, Boundary Strips Included, Quiet, Super-Thin, Self-Charging, Works with Alexa, Ideal for Pet Hair, Carpets, Hard Floors	New	299.00	No		Yes	3	0	0	3	2280	0.6	1863	414	0	0	0	0
+TRL-E20X-USWH0A-3WCS1	X002KZV6X9	B08CXG6SFD	Kyvol Cybovac E20 Robot Vacuum Cleaner, 2000Pa Suction, 150 min Runtime-White	New	199.99	No		Yes	0	0	0	0	2484	0.51	1242	1242	0	0	0	0
+TRL-E30X-USBK0A-3WCS1	X002KZZSY7	B089CV1N97	Kyvol Cybovac E30 Robot Vacuum Cleaner 2200Pa Strong Suction, Smart Navigation, 150 mins Runtime, Robotic Vacuum Cleaner, Wi-Fi Connected, Works with Alexa, Ideal for Pet Hair, Carpets & Hard Floors	New	279.99	No		Yes	384	368	0	16	2226	0.63	1242	600	0	0	0	0
+TRL-E31X-USBK0A-3WCS1	X002L00373	B089R3K2X6	Kyvol Cybovac E31 Robot Vacuum, Sweeping & Mopping Robot Vacuum Cleaner with 2200Pa Suction, Smart Navigation, 150 mins Runtime, Works with Alexa, Self-Charging, Ideal for Pet Hair, Floor and Carpets	New	300.00	No		Yes	0	0	0	0	2277	0.96	1863	414	0	0	0	0
+TRL-KYHD-CADG0A-3WCS1	B08CDB1Z2B	B08CDB1Z2B		Unknown					0	0	0	0	0		0	0	0	0	0	0
+TRL-KYHD-CADG0A-3WCS2	B08CDB1Z2B	B08CDB1Z2B		Unknown					0	0	0	0	0		0	0	0	0	0	0
+TRL-KYHD-CADG0A-3WCS3	X002KWZNP9	B08CDB1Z2B		Unknown					0	0	0	0	0		0	0	0	0	0	0
+TRL-KYHD-CAWH0A-3WCS1	B08CB1X32Y	B08CB1X32Y		Unknown					0	0	0	0	0		0	0	0	0	0	0
+TRL-KYHD-CAWH0A-3WCS2	B08CB1X32Y	B08CB1X32Y		Unknown					0	0	0	0	0		0	0	0	0	0	0
+TRL-KYHD-CAWH0A-3WCS3	X002KWBY89	B08CB1X32Y		Unknown					0	0	0	0	0		0	0	0	0	0	0
+TRL-KYHD-USDG0A-3WCS1	X002KVA5RB	B08CGTBN6Z	KYVOL Cool Mist Humidifiers, Quiet Ultrasonic Humidifier, for Large Bedroom Babies	New	50.00	No		Yes	0	0	0	0	588	0.64	588	0	0	0	0	0
+TRL-KYHD-USWH0A-3WCS1	X002KVDXHZ	B08CGK75DM	KYVOL Cool Mist Humidifiers, 4.5L Humidifier, for Large Bedroom Babies	New	50.00	No		Yes	0	0	0	0	408	0.64	408	0	0	0	0	0
+TRL-S31X-USBK0A-3WCS1	X002LVK6BF	B08FBBCPB4	Kyvol S31 Robot Vacuum Cleaner, 2700Pa Suction, 240min Runtime, Boundary Strips Included, Quiet, Super-Thin, Self-Charging, Compatible with Alexa, Ideal for Pet Hair, Carpets, Hard Floors	New	499.99	No		Yes	0	0	0	0	0	0.59	0	0	0	0	0	0

@@ -1,0 +1,10 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+GSW-3D0005-UNBK0A-T1Z1	X002L24C5F	B083J9YXQ1		Unknown					0	0	0	0	0		0	0	0	0
+GSW-4A0003-UNWH0A-T1Z1	X002JJBR6R	B089Q1GZPR		Unknown					0	0	0	0	0		0	0	0	0
+GSW-CE28-UNBK0A-T1Z1	X002J2UJ31	B088WJR5Q9		Unknown					0	0	0	0	0		0	0	0	0
+GSW-H203-USWH0A-T1Z1	X002KJ2DGJ	B07YXPW7JJ		Unknown					0	0	0	0	0		0	0	0	0
+GSW-HM132X-USWH0A-T3Z3	X002M7FB1X	B0894FBZ68		Unknown					0	0	0	0	0		0	0	0	0
+GSW-HMD2-USWH0A-T1Z1	X002LY6A35	B07T2Q7WJ5		Unknown					0	0	0	0	0		0	0	0	0
+GSW-SE01-USBK0A-T1Z1	X002KHJI9L	B07TMXZF5Q		Unknown					0	0	0	0	0		0	0	0	0
+TEST-CABLE-0429-2	X002JL3NSF	B087TBPKYC		Unknown					0	0	0	0	0		0	0	0	0
+TEST-CABLE-12	X002JKUWWL	B0878TNMSH		Unknown					0	0	0	0	0		0	0	0	0

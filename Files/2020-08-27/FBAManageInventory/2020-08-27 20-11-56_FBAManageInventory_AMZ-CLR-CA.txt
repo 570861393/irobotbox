@@ -1,0 +1,10 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+CLR03- CY75-USWH0A-A1S6	X002MH3ABV	B08DTVXNWM		Unknown					0	0	0	0	0		0	0	0	0
+CLR03-C751XX-USBK0A-A1S13	X002MKWKTL	B0868MDSL5		Unknown					0	0	0	0	0		0	0	0	0
+CLR03-CM70-USRD0B-S14A1	X002MEV7GT	B07W22F9G3		Unknown					0	0	0	0	0		0	0	0	0
+CLR03-X180XX-CABK0A-A2S7	X002MG2Y0F	B08G4G59ZC	VANKYO Wireless Earbuds X180 in-Ear Bluetooth 5.0 Earphones for iPhone Android with USB-C Charging Case, IPX7 Waterproof Sport Headphones with Mic, Touch Control for Gym, Home, Office, Single/Twin	New	89.99	No		Yes	0	0	0	0	144	481.78	0	144	0	0
+CLR03-X180XX-USBK0A-A1S6	X002M7NOW1	B087423FSS		Unknown					0	0	0	0	0		0	0	0	0
+CLR03-X200-CABU0A-A1S1	X002MMMH4H	B08FSSGRB3	VANKYO Wireless Earbuds X200 in-Ear Bluetooth 5.0 Earphones	New	99.99	No		Yes	0	0	0	0	200	370.35	0	200	0	0
+CLR03-X200-USBK0A-S13A1	X002MDH3IL	B07ZQCST89		Unknown					0	0	0	0	0		0	0	0	0
+CLR03-X200-USBU0A-S5A1	X002M7KK91	B08FSSGRB3		Unknown					0	0	0	0	0		0	0	0	0
+CLR03-X400XX-USBK0A-A1S7	X002MKSCD9	B08FLGHKHB		Unknown					0	0	0	0	0		0	0	0	0

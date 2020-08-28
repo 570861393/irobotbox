@@ -1,0 +1,12 @@
+snapshot-date	fnsku	sku	product-name	quantity	fulfillment-center-id	detailed-disposition	country
+2020-08-25T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	3149	YYZ4	SELLABLE	CA
+2020-08-25T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	66	YYC1	SELLABLE	CA
+2020-08-25T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	462	*XFR	SELLABLE	
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	3526	YYZ4	SELLABLE	CA
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	1	YYZ4	DISTRIBUTOR_DAMAGED	CA
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	33	YYC1	SELLABLE	CA
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	107	*XFR	SELLABLE	
+2020-08-23T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	2662	YYZ4	SELLABLE	CA
+2020-08-23T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	4	YYZ4	DISTRIBUTOR_DAMAGED	CA
+2020-08-23T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	14	YYC1	SELLABLE	CA
+2020-08-23T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	126	*XFR	SELLABLE	

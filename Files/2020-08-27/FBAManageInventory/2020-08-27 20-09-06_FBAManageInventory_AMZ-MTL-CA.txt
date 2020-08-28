@@ -1,0 +1,4 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+MM07-C751XX-USBK0A-A1S15	X002ML5CA9	B0868MDSL5		Unknown					0	0	0	0	0		0	0	0	0
+MM07-X180XX-USBK0A-S7A1	X002MG2UNL	B087423FSS		Unknown					0	0	0	0	0		0	0	0	0
+MM07-X400XX-USBK0A-A1S9	X002MKSKNL	B08FLGHKHB		Unknown					0	0	0	0	0		0	0	0	0

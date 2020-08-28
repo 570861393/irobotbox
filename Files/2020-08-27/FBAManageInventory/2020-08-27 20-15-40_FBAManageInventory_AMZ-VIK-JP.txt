@@ -1,0 +1,4 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity
+VK1-FD710X-JPWH0A-AE1SE1	X000V743GJ	B08CRH2KSG	[2020年最新版] TeamMe ソープ自動ディスペンサー 450ml 電池式 IPX4 泡 オート センサー 吐出量2段階調整 LEDランプ 非接触 ハンドソープ キッチン 洗面所などに適用 FD710 説明書付き	New	3999.00	No		Yes	794	794	0	0	1498	3769.19	704	0	0
+VK1-Z1AAUP-JPBK1A-AE1SE1	B08CR4XSFZ	B08CR4XSFZ	[2020進化版] VANKYOタブレットZ1 Android10.0 7インチ 学生・子供向け RAM1GB ROM32GB Wi-Fiモデル IPSディスプレイ Bluetooth GPS FM搭載 目に優しい オンライン授業 説明書付き	New	10999.00	No		Yes	0	0	0	0	0	1335.55	0	0	0
+VK1-Z1AAUP-JPBK1A-AE1SE2	X000V8EXP9	B08CR4XSFZ	[2020進化版] VANKYOタブレットZ1 Android10.0 7インチ 学生・子供向け RAM1GB ROM32GB Wi-Fiモデル IPSディスプレイ Bluetooth GPS FM搭載 目に優しい オンライン授業 説明書付き	New	10999.00	No		Yes	0	0	0	0	300	1335.55	300	0	0

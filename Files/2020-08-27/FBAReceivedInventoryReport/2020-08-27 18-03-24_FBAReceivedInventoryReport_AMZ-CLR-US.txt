@@ -1,0 +1,2 @@
+received-date	fnsku	sku	product-name	quantity	fba-shipment-id	fulfillment-center-id
+2020-08-24T00:00:00-07:00	X002M7NOW1	CLR03-X180XX-USBK0A-A1S6	VANKYO Wireless Earbuds X180 in-Ear Bluetooth 5.0 Earphones for iPhone Android with USB-C Charging Case, IPX7 Waterproof Sport Headphones with Mic, Touch Control for Gym, Home, Office, Single/Twin	72	FBA15Q1GC2NH	FTW1

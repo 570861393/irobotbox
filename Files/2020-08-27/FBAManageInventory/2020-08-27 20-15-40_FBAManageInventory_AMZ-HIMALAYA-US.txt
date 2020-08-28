@@ -1,0 +1,180 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity	afn-reserved-future-supply	afn-future-supply-buyable
+3M-NHFI-B4D7	B07F7WNPHG	B07F7WNPHG		Unknown					27	1	1	25	27		0	0	0	0	0	0
+70-F72H-BMDI	B07CSK2211	B07CSK2211		Unknown					0	0	0	0	0		0	0	0	0	0	0
+8G-OJ0E-5IFK	B07G2Y5LX9	B07G2Y5LX9		Unknown					9	3	6	0	9		0	0	0	0	0	0
+CACK-PM20-USBK0A	B07HRMZ6KF	B07HRMZ6KF	VANKYO Universal LED HD Projector Ceiling Mount Wall Bracket Holder for Different Size Projector	New	15.99	No		Yes	17	11	0	4	17	0.07	0	0	0	2	0	0
+CACK-PM20-USBK0A-A1S1	B07M59Q249	B07M59Q249		Unknown					57	54	1	1	537		0	480	0	1	0	0
+CACK-PM20-USBK0A-A3S1	B07M87MZPJ	B07M87MZPJ	VANKYO Universal LED HD Projector Ceiling Mount Wall Bracket Holder for Different Size Projector	New	18.99	No		Yes	15	0	2	13	495	0.08	0	480	0	0	0	0
+CACK-PM20-USWH0A-A1S1	B07M59Q249	B07M59Q249	vankyo Universal LED HD Projector Ceiling Mount Wall Bracket Holder for Different Size Projector(White)	New	16.99	No		Yes	57	54	1	1	537	0.08	0	480	0	1	0	0
+CACK-PM50-USSV0A-A2S1	X00268BFHR	B07RVBPWW4	VANKYO Universal Mini Ceiling Projector Mount, Angle Adjustable Wall Ceiling Projector Mount with 360 Degrees Rotatable Heads, Compatible with Leisure 3	New	11.99	No		Yes	26	11	0	15	26	0.03	0	0	0	0	0	0
+CACK-PM60-CASV0A	X0028CZRBB	B07TXCWGGJ		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CACK-PM60-USSV0A	X0026954GT	B07RWLZ8JX	VANKYO Universal Extending Projector Ceiling Mount with Height Extendable Length 11.8" - 19.7" Adjustable 360°Angle Rotatable Drop Ceiling Projector Mount, Compatiable with VANKYO Leisure 3	New	24.99	No		Yes	60	57	0	3	60	0.08	0	0	0	0	0	0
+CACK-PS04-CAWH3A	B07DF87B9L	B07DF87B9L		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CACK-PS04-USWH3A	B07DF87B9L	B07DF87B9L	VANKYO Projector Screen 100 Inches 16:9 Portable Indoor Outdoor Projection Polyester Spandex Movie Screen Foldable Wall Mounted with Peel and Hooks	New	27.99	No		Yes	0	0	0	0	0	0.22	0	0	0	0	0	0
+CACK-PS04-USWH3A-A2S2	B07M8L799V	B07M8L799V	VANKYO Projector Screen 100 Inches 16:9 Portable Indoor Outdoor Projection Polyester Spandex Movie Screen Foldable Wall Mounted with Peel and Hooks	New	25.99	No		Yes	186	121	0	56	186	0.23	0	0	0	9	0	0
+CACK-PS05-CAWH4A	B07DFCMHKL	B07DFCMHKL		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CACK-PS05-USWH4A	B07DFCMHKL	B07DFCMHKL	VANKYO Projector Screen 120 Inches 16:9 Portable Indoor Outdoor Projection Polyester Spandex Movie Screen Foldable Wall Mounted with Peel and Hooks	New	29.99	No		Yes	0	0	0	0	0	0.23	0	0	0	0	0	0
+CACK-PS05-USWH4A-A2S1	B07LH34LW8	B07LH34LW8	VANKYO Projector Screen 120 Inches 16:9 Portable Indoor Outdoor Projection Polyester Spandex Movie Screen Foldable Wall Mounted with Peel and Hooks	New	27.99	No		Yes	13	11	2	0	13	0.23	0	0	0	0	0	0
+CACK-PS05-USWH4A-A2S2	X002F81YD3	B07LH34LW8	VANKYO Projector Screen 120 Inches 16:9 Portable Indoor Outdoor Projection Polyester Spandex Movie Screen Foldable Wall Mounted with Peel and Hooks	New	69.99	No		Yes	249	155	0	94	249	0.23	0	0	0	0	0	0
+CACK-PT20-CABK1B	B07D54QSJM	B07D54QSJM		Unknown					157	46	1	109	157		0	0	0	1	0	0
+CACK-PT20-CAWH1A	B079DNGNGQ	B079DNGNGQ		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CACK-PT20-USBK1A	X001OR77JV	B079DNGNGQ	VANKYO Aluminum Tripod Projector Stand, Adjustable Laptop Stand, Multi-Function Stand, Computer Stand Adjustable Height 17'' to 46'' for Laptop with Plate and Carrying Bag (1-Silver)	New	39.99	No		Yes	2	0	2	0	2	0.73	0	0	0	0	0	0
+CACK-PT20-USBK1A-A1S2	B07D54QSJM	B07D54QSJM	VANKYO Aluminum Tripod Projector Stand, Adjustable Laptop Stand, Multi-Function Stand, Computer Stand Adjustable Height 17'' to 46'' for Laptop with Plate and Carrying Bag (2-Black)	New	39.99	No		Yes	157	46	1	109	157	0.72	0	0	0	1	0	0
+CACK-PT20-USWH1A	B07D54QSJM	B07D54QSJM	VANKYO Aluminum Tripod Projector Stand, Adjustable Laptop Stand, Multi-Function Stand, Computer Stand Adjustable Height 17'' to 46'' for Laptop with Plate and Carrying Bag (2-Black)	New	39.99	No		Yes	157	46	1	109	157	0.72	0	0	0	1	0	0
+CACT-TS60-USBU4A	B07DJ12L2D	B07DJ12L2D	VanTop 59 in 1 Accessories Kit for GoPro Hero7 6 5 4 3+ 3 2 1, Hero Session, GoPro Fusion, AKASO, APEMAN, Lightdow, Xiaomi Yi and More, Outdoor Sports Action Camera Accessory Kit with Carrying Case	New	29.99	No		Yes	0	0	0	0	0	0.3	0	0	0	0	0	0
+CHBK-HC80-USGY0A	B07K196FQG	B07K196FQG	VANKYO USB C Hub, 8-in-1 USB C Adapter with 1Gbps Ethernet Port, 4K USB C to HDMI, 3 USB 3.0 Ports, SD/TF Card Reader and PD 2.0 Charging Port for MacBook Pro, ChromeBook, Samsung S9 with Mini Type C	New	69.99	No		Yes	1	0	1	0	1	0.02	0	0	0	0	0	0
+CHBK-HC80-USGY0A-A2S1	B07K196FQG	B07K196FQG	VANKYO USB C Hub, 8-in-1 USB C Adapter with 1Gbps Ethernet Port, 4K USB C to HDMI, 3 USB 3.0 Ports, SD/TF Card Reader and PD 2.0 Charging Port for MacBook Pro, ChromeBook, Samsung S9 with Mini Type C	New	69.99	No		Yes	1	0	1	0	1	0.02	0	0	0	0	0	0
+CHBK-HC80-USGY0A-A2S3	X0026GPOTJ	B07K196FQG	VANKYO USB C Hub, 8-in-1 USB C Adapter with 1Gbps Ethernet Port, 4K USB C to HDMI, 3 USB 3.0 Ports, SD/TF Card Reader and PD 2.0 Charging Port for MacBook Pro, ChromeBook, Samsung S9 with Mini Type C	New	49.99	No		Yes	51	50	1	0	51	0.02	0	0	0	0	0	0
+CPJK-B101-CAWH0A-A1S1	X00295FYS3	B07VQQ1HM2		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-B101-USWH0A	X0025CEVD9	B07RGGCJB4	VANKYO Burger 101 Pico Projector, Rechargeable DLP Wireless Mini Projector Supports 1080P and 3D with HDMI, USB, Compatible with iPhone, Android, Laptop for Home Entertainment, Outdoor Movies	New	299.99	No		Yes	4	0	1	3	4	0.14	0	0	0	0	0	0
+CPJK-C100-USBU0A-A1S1	X002AN1AL9	B07X3TK1P1	VANKYO Cinemango 100 Mini Video Projector, HD Movie Projector Support 1080P, 220 Display, 50,000 Hrs Lamp Life, Compatible with TV Stick, HDMIx2, USBx2, VGA, TF, AV for Home Entertainment	New	109.99	No		Yes	221	73	2	137	221	0.3	0	0	0	9	0	0
+CPJK-L410-CABK0A	B07FFMCKKX	B07FFMCKKX		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-L410-CAWH0A	B07DXQ9NNY	B07DXQ9NNY		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-L410-CAWH0A-Remote	X001WLDFQ3	B07HNYK9T4		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-L410-CAWH0B	B07DXQ9NNY	B07DXQ9NNY		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-L410-USBK0A	B07FFMCKKX	B07FFMCKKX	VANKYO Portable Projector with HD 1080P supported, Mini Projector with USB/SD/AV/HDMI/VGA Input	New	79.99	No		Yes	0	0	0	0	0	0.27	0	0	0	0	0	0
+CPJK-L410-USRD0A	B07F7WNPHG	B07F7WNPHG	VANKYO Portable Projector, Support HD 1080P, Mini Projector with USB/SD/AV/HDMI/VGA Input. Come with Free Carrying Bag and HDMI Cable (3-Red)	New	89.99	No		Yes	27	1	1	25	27	0.26	0	0	0	0	0	0
+CPJK-L410-USWH0A	B07D467KPD	B07D467KPD	VANKYO Leisure 410 Mini Projector with Carrying Bag and HDMI Cable, Portable Projector Supports 1080P, Compatible with PS3/PS4 TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	99.99	No		Yes	2	0	1	1	2	0.26	0	0	0	0	0	0
+CPJK-L410-USWH0A-A3S1	X001W25GJL	B07D467KPD	VANKYO Leisure 410 Mini Projector with Carrying Bag and HDMI Cable, Portable Projector Supports 1080P, Compatible with PS3/PS4 TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	99.99	No		Yes	2	0	2	0	2	0.26	0	0	0	0	0	0
+CPJK-L410-USWH0A-A3S2	X001YOZQUV	B07D467KPD	VANKYO Leisure 410 Mini Projector with Carrying Bag and HDMI Cable, Portable Projector Supports 1080P, Compatible with PS3/PS4 TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	99.99	No		Yes	149	68	1	76	149	0.26	0	0	0	4	0	0
+CPJK-L410-USWH0A-LXM0624	B07D467KPD	B07D467KPD		Unknown					2	0	1	1	2		0	0	0	0	0	0
+CPJK-L410-USWH0B-TEST	B07DXQ9NNY	B07DXQ9NNY		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-L430-USWH0A-A2S2	X0029624KN	B07VKL7YPG	VANKYO Leisure 430 (2020 Upgraded ) Projector, Mini Video Projector with 50,000 Hours LED Lamp Life, 236" Display, Support 1080P, HiFi Built-in Speaker, Compatible with HDMI, SD, AV, VGA, USB	New	99.99	No		Yes	113	58	6	44	113	0.28	0	0	0	5	0	0
+CPJK-L510-CABK0A	B07GF45M73	B07GF45M73		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-L510-CABK0A-A1S2	B07GF45M73	B07GF45M73		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-L510-CABK0A-A1S3	B07GF45M73	B07GF45M73		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-L510-CAWH0A	B07GKQQZ1D	B07GKQQZ1D		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-L510-USBK0A	B07G2Y5LX9	B07G2Y5LX9	VANKYO Leisure 510 HD Projector, Video Projector with 230" Projection Size, Support 1080P HDMI VGA AV USB with HDMI Cable and Carrying Bag	New	189.99	No		Yes	9	3	6	0	9	0.58	0	0	0	0	0	0
+CPJK-L510-USBK0A-A1S3	B07G2Y5LX9	B07G2Y5LX9	VANKYO Leisure 510 HD Projector, Video Projector with 230" Projection Size, Support 1080P HDMI VGA AV USB with HDMI Cable and Carrying Bag	New	174.99	No		Yes	9	3	6	0	9	0.58	0	0	0	0	0	0
+CPJK-L510-USWH0A	B07GDNVND9	B07GDNVND9	VANKYO Leisure 510 HD Movie Projector, Video Projector with 230" Projection Size, Support 1080P HDMI VGA AV USB with HDMI Cable and Carrying Bag	New	179.99	No		Yes	2	0	2	0	2	0.63	0	0	0	0	0	0
+CPJK-LS30-CABK0A	B07CSK2211	B07CSK2211		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-LS30-CAWH0A	X0022GX6DJ	B078KF8CSX		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-LS30-CAWH0A-A1S2	B078KF8CSX	B078KF8CSX		Unknown					723	229	21	473	723		0	0	0	0	0	0
+CPJK-LS30-CAWH0A-A1S3	X002F82QNZ	B078KF8CSX		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-LS30-USBK0A	B07CSK2211	B07CSK2211	VANKYO Leisure 3 (Upgraded Version) LED Portable Projector with Carrying Bag, Compatible with Fire TV Stick, PS4, Xbox, 170'' Display and 1080P Supported with Free HDMI Cable (2-Black)	New	89.99	No		Yes	0	0	0	0	0	0.23	0	0	0	0	0	0
+CPJK-LS30-USBK0A-A3S5	X0026V6O8J	B07R9M6KVL	Vankyo Leisure 3(Upgraded Version) Mini Projector with 40000 Hours Lamp Life, LED Portable Projector Support 1080P and 170'' Display, Compatible with TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	99.99	No		Yes	1	0	0	1	1	0.24	0	0	0	0	0	0
+CPJK-LS30-USWH0A	B078KF8CSX	B078KF8CSX	VANKYO LEISURE 3 Mini Projector, 1080P and 170'' Display Supported, Portable Movie Projector with 40,000 Hrs LED Lamp Life, Compatible with TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	189.99	No		Yes	723	229	21	473	723	0.25	0	0	0	0	0	0
+CPJK-LS30-USWH0A-2	X001VPSP47	B078KF8CSX	VANKYO LEISURE 3 Mini Projector, 1080P and 170'' Display Supported, Portable Movie Projector with 40,000 Hrs LED Lamp Life, Compatible with TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	189.99	No		Yes	124	22	4	88	124	0.25	0	0	0	10	0	0
+CPJK-LS30-USWH0A-A1S6	B078KF8CSX	B078KF8CSX		Unknown					723	229	21	473	723		0	0	0	0	0	0
+CPJK-LS30-USWH0A-A1S7	X001W6ONP5	B078KF8CSX	VANKYO LEISURE 3 Mini Projector, 1080P and 170'' Display Supported, Portable Movie Projector with 40,000 Hrs LED Lamp Life, Compatible with TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	119.99	No		Yes	1588	990	133	446	7588	0.25	2000	4000	0	19	0	0
+CPJK-LS30-USWH0A-A1S8	B078KF8CSX	B078KF8CSX		Unknown					723	229	21	473	723		0	0	0	0	0	0
+CPJK-LS30-USWH0A-FBM-VAR1	B078KF8CSX	B078KF8CSX		Unknown					723	229	21	473	723		0	0	0	0	0	0
+CPJK-V600-CASV0A-A1S3	X0025OILN3	B07RHHBDZ8		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CPJK-V600-USSV0A	X0020YJQJV	B07NBNCNLM	VANKYO Performance V600 Native 1080P LED Projector, HDMI Projector with 300" Display Compatible with TV Stick, HDMI, VGA, USB, Laptop, iPhone Android for PowerPoint Presentation	New	249.99	No		Yes	14	0	13	1	14	0.74	0	0	0	0	0	0
+CPJK-V600-USSV0A-A4S11	X002460MTX	B07NBNCNLM	VANKYO Performance V600 Native 1080P LED Projector, HDMI Projector with 300" Display Compatible with TV Stick, HDMI, VGA, USB, Laptop, iPhone Android for PowerPoint Presentation	New	249.99	No		Yes	5	1	3	1	5	0.74	0	0	0	0	0	0
+CPJK-V600-USSV0A-A4S7	X002ANUYYN	B07NBNCNLM	VANKYO Performance V600 Native 1080P LED Projector, HDMI Projector with 300" Display Compatible with TV Stick, HDMI, VGA, USB, Laptop, iPhone Android for PowerPoint Presentation	New	249.99	No		Yes	3	0	2	1	3	0.74	0	0	0	0	0	0
+CPJV-L420-USSV0A-A1S1	X001X1INAZ	B07J4MPDXV	VANKYO Leisure 420 Mini Projector, Portable Home Movie Cinema, 1080P Supported, 200'' Projection Size, Compatible w/ PS4, Xbox, HDMI for Gaming, Sports	New	99.99	No		Yes	1	0	0	1	1	0.26	0	0	0	0	0	0
+CPJV-M500-USBK0A-1	X001VJXYG7	B07GV8F4R6	VANKYO Passport M50 DLP Smart Mini Portable Projector, 100 ANSI Lumens w/Andriod 7.1 OS Pre-Installed, WiFi, HDMI, USB Micro SD Ports Free Mini Wireless Keyboard Tripod	New	219.99	No		Yes	49	23	1	25	49	0.1	0	0	0	0	0	0
+CSCH-H203-CAWH0A-A1S4	X00280A65P	B07PX1YXVM		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CSCH-H203-USWH0A	X0022OC00V	B07N819P4K	heimvision HM203 1080P Security Camera with Smart Night Vision/Ptz/Two-Way Audio, 2.4GHz Wireless Home Surveillance IP Camera for Baby/Elder/Pet/Nanny Monitor, Cloud Service/Microsd Support	New	29.99	No		Yes	6	0	3	3	6	0.09	0	0	0	0	0	0
+CSCH-H203-USWH0A-A1S4	B07N819P4K	B07N819P4K	heimvision HM203 1080P Security Camera with Smart Night Vision/Ptz/Two-Way Audio, 2.4GHz Wireless Home Surveillance IP Camera for Baby/Elder/Pet/Nanny Monitor, Cloud Service/Microsd Support	New	29.99	No		Yes	0	0	0	0	0	0.09	0	0	0	0	0	0
+CSCH-H205-USWH0A-A1S2	B07P6QTBPZ	B07P6QTBPZ		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CSCH-H205-USWH0A-A2S4	B07R6HVN3K	B07R6HVN3K	Heimvision HM205 1080P Baby Monitor, Works with Alexa, Night Vision, 2 Way Audio, Motion Detection, 2.4G Wireless Home Surveillance Camera for Baby/Pet/Nanny Monitor, Cloud Service/Microsd Support	New	30.99	Yes	0	No	0	0	0	0	0	0.07	0	0	0	0	0	0
+CSKH-A80S-CAWH0A-A1S3	B07MZ4V3H4	B07MZ4V3H4		Unknown					0	0	0	0	0		0	0	0	0	0	0
+CSKH-A80S-USWH0A-A1S5	X002206VCD	B07MZ2WFLJ	HeimVision Sunrise Alarm Clock, Smart Wake up Light Sleep Aid Digital Alarm Clock with Sunset Simulation and FM Radio, 4 Alarms /7 Alarm Sounds/Snooze/20 Brightness	New	59.99	No		Yes	350	306	12	11	1850	0.11	0	1500	0	21	0	0
+CSSH-S620-CAWH0A-A1S3	B07G7YY7NN	B07G7YY7NN		Unknown					53	3	0	49	53		0	0	0	1	0	0
+CSSH-S620-USWH0A-A1S4	B07G7YY7NN	B07G7YY7NN	HeimVision Wi-Fi Smart Plug, 2-Pack Mini Smart Wi-Fi Outlets Works with Amazon Alexa / Google Assistant IFTTT, Remote Control Anywhere	New	35.99	No		Yes	53	3	0	49	53	0.02	0	0	0	1	0	0
+CTAK-PH01-USGY0A-A1S1	X00259QWJ3	B07QSR8PRT	VANKYO MatrixPad Z1 7 inch Tablet Case, Stand Folio Cover for VANKYO MatrixPad Z1, Premuim PU Leather Slim Fit with Multiple Viewing Angles	New	12.99	No		Yes	99	97	1	1	99	0.01	0	0	0	0	0	0
+CTAK-Z1AA-USBK1A	B07PXB4F7N	B07PXB4F7N	Vankyo MatrixPad Z1 7 inch Tablet, Android 8.1 Oreo Go Edition, 32GB Storage, Quad-Core Processor, IPS HD Display, Wi-Fi, Bluetooth, Black	New	64.99	No		Yes	21	8	11	2	21	0.06	0	0	0	0	0	0
+CTBK-X95A-USBK0A-A3S3	X002460TPF	B07Q869TKN	VANKYO MatrixBox X95A 4K Android TV Box, Ultra HD 2GB RAM 16GB ROM TV Streaming Player w/Amlogic S905W 64 Bits Quad Core Processor	New	29.99	No		Yes	5	0	0	5	5	0.04	0	0	0	0	0	0
+LFA-CM70-CARD0A-A1S2	X002EITTTF	B07W22F9G3		Unknown					0	0	0	0	0		0	0	0	0	0	0
+NV-960K-F4VM	B07DXQ9NNY	B07DXQ9NNY		Unknown					0	0	0	0	0		0	0	0	0	0	0
+Universal Remote	X0029OOPVB	B07HNJMP1Q		Unknown					0	0	0	0	0		0	0	0	0	0	0
+V630 Remote	X002H5H7JT	B08576285N		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-3D0002-USGY2A-A1S2	X002FBNV9P	B083BVXKHP		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-4D0002-CACR2A-A1S2	X002FF9U3R	B083BXBQZP		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-C100-CABU0A-A1S1	X002ARS7GV	B07X211MYR		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-C100-CABU0A-A1S4	X002CJZJDB	B07X211MYR		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-CE20-CASV0A-A1S1	X002B78BOD	B07XL7XLM4		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-GS01-CABK0A-A1S1	X0029DJTEP	B07VW61LVT		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-H203-CAWH0A-A1S1	X0029C2V69	B07PX1YXVM		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-H205-CAWH0A-A1S1	X002988ZO5	B07RWB4WJT		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-H211-CAWH0A-A1S1	X00297AP9J	B07TTSJWGK		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-H302-CABK0A-A1S1	X002BNSUF7	B07Y9ZS6FK		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-HMD2-CAWH0A-A1S3	X002AQ3J5V	B07WH1C8MM		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-MT01-CASV0A-A1S1	X0029IBSJT	B07VXHJTDD		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-PH06-CAGY0A-A1S2	X002F712D1	B0834X4DMV		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-PM20-CABK0A-A1S1	X002B45XOR	B07XRFKBHN		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-PM20-CAWH0A-A1S1	X002CJW0VZ	B07Z3BQTB8		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-PM50-CASV0A-A1S1	X002F1QNCH	B082X3T21C		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-S20H-CAGY4A-A1S2	X002FBF369	B083BT92M1		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-S30H-CASV4A-A1S2	X002FBODB5	B083BTHGDR		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-TM03-CACR4A-A1S2	X0029WOIZL	B07VN38JMZ		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-V600-CASV0A-A1S5	X002BTYCOJ	B07RHHBDZ8		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-V620-CAGV0A-A1S1	X002BKHEX9	B07Y4RQFXC		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-V630-CAWH0A-A1S1	X002CK1HLN	B07Z91YH3S		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-X200-CABK0A-A1S1	X002HEDHT9	B07ZQCST89		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-Z4AA-CABK4A-A1S1	X0029AVXWJ	B07TC5J3KH		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDCA-ZTBB-CABK4A-A1S1	X002EE7YMX	B07ZRFSQGZ		Unknown					0	0	0	0	0		0	0	0	0	0	0
+VDUS-3D0001-USGY1A-A1S2	X002FQCYRZ	B083K64JR3	Vankyo MatrixPad S7 7 inch Tablet Case, Stand Folio Cover MatrixPad S7, Premuim PU Leather Slim Fit with Multiple Viewing Angles	New	19.99	No		Yes	116	71	0	44	116	0.01	0	0	0	1	0	0
+VDUS-3D0004-USGY3A-AC1SC1	X002FOUZKZ	B083S774XZ	VANKYO Tablet Case for MatrixPad S30 Tablet 10.1 inch, VANKYO MatrixPad S30 Tablet Slim Stand Folio Cover, Premium PU Leather Fit with Multiple Viewing Angles, Gray	New	23.99	No		Yes	19	7	0	12	19	0.06	0	0	0	0	0	0
+VDUS-A60C-USWH0A-A1S2	X002BKHIWL	B07Y5WYQT1	heimvision Music Wake Up Light, Sunrise Digital Alarm Clock with Snooze Sleep Aid Function, 6 Nature Sounds 7 Colored LED Night Light Wireless Speaker for Home, Kids, Party, Camping	New	29.99	No		Yes	238	101	2	118	238	0.1	0	0	0	17	0	0
+VDUS-A80S-USWH0A-A1S5	B07MZ2WFLJ	B07MZ2WFLJ	HeimVision Sunrise Alarm Clock, Smart Wake up Light Sleep Aid Digital Alarm Clock with Sunset Simulation and FM Radio, 4 Alarms /7 Alarm Sounds/Snooze/20 Brightness	New	46.99	No		Yes	7	0	5	1	7	0.11	0	0	0	1	0	0
+VDUS-BA04-USBU0A-A1S2	B07W8NCPD6	B07W8NCPD6	VANKYO 7 inch Tablet Sleeve Bag, Fits with MatrixPad S7, Z1 Kids Tablet, iPad Mini 4 3 2 1, Galaxy Tab A 8.0 and Dragon Touch Y88X Plus/Y88X/M7 Kids Tablet, Blue	New	12.99	No		Yes	0	0	0	0	0	0.09	0	0	0	0	0	0
+VDUS-BA04-USPK0A-A1S1	B07W3SHSBK	B07W3SHSBK	VANKYO 7 inch Tablet Sleeve Bag, Fits with MatrixPad S7, Z1 Kids Tablet, iPad Mini 4 3 2 1, Galaxy Tab A 8.0 and Dragon Touch Y88X Plus/Y88X/M7 Kids Tablet, Pink	New	12.99	No		Yes	1	1	0	0	1	0.08	0	0	0	0	0	0
+VDUS-CA01-USWH0A-A1S3	X002BUUD41	B07TD4GK65	HeimVision CA01 Security Camera, Only Compatible with HeimVision HM241/HM243 8CH Security Camera System, 1080P 2.0MP Bullet Surveillance Cameras, Waterproof Outdoor/Indoor IP Camera with Night Vision	New	39.99	No		Yes	338	216	7	88	338	0.09	0	0	0	27	0	0
+VDUS-CM70-USRD0A-A1S1	X0029GS8P3	B07W22F9G3	VANKYO Gaming Headset CM7000 with Authentic 7.1 Surround Sound Stereo PS4 Headset, Gaming Headphones with Noise Canceling Mic & Memory Foam Ear Pads for PC, PS4, Xbox One, Gamecube, Nintendo Switch	New	43.95	No		Yes	1	1	0	0	1	0.17	0	0	0	0	0	0
+VDUS-CM70-USRD0A-S5A1	X002AZXJJD	B07W22F9G3	VANKYO Gaming Headset CM7000 with Authentic 7.1 Surround Sound Stereo PS4 Headset, Gaming Headphones with Noise Canceling Mic & Memory Foam Ear Pads for PC, PS4, Xbox One, Gamecube, Nintendo Switch	New	44.99	No		Yes	41	25	15	1	41	0.17	0	0	0	0	0	0
+VDUS-H136-USWH0A-A1S3	X0028QTJFH	B07TY1C6KL	HeimVision HM136 Video Baby Monitor, 5" LCD Display, 720P HD, Two-Way Audio, Temperature & Sound Alarm, Security Camera with 110° Wide Angle, Night Vision, Up to 1000ft of Range	New	120.99	No		Yes	19	4	12	3	19	0.13	0	0	0	0	0	0
+VDUS-H13C-USWH0A-A1S2	X002C9FFGH	B07W66WZ2G	HeimVision HM13C Security Camera for Video Baby Monitor, Only Compatible with HeimVision HM136 Baby Monitor, 720P Surveillance Camera Indoor IP Camera with Night Vision	New	59.99	No		Yes	10	2	3	5	10	0.13	0	0	0	0	0	0
+VDUS-H203-USWH0A-A2S1	X002C96DG3	B07YXPW7JJ	HeimVision 1080P Security Camera, HM203 UG WiFi Home Indoor Camera with Smart Night Vision/2 Way Audio/Motion Detection, Wireless IP Dog Camera for Baby/Pet/Nanny Monitor, Cloud/MicroSD Support	New	31.00	No		Yes	169	157	6	6	169	0.08	0	0	0	0	0	0
+VDUS-H203-USWH0A-A3S1	X002HRLNFV	B07YXPW7JJ	HeimVision 1080P Security Camera, HM203 UG WiFi Home Indoor Camera with Smart Night Vision/2 Way Audio/Motion Detection, Wireless IP Dog Camera for Baby/Pet/Nanny Monitor, Cloud/MicroSD Support	New	39.99	No		Yes	0	0	0	0	600	0.08	600	0	0	0	0	0
+VDUS-H211-USWH0A-A2S3	X002BUTZZ9	B07W96YXQY	HeimVision HM211 Outdoor Security Camera Wireless, 1080P WiFi Waterproof Surveillance Camera with Floodlight, Night Vision, Siren Alarm, Two-Way Audio, Motion Detection, Cloud Service/ Microsd Support	New	40.99	No		Yes	19	6	10	2	19	0.11	0	0	0	1	0	0
+VDUS-H241-USWH0A-A1S5	X0027SQMN3	B07RKJDK65	heimvision HM241 1080P Wireless Security Camera System, 8CH NVR 4Pcs Outdoor WiFi Surveillance Camera with Night Vision, Waterproof, Motion Alert, Remote Access, No Hard Disk	New	183.99	Yes	0	No	36	5	31	0	36	0.47	0	0	0	0	0	0
+VDUS-H241-USWH0A-A2S1	X002E6XPO7	B07RKJDK65	heimvision HM241 1080P Wireless Security Camera System, 8CH NVR 4Pcs Outdoor WiFi Surveillance Camera with Night Vision, Waterproof, Motion Alert, Remote Access, No Hard Disk	New	199.99	No		Yes	109	35	21	50	109	0.47	0	0	0	3	0	0
+VDUS-H243-USWH0A-A1S3	X002CC4RPT	B07YB38CM8	HeimVision HM243 1080P Wireless Security Camera System with 12 inch LCD Monitor, 8CH NVR 4Pcs Outdoor/Indoor WiFi Surveillance Cameras with Night Vision, Waterproof, Motion Detection, No Hard Drive	New	280.99	No		Yes	89	25	0	61	589	0.58	500	0	0	3	0	0
+VDUS-H245-USBK0A-A1S1	X002CRSHC3	B07ZGBMVJ9	HeimVision HM245 1080P Security Camera System, 8CH 5MP-Lite DVR 4Pcs 1920TVL Outdoor Wired CCTV Camera with Night Vision, Motion Alert, No Hard Drive	New	140.99	No		Yes	49	9	7	31	49	0.68	0	0	0	2	0	0
+VDUS-H302-USBK0A-A1S1	X002BMCNOR	B07YFW8SRN	HeimVision 3MP Wireless Security Camera, HM302 Indoor WiFi Pet Camera, PTZ Home HD IP Camera for Baby/Nanny Monitor, Night Vision, 2 Way Audio, Motion/Face Dection, Cloud/SD Storage, Works with Alexa	New	49.99	No		Yes	24	7	1	15	24	0.07	0	0	0	1	0	0
+VDUS-H302-USBK0A-S3A1	X002CB59RP	B07YFW8SRN	HeimVision 3MP Wireless Security Camera, HM302 Indoor WiFi Pet Camera, PTZ Home HD IP Camera for Baby/Nanny Monitor, Night Vision, 2 Way Audio, Motion/Face Dection, Cloud/SD Storage, Works with Alexa	New	59.99	No		Yes	61	3	0	58	61	0.07	0	0	0	0	0	0
+VDUS-HMD2-USWH0A-A1S1	X0027Q7YQT	B07T2Q7WJ5	HeimVision HMD2 Wireless Rechargeable Battery-Powered Security Camera, 1080P Video with 2-Way Audio, Night Vision, Waterproof Home Indoor/Outdoor WiFi Cameras with Cloud Service	New	89.99	No		Yes	20	7	4	9	20	0.04	0	0	0	0	0	0
+VDUS-HMD2-USWH0A-A1S3	X0028JVAA1	B07T2Q7WJ5	HeimVision HMD2 Wireless Rechargeable Battery-Powered Security Camera, 1080P Video with 2-Way Audio, Night Vision, Waterproof Home Indoor/Outdoor WiFi Cameras with Cloud Service	New	80.99	No		Yes	17	6	3	8	17	0.04	0	0	0	0	0	0
+VDUS-HMD2-USWH0A-S8A1N	X002D736PF	B07T2Q7WJ5	HeimVision HMD2 Wireless Rechargeable Battery-Powered Security Camera, 1080P Video with 2-Way Audio, Night Vision, Waterproof Home Indoor/Outdoor WiFi Cameras with Cloud Service	New	80.99	No		Yes	85	58	2	23	85	0.04	0	0	0	2	0	0
+VDUS-L410-USBK0A-RF1	X002H2LD1F	B07FFMCKKX	VANKYO Portable Projector with HD 1080P supported, Mini Projector with USB/SD/AV/HDMI/VGA Input	New	89.99	No		Yes	1	0	0	1	1	0.27	0	0	0	0	0	0
+VDUS-L420-USSV0A-RF1	X002H5AQK1	B07J4MPDXV	VANKYO Leisure 420 Mini Projector, Portable Home Movie Cinema, 1080P Supported, 200'' Projection Size, Compatible w/ PS4, Xbox, HDMI for Gaming, Sports	New	99.99	No		Yes	0	0	0	0	0	0.26	0	0	0	0	0	0
+VDUS-L460-USWH0A-A2S1	X002CQ4XM7	B07ZH362WF		Unknown					0	0	0	0	496		0	496	0	0	0	0
+VDUS-L470-USWH0A-A2S1	X002E9ZIRL	B07ZSCWL6C	VANKYO Leisure 470 Mini Projector with Synchronize Smart Phone Screen, Full HD 1080P Supported and 250 Display, 4000 Lux WiFi Portable Projector Compatible with TV Stick, PS4, HDMI, VGA, TF, AV, USB	New	129.99	No		Yes	18	7	0	9	818	0.24	800	0	0	2	0	0
+VDUS-L510-USWH0A-RF1	X002H5C4M9	B07GDNVND9	VANKYO Leisure 510 HD Movie Projector, Video Projector with 230" Projection Size, Support 1080P HDMI VGA AV USB with HDMI Cable and Carrying Bag	New	169.99	No		Yes	8	0	8	0	8	0.63	0	0	0	0	0	0
+VDUS-LS30-USWH0A-A1S8	X0027JRVDR	B078KF8CSX	VANKYO LEISURE 3 Mini Projector, 1080P and 170'' Display Supported, Portable Movie Projector with 40,000 Hrs LED Lamp Life, Compatible with TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	89.99	No		Yes	178	37	112	29	178	0.25	0	0	0	0	0	0
+VDUS-LS30-USWH0A-A1S9	X0028GEQ2N	B078KF8CSX	VANKYO LEISURE 3 Mini Projector, 1080P and 170'' Display Supported, Portable Movie Projector with 40,000 Hrs LED Lamp Life, Compatible with TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	189.99	No		Yes	66	0	19	47	66	0.25	0	0	0	0	0	0
+VDUS-LS3W-USBK0A-A1S1	X002COMYX9	B07ZF9KL1T	VANKYO Leisure 3W Mini Projector with Synchronize Smartphone Screen, 3600L Portable WiFi Projector Supports 1080P for iOS/Android Devices, Compatible with TV Stick, PS4, HDMI for Home & Outdoor	New	199.99	No		Yes	114	39	1	73	114	0.23	0	0	0	1	0	0
+VDUS-MT01-USSV0A-A1S1	B07VXGM4KG	B07VXGM4KG	Vankyo Adjustable Tablet Stand, Compatible with iPhone, iPad Mini, Samsung Galaxy, VANKYO MatrixPad Z1, Z4 & Z4 pro, and More Tablets (4-10.1 inch), Silver	New	9.99	No		Yes	0	0	0	0	0	0.03	0	0	0	0	0	0
+VDUS-PH04-USGY0A-A1S1	B07V233DJW	B07V233DJW	vankyo MatrixPad Z4 10 inch Tablet Case, Stand Folio Cover MatrixPad Z4, Premuim PU Leather Slim Fit with Multiple Viewing Angles	New	19.99	No		Yes	2	0	2	0	2	0.06	0	0	0	0	0	0
+VDUS-PM20-USWH0A-A1S2	X002AZB57V	B07M59Q249	vankyo Universal LED HD Projector Ceiling Mount Wall Bracket Holder for Different Size Projector(White)	New	16.99	No		Yes	0	0	0	0	0	0.08	0	0	0	0	0	0
+VDUS-PS07-USWH3A-A1S1	X002BEOZNR	B07DF87B9L	VANKYO Projector Screen 100 Inches 16:9 Portable Indoor Outdoor Projection Polyester Spandex Movie Screen Foldable Wall Mounted with Peel and Hooks	New	99.99	No		Yes	0	0	0	0	0	0.22	0	0	0	0	0	0
+VDUS-PT20-USWH1A-A1S4	X002B974OJ	B079DNGNGQ	VANKYO Aluminum Tripod Projector Stand, Adjustable Laptop Stand, Multi-Function Stand, Computer Stand Adjustable Height 17'' to 46'' for Laptop with Plate and Carrying Bag (1-Silver)	New	39.99	No		Yes	76	16	1	58	76	0.73	0	0	0	1	0	0
+VDUS-RR01-USWH0A-A2S1	X002AKRGVP	B07WHQFY97	HeimVision RR01 WiFi Range Extender for HeimVision HM241/ HM243 WiFi Security Camera System, Only Compatible with HeimVision HM241/ HM243 8CH Security Camera System	New	26.99	No		Yes	0	0	0	0	0	0.05	0	0	0	0	0	0
+VDUS-S20H-USGY4A-A1S2	X002FNM2VV	B083J7DVY1		Unknown					0	0	0	0	1900		0	1900	0	0	0	0
+VDUS-S7FA-USBK1A-A1S3	X002ELKS3N	B0821B76WY	VANKYO MatrixPad S7 7 inch Tablet, Android 9.0 Pie, 2GB RAM, 32GB Storage, 5MP Rear Camera, Quad-Core, IPS HD Display, FM, GPS, Wi-Fi Only, Black	New	199.99	No		Yes	101	60	1	40	401	0.05	0	300	0	0	0	0
+VDUS-S8FA-EUBK2A-A1S1	X002HFQN49	B0868RQYTC	VANKYO MatrixPad S8 Tablet 8 inch, Android 9.0 Pie, 2 GB RAM, 32 GB Storage, IPS HD Display, Quad-Core Processor, Dual Camera, GPS, FM, Wi-Fi, Black	New	189.99	No		Yes	0	0	0	0	0	0.05	0	0	0	0	0	0
+VDUS-SE01-USBK0A-A1S1	X0029WUFHB	B07TMXZF5Q	Solar Panel Compatible with HeimVision HMD2 Rechargeable Battery Security Camera, Waterproof 3.2W/ 5.5V Solar Panel with 13ft/ 4m USB Cable, Support Continuously Supply Power for Security Camera	New	35.99	No		Yes	2	1	1	0	2	0.1	0	0	0	0	0	0
+VDUS-SE01-USBK0A-A1S3	X002CTSGKT	B07TMXZF5Q	Solar Panel Compatible with HeimVision HMD2 Rechargeable Battery Security Camera, Waterproof 3.2W/ 5.5V Solar Panel with 13ft/ 4m USB Cable, Support Continuously Supply Power for Security Camera	New	35.99	No		Yes	98	62	0	36	1538	0.1	1440	0	0	0	0	0
+VDUS-TM01-USCR1A-A2S1	B07VX5NTRZ	B07VX5NTRZ	Vankyo Glass Screen Protector for Vankyo MatrixPad S7, Z1 Tablet 7 inch (2 Pack), Tempered Glass High Definition/Scratch Resistant	New	13.99	No		Yes	3	3	0	0	3	0.01	0	0	0	0	0	0
+VDUS-TM03-USCR4A-A1S1	B07VFNMG64	B07VFNMG64	Vankyo Glass Screen Protector for Vankyo MatrixPad Z4, Z4 Pro 10 inch Tablet(2 Pack), Tempered Glass High Definition/ Scratch Resistant	New	14.99	No		Yes	10	2	0	8	10	0.03	0	0	0	0	0	0
+VDUS-V610-USBK0A-A1S4	X002D10XSJ	B07ZSCPDM9	VANKYO Performance V610 Native 1080P LED Projector, Full HD Video Projector, ±40° Digital Keystone Correction, Compatible with Smartphone, TV Stick, HDMI, SD, AV, VGA, USB for PowerPoint	New	259.99	No		Yes	196	190	1	5	196	1.35	0	0	0	0	0	0
+VDUS-V620-USGV0A-A1S1	X002ALCYOX	B07WV9JRS2	VANKYO Performance V620 Native 1080P Projector, with 200" Display 50,000 Hours LED, Compatible with TV Stick, HDMI, X-Box, Laptop, iPhone Android for Home/Outdoor Entertainment	New	249.99	No		Yes	244	227	2	14	244	1.35	0	0	0	1	0	0
+VDUS-V630-USWH0A-A1S1	X002CIJDKH	B07Z7FSQHN		Unknown					5	0	2	2	5		0	0	0	1	0	0
+VDUS-V630-USWH0A-A1S2	B07Z7FSQHN	B07Z7FSQHN		Unknown					1	1	0	0	1		0	0	0	0	0	0
+VDUS-V630-USWH0A-A1S3	X002F820FJ	B07Z7FSQHN	VANKYO Performance V630 Native 1080P Full HD Projector, 300" LED Projector w/ ±45° Electronic Keystone Correction, Compatible w/ TV Stick, HDMI, Laptop, Smartphone for Home/Business Use	New	269.99	No		Yes	136	97	2	36	136	0.75	0	0	0	1	0	0
+VDUS-X200-USBK0A-S1A1	X002DM1G6V	B07ZQCST89	True Wireless Earbuds, VANKYO X200 Bluetooth 5.0 Earbuds in-Ear TWS Stereo Headphones with Smart LED Display Charging Case IPX8 Waterproof 120H Playtime Built-in Mic with Deep Bass for Sports Work	New	49.99	No		Yes	617	0	1	616	7617	0.02	2000	5000	0	0	0	0
+VDUS-X95M-USBK0K-A1S1	X0029J12W1	B07VPPLZQ4	VANKYO MatrixBox X95 Max 4K Android 9.0 TV Box, Ultra HD 4GB RAM 32GB ROM TV Streaming Player w/Amlogic S905X2 64 Bits Quad Core Processor, H.265/2.4G/5GHz WiFi/USB3.0/BT4.2 Supported	New	45.99	No		Yes	1	0	1	0	1	0.05	0	0	0	0	0	0
+VDUS-X95M-USBK0L-A1S1	X0029GC7EB	B07VLGPY34	VANKYO MatrixBox X95 Max 4K Android 9.0 TV Box, Ultra HD 4GB RAM 64GB ROM TV Streaming Player w/Amlogic S905X2 64 Bits Quad Core Processor, H.265/2.4G/5GHz WiFi/USB3.0 Supported	New	52.99	No		Yes	8	0	2	6	8	0.05	0	0	0	0	0	0
+VDUS-X95M-USBK0L-A1S2	X002BM2HGB	B07VLGPY34	VANKYO MatrixBox X95 Max 4K Android 9.0 TV Box, Ultra HD 4GB RAM 64GB ROM TV Streaming Player w/Amlogic S905X2 64 Bits Quad Core Processor, H.265/2.4G/5GHz WiFi/USB3.0 Supported	New	52.99	No		Yes	0	0	0	0	0	0.05	0	0	0	0	0	0
+VDUS-X95P-USBK0A-A1S1	X002CFH6SV	B07QRQP4B4	VANKYO MatrixBox X95 Plus 4K Android 8.1 TV Box, Ultra HD DDR4 2GB RAM 32GB ROM TV Streaming Player w/Amlogic S905Y2 64 Bits Quad Core Processor, H.265/2.4G/5GHz WiFi/USB3.0 Supported	New	35.99	No		Yes	1	0	1	0	1	0.07	0	0	0	0	0	0
+VDUS-Z1AA-USBK1A-A1S2	X002809VY7	B07PXB4F7N	Vankyo MatrixPad Z1 7 inch Tablet, Android 8.1 Oreo Go Edition, 32GB Storage, Quad-Core Processor, IPS HD Display, Wi-Fi, Bluetooth, Black	New	67.99	No		Yes	15	1	9	5	515	0.06	500	0	0	0	0	0
+VDUS-Z1AA-USBU1A-A1S1	X002E0PGQN	B07ZYVLQBX	Vankyo MatrixPad Z1 7 inch Tablet, Android 8.1 Oreo Go Edition, 32GB Storage, Quad-Core Processor, IPS HD Display, Wi-Fi, Bluetooth, Blue	New	89.99	No		Yes	28	4	3	21	1028	0.06	0	1000	0	0	0	0
+VDUS-Z1AK-USBU1A-A1S1	X0029BBNSH	B07VFWRVPS	VANKYO MatrixPad Z1 Kids Tablet 7 inch, 32GB ROM, Kidoz Pre Installed, IPS HD Display, WiFi Android Tablet, Kid-Proof, Blue	New	69.99	No		Yes	66	22	26	16	66	0.08	0	0	0	2	0	0
+VDUS-Z1AK-USBU1A-A2S1	B07VFWRVPS	B07VFWRVPS	VANKYO MatrixPad Z1 Kids Tablet 7 inch, 32GB ROM, Kidoz Pre Installed, IPS HD Display, WiFi Android Tablet, Kid-Proof, Blue	New	89.99	No		Yes	52	43	5	4	1052	0.08	0	1000	0	0	0	0
+VDUS-Z1AK-USPK1A-A1S1	X0029HUAQR	B07VM866DV	Vankyo MatrixPad Z1 Kids Tablet 7 inch, 32GB ROM, Kidoz Pre Installed, IPS HD Display, WiFi Android Tablet, Kid-Proof, Pink	New	69.99	No		Yes	45	31	4	10	1045	0.09	0	1000	0	0	0	0
+VDUS-Z1AK-USPK1A-A1S2	B07VM866DV	B07VM866DV	Vankyo MatrixPad Z1 Kids Tablet 7 inch, 32GB ROM, Kidoz Pre Installed, IPS HD Display, WiFi Android Tablet, Kid-Proof, Pink	New	69.99	No		Yes	417	224	25	166	417	0.09	0	0	0	2	0	0
+VDUS-Z4AA-USBK4A-A1S1	X00287VYEF	B07TBM1SVR	Vankyo MatrixPad Z4 10 inch Tablet, Android 9.0 Pie, 2 GB RAM, 32 GB Storage, 8MP Rear Camera, Quad-Core Processor, 10.1 inch IPS HD Display, Wi-Fi, Black	New	104.99	No		Yes	66	1	7	58	1066	0.12	0	1000	0	0	0	0
+VDUS-Z4AA-USBK4A-A1S2	B07TBM1SVR	B07TBM1SVR	Vankyo MatrixPad Z4 10 inch Tablet, Android 9.0 Pie, 2 GB RAM, 32 GB Storage, 8MP Rear Camera, Quad-Core Processor, 10.1 inch IPS HD Display, Wi-Fi, Black	New	99.99	No		Yes	85	9	15	58	585	0.12	0	500	0	3	0	0
+VDUS-Z4AA-USGY4A-A2S2	X002DRHE2L	B07ZVNSX4Z	Vankyo MatrixPad Z4 10 inch Tablet, Android 9.0 Pie, 2 GB RAM, 32 GB Storage, 8MP Rear Camera, Quad-Core Processor, 10.1 inch IPS HD Display, Wi-Fi, Gray	New	102.99	No		Yes	5	0	5	0	5	0.11	0	0	0	0	0	0
+VDUS-Z4BB-USBK4A-A1S1	X0029CXMUN	B07TYCN1PG	VANKYO MatrixPad Z4 Pro 10.1 inch Tablet, Android 9.0 Pie, 2 GB RAM, 64 GB Storage, 8MP Rear Camera, Quad-Core Processor, 10 inch IPS HD Glass Display, Metal Housing, Wi-Fi, Black	New	109.99	No		Yes	3	0	3	0	3	0.12	0	0	0	0	0	0
+VNTP1-3D0002-USGY2A-AC1SC1	X002F3YHQJ	B082TTS6X7	VANKYO Tablet Case for MatrixPad S8 Tablet 8 inch, VANKYO MatrixPad S8 Slim Stand Folio Cover, Premium PU Leather Fit with Multiple Viewing Angles Black	New	16.99	No		Yes	30	2	0	28	30	0.02	0	0	0	0	0	0
+VNTP1-4D0002-USCR2A-AC1SC1	X002FBLRNR	B083BMD4VJ	(2 Pack) VANKYO Tablet Glass Screen Protector for VANKYO MatrixPad S8 8 inch Tablet, Tempered Glass High Definition/Scratch Resistant	New	16.99	No		Yes	7	0	0	6	7	0.02	0	0	0	1	0	0
+VNTP1-PH05-USGY0A-AC1SC1	X002A3UWXL	B07WGXXCWR	VANKYO MatrixPad Z4 Pro 10 inch Tablet Case, Stand Folio Cover for VANKYO MatrixPad Z4 Pro, Premium PU Leather Slim Fit with Multiple Viewing Angles	New	16.99	No		Yes	0	0	0	0	0	0.06	0	0	0	0	0	0
+VNTP1-PH06-USGY0A-AC1SC1	B07X9YBJZQ	B07X9YBJZQ	VANKYO Tablet Case for MatrixPad Z10 Tablet 10.1 inch, VANKYO MatrixPad Z10 Tablet Slim Stand Folio Cover, Premium PU Leather Fit with Multiple Viewing Angles	New	19.99	No		Yes	0	0	0	0	0	0.11	0	0	0	0	0	0
+VNTP1-S30H-USSV4A-AC1SC1	X002FE30EX	B083BRVG28	VANKYO MatrixPad S30 10 inch Octa-Core Tablet, Android 9.0 Pie, 3GB RAM, 32GB Storage, 13MP Rear Camera, 1920x1200 IPS Full HD Display, Bluetooth 5.0, 5G Wi-Fi, GPS, Silver	New	169.99	No		Yes	100	48	0	49	1800	0.12	700	1000	0	3	0	0
+VNTP1-TM04-USCR4A-AC1SC1	X002BUWVO1	B07YJT9Q71	(2 Pack) Vankyo Glass Screen Protector for Vankyo MatrixPad Z10 Tablet 10.1 inch, Tempered Glass High Definition/Scratch Resistant	New	9.99	No		Yes	0	0	0	0	0	0.02	0	0	0	0	0	0
+VNTP1-ZTBB-USBK4A-AC1SC1	X002ATT2YZ	B07WZC91PF	VANKYO MatrixPad Z10 Tablet, Android 9.0 Pie, 3 GB RAM, 10.1" 1080p Full HD Display, 32 GB Storage, 13MP Rear Camera, Quad-Core Processor Android Tablet, 5G WiFi, HDMI, GPS, Gray 	New	149.99	No		Yes	9	1	5	3	9	0.1	0	0	0	0	0	0
+X8-HLRI-A9OG	B07DXQ9NNY	B07DXQ9NNY		Unknown					0	0	0	0	0		0	0	0	0	0	0

@@ -1,0 +1,62 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+LFA-H82P-USBU1A-S1A1	X002ER0EZJ	B07H5J7YWH		Unknown					0	0	0	0	0		0	0	0	0
+SSP1--MM3C-USBK0A-AE2SE4	X002F1JK8L	B082186KCS		Unknown					0	0	0	0	0		0	0	0	0
+SSP1--MM40-USBK0A-AE2SE4	X002F1JFEZ	B0821FV3F6		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-1A0003-USBK0A-AE1SE1	X002IS7AFV	B082YYS6HZ		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-2A0002-USBK0A-AE1SE1	X002ISDJ6F	B083351Y1M		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-2A0010-USBK0A-AE1SE1	X002IC1LBB	B085ZM6RF5		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-2A0010-USBK0A-AE1SE2	X002KVHTJN	B085ZM6RF5		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-2A0017-USBK0A-AE1SE1	X002MGM1FD	B08GFZQ2CV		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-3A0006-UNBK0A-AE1SE1	X002KWRYW9	B08BF9D51Z		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-3A0006-UNBK0A-AE1SE2	X002MBPBA5	B08BF9D51Z		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-A10XXX-CAWH0A-AE1SE3	X002KVIHDZ	B085ZRY9FD	SNAPTAIN A10 Mini Drone With 720P HD Camera Foldable FPV WiFi RC Nano Quadcopter w/Voice Control Trajectory Flight/Altitude Hold/G-Sensor/3D Flips/Headless Mode/One Key Return/2 Modular Batteries/App Control	New	99.99	No		Yes	0	0	0	0	480	3307.56	480	0	0	0
+SSP1-A10XXX-USWH0A-AC2SC3	X002I6FGKT	B086V8RPT6		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-A15H-CAGY0A-AE1SE3	X002JPC2RJ	B07ZJD3X2P	SNAPTAIN A15H Foldable FPV WiFi Drone w/Voice Control/120�Wide-Angle 720P HD Camera/Trajectory Flight/Altitude Hold/G-Sensor/3D Flips/Headless Mode/One Key Return/2 Modular Batteries/App Control	New	199.99	No		Yes	295	229	0	66	4140	4664.09	3840	0	5	0
+SSP1-A15H-USGY0A-AE7SE3	X002HRKD61	B085GDH4FX		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-C02P-A15FXX-AE1SE2	X002LE2YW1	B08DFWGFYD	SNAPTAIN A15F Foldable Drone with 1080P HD Camera FPV WiFi RC Quadcopter for Beginners, Optical Flow Positioning, w/Voice Control, Gesture Control, Trajectory Flight, Circle Fly, 3D Flips, G-Sensor, Headless Mode	New	299.99	No		Yes	360	246	0	114	1320	4912.68	960	0	0	0
+SSP1-C02P-S5CXXX-AE1SE2	X002LNIVCJ	B08DJ1B6V7	SNAPTAIN S5C WiFi FPV Drone with 1080P HD Camera, Voice Control Live Video RC Quadcopter with Altitude Hold, Gravity Sensor Function	New	299.99	No		Yes	0	0	0	0	192	7140.01	192	0	0	0
+SSP1-CT25-UNBK0A-AE1SE3	X002JFV5IV	B087BVR1K3		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-H609XX-USBK0A-AE1SE1	X002HEFLAH	B084WWXPBS		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-H609XX-USBK0A-AE1SE2	X002K8GMVH	B084WWXPBS		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-H610-CABK0A-AE1SE1	X002MGLLX1	B08G4GYX1X	VanTop H610 10" 2.5K Mirror Dash Cam for Cars with Full Touch Screen, Waterproof Backup Camera Rear View Mirror Camera, Enhanced Night Vision with Sony Starvis Sensor, Parking Assistance	New	199.99	No		Yes	0	0	0	0	192	3080.28	192	0	0	0
+SSP1-H610-USBK0A-AE1SE1	X002ISQP07	B07XZ1D226		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-H612TX-USBK0A-AE1SE1	X002JX1EEN	B089SVCW1X		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-H612TX-USBK0A-AE1SE2	X002LTHW6J	B089SVCW1X		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-H612XX-USBK0A-AE1SE1	X002LEUMPR	B08DF94H7D		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-H823-CABU1A-AE1SE6	X002LIS09X	B07H5J53HN	SNAPTAIN H823H Mini Drone for Kids, RC Nano Quadcopter w/ Altitude Hold, Headless Mode, 3D Flips, One Key Return and Speed Adjustment	New	79.99	No		Yes	0	0	0	0	288	1782.91	288	0	0	0
+SSP1-H823HP-USGN0A-AE2SE3	X002I67VE3	B086TYM52B		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-K300-CAPK0A-AE1SE1	X002MMIN6N	B07JNHV88J	VanTop Junior K3 Kids Camera, 1080P Supported Waterproof Video Camera w/ 32Gb Memory Card, Extra Kid-Proof Silicon Case, Card Reader, Lanyard, Carrying Bag	New	52.99	No		Yes	0	0	0	0	200	1561.69	200	0	0	0
+SSP1-K300-USBU0A-AE5SE1	X002M1EINV	B08FB5WMJB		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-K300-USPK0A-AE5SE1	X002M1KNJT	B08FB6892C		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-K800-USPK0A-AE1SE1	X002L395GP	B07ZFT8GCL		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-MM3C-USBK0A-AE2SE6	X002H1C7BV	B082186KCS		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-MM40-USBK0A-AE2SE6	X002L9KIPV	B0821FV3F6		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-MM4C-USBK0A-AE1SE3	X002IAG41F	B0877YNTX2		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-MM4UXX-CABK0A-AE1SE2	X002M58QGH	B08FQLC2LQ	VanTop Moment 4U 4K Action Camera w/Gopro Compatible Carrying Case, Remote Control, 16MP Sony Sensor, 30M Waterproof Action Camera w/Gopro Compatible Accessories,2 Batteries, 170�Ultra Wide Angle	New	109.99	No		Yes	0	0	0	0	200	2128.52	200	0	0	0
+SSP1-MM4UXX-CABK0A-AE1SE4	X002M628QZ	B08FQLC2LQ	VanTop Moment 4U 4K Action Camera w/Gopro Compatible Carrying Case, Remote Control, 16MP Sony Sensor, 30M Waterproof Action Camera w/Gopro Compatible Accessories,2 Batteries, 170�Ultra Wide Angle	New	109.99	No		Yes	0	0	0	0	0	2128.52	0	0	0	0
+SSP1-MM4UXX-UNBK0A-AE1SE3	X002LM7U81	B08D6JSXQC		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-MM4UXX-UNBK0A-AE3SE3	X002LO09T1	B08DY5FP1T		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-MM5C-CABK0A-AE1SE1	B0856XV1VD	B0856XV1VD		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-MM5C-CABK0A-AE1SE2	X002JJHN79	B0856XV1VD	VanTop Moment 5C Native 4K 60fps WiFi Action Camera with Touch Screen, 20MP Super Photo, EIS, 30M Waterproof Underwater Sports Camera with 2Pcs Rechargeable Batteries and Gopro Compatible Accessories	New	159.99	No		Yes	0	0	0	0	120	3006.04	0	120	0	0
+SSP1-MM5C-USBK0A-AE2SE3	X002IAISRD	B0878C8DVL		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-MM6S-USBK0A-AE1SE3	X002I0FAZV	B085ZWJGHT		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-NBM3XX-USGY0A-AE1SE1	X002KZDZLZ	B08C7VLMJD		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-NINJAX-USCA0A-AE1SE3	X002LM6K7D	B08DNSPKXD		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-S300-USBU0A-AE1SE1	X002JHB6GF	B07YMPP87X		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-S300-USBU0A-AE1SE2	X002MEO1SP	B07XSF1MNQ		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-S330-USBU0A-AE1SE1	X002JH1DX1	B07YMPP87X		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-S330-USRD0A-AE1SE1	X002LVC9KB	B07YMSDZYG		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-S500-CABK0A-AE1SE3	X002KKAT0Z	B087CL18SJ	SNAPTAIN SP500 Foldable GPS FPV Drone with 1080P HD Camera Live Video for Beginners, RC Quadcopter with GPS Return Home, Follow Me, Gesture Control, Circle Fly, Auto Hover & 5G WiFi Transmission	New	299.99	No		Yes	0	0	0	0	480	7870.71	480	0	0	0
+SSP1-S500-CABK0A-AE1SE4	X002MB3693	B07Y9YMVRG		Unknown					0	0	0	0	192		192	0	0	0
+SSP1-S500-USBK0A-AE1SE1	X002MEV7MD	B07Y9YMVRG		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-S510-USBK0A-AE1SE1	X002ISEVVR	B07Z3M7F7X		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-S550-USBK0A-AE1SE1	X002I6AJU1	B084WSWHBK		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-S550-USBK0A-AE3SE1	X002IPMI4H	B08868QT3M		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-S550-USBK0A-AE3SE2	X002ITQDGH	B08868QT3M		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-S650-CABK6A-AE1SE3	X002JM7R4F	B082W9TB9K	SNAPTAIN SP650 1080P Drone with Camera for Adults 1080P HD Live Video Camera Drone for Beginners w/Voice Control, Gesture Control, Circle Fly, High-Speed Rotation, Altitude Hold, Headless Mode	New	210.99	No		Yes	481	331	0	150	481	8796.41	0	0	0	0
+SSP1-S650-USBK6A-AE1SE1	X002ISK41X	B07WHRJ99S		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-S700-USCA0A-AC1SC6	X002IBOCHR	B07ZM8MVKX		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-S700-USCA0A-AC1SC7	X002LY8N21	B07ZM8MVKX		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-SP350X-USRD0A-AE2SE2	X002IBOA7T	B086V39SGX		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-SP350X-USYE0A-AE1SE2	X002ISHI8F	B087BYBWV3		Unknown					0	0	0	0	0		0	0	0	0
+SSP1-TS60-USBU4A-AE1SE1	X002L7RESR	B07DJ12L2D		Unknown					0	0	0	0	0		0	0	0	0

@@ -1,0 +1,34 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+ERS-2A08-CABK0A-3WBS1	B0894PK4XV	B0894PK4XV	Kyvol 24pcs Replenishment Kit for Kyvol Cybovac E20 Series Vacuum Accessories, Replacement Parts with 12 Filters 4 & 12 sponges	New	49.99	No		Yes	50	50	0	0	50	1716.22	0	0	0	0
+ERS-2A08-USBK0A-3WBS1	X002J7SX07	B0894PTTGC		Unknown					0	0	0	0	0		0	0	0	0
+ERS-2A09-CABK0A-3WBS1	B0894QSLLV	B0894QSLLV	Kyvol 31pcs Replenishment Kit for Kyvol Cybovac E20/E30/E31 Series Robot Vacuum Cleaner Accessories, Replacement Parts with 10 Filters,10 sponges,8 Side Brushs, 2 Main Brushs & 1 Cleaning Brush	New	59.99	No		Yes	90	87	0	3	90	2691.74	0	0	0	0
+ERS-2A09-USBK0A-3WBS1	X002JAH0ML	B0894SQRBV		Unknown					0	0	0	0	0		0	0	0	0
+ERS-2A14-USBK0A-3WBS1	X002L7RRNJ	B08D9LD69K		Unknown					0	0	0	0	0		0	0	0	0
+ERS-2A15-USBK0A-3WBS1	X002L8DT67	B08D9L2R94		Unknown					0	0	0	0	0		0	0	0	0
+ERS-6F01-USBU0A-3WBS1	X002MO2YKH	B08GRHZL7S		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E20X-CABK0A-3WBS1	B088WVZR3Z	B088WVZR3Z	Kyvol Cybovac E20 Robot Vacuum, 2000Pa Strong Suction Robotic Vacuum Cleaner, 150 Mins Runtime & Self-Charging, Robotic Vacuum Works with Wi-Fi Connected & Voice Control, Good for Pet Hair Hard Floor	New	299.99	No		Yes	15	9	2	1	15	17075.98	0	0	0	3
+ERS-E20X-CABK0A-3WBS3	X002JKW3OB	B088WVZR3Z	Kyvol Cybovac E20 Robot Vacuum, 2000Pa Strong Suction Robotic Vacuum Cleaner, 150 Mins Runtime & Self-Charging, Robotic Vacuum Works with Wi-Fi Connected & Voice Control, Good for Pet Hair Hard Floor	New	299.99	No		Yes	388	379	0	6	4549	17075.98	3489	282	390	3
+ERS-E20X-CAWH0A-3WBS1	X002L0LRPF	B08CXW2LTT	Kyvol Cybovac E20 Robot Vacuum White CA	New	299.99	No		Yes	0	0	0	0	1710	13199.94	1710	0	0	0
+ERS-E20X-USBK0A-3WBS3	X002J7TN29	B088WMZSP5		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E20X-USBK0A-3WBS4	X002JPU3KH	B088WMZSP5		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E20X-USBK0A-3WBS5	X002K6P2LZ	B088WMZSP5		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E20X-USBK0A-3WBS6	X002K5WCTL	B088WMZSP5		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E20X-USWH0A-3WBS1	X002L0JU63	B08CXG6SFD		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E30X-USBK0A-3WBS1	X002JQZV49	B089CV1N97		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E30X-USBK0A-3WBS2	X002JQZY55	B089CV1N97		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E30X-USBK0A-3WBS3	X002K6W1J1	B089CV1N97		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E30X-USBKOA-3WBS1	X002JC3L27	B089CV1N97		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E31X-USBK0A-3WBS4	X002JUN7V9	B089R3K2X6		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E31X-USBK0A-3WBS5	X002JQZVHV	B089R3K2X6		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E31X-USBKOA-3WBS1	B089NQJC44	B089NQJC44		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E31X-USBKOA-3WBS2	X002JHXGL3	B089NQJC44		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E31X-USBKOA-3WBS3	X002JJWYDR	B089NQJC44		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E31X-USBKOA-3WBS4	X002JKWGT3	B089R3K2X6		Unknown					0	0	0	0	0		0	0	0	0
+ERS-E31X-USBKOA-3WBS5	X002JMFEJF	B089R3K2X6		Unknown					0	0	0	0	0		0	0	0	0
+ERS-KYHD-CADG0A-3WBS1	X002KPHW8H	B08CDB1Z2B	Kyvol Humidifiers Cool Mist Humidifier, 4.5L Large Capacity, Ultrasonic for Home, 360Nozzle, grey	New	50.00	No		Yes	0	0	0	0	300	18239.95	300	0	0	0
+ERS-KYHD-CADG0A-3WBS2	X002KQ2853	B08CDB1Z2B	Kyvol Humidifiers Cool Mist Humidifier, 4.5L Large Capacity, Ultrasonic for Home, 360Nozzle, grey	New	50.00	No		Yes	0	0	0	0	0	18239.95	0	0	0	0
+ERS-KYHD-CAWH0A-3WBS1	X002KPOES3	B08CB1X32Y	Kyvol Humidifiers Cool Mist Humidifier, 4.5L Large Capacity, Ultrasonic for Home, 360Nozzle	New	50.00	No		Yes	0	0	0	0	300	18239.95	300	0	0	0
+ERS-KYHD-CAWH0A-3WBS2	X002KQ25LP	B08CB1X32Y	Kyvol Humidifiers Cool Mist Humidifier, 4.5L Large Capacity, Ultrasonic for Home, 360Nozzle	New	50.00	No		Yes	0	0	0	0	0	18239.95	0	0	0	0
+ERS-KYHD-USDG0A-3WBS1	X002KS8DMX	B08CGTBN6Z		Unknown					0	0	0	0	0		0	0	0	0
+ERS-KYHD-USWH0A-3WBS1	X002KS7XQF	B08CGK75DM		Unknown					0	0	0	0	0		0	0	0	0
+ERS-KYHD-USWH0A-3WBS2	X002KUZ9ZP	B08CGK75DM		Unknown					0	0	0	0	0		0	0	0	0

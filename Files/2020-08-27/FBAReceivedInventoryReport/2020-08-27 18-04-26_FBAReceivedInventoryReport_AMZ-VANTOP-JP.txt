@@ -1,0 +1,2 @@
+received-date	fnsku	sku	product-name	quantity	fba-shipment-id	fulfillment-center-id
+2020-08-27T00:00:00+09:00	X000URR71X	VNTP1-HMB2XX-JPWH0A -AC1SC2	HeimVision ワイヤレステレビドアホン 1080P HDインターホン 無線WiFi スマホ対応 双方向音声 暗視機能 動体検知 IP65防塵防水 工事不要 日本仕様 HMB1	320	FBA15CFVVQB9	KIX3

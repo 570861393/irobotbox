@@ -1,0 +1,3 @@
+received-date	fnsku	sku	product-name	quantity	fba-shipment-id	fulfillment-center-id
+2020-08-25T00:00:00+09:00	X000V743GJ	VK1-FD710X-JPWH0A-AE1SE1	[2020年最新版] TeamMe ソープ自動ディスペンサー 450ml 電池式 IPX4 泡 オート センサー 吐出量2段階調整 LEDランプ 非接触 ハンドソープ キッチン 洗面所などに適用 FD710 説明書付き	480	FBA15CFS6RJ4	KIX1
+2020-08-25T00:00:00+09:00	X000V743GJ	VK1-FD710X-JPWH0A-AE1SE1	[2020年最新版] TeamMe ソープ自動ディスペンサー 450ml 電池式 IPX4 泡 オート センサー 吐出量2段階調整 LEDランプ 非接触 ハンドソープ キッチン 洗面所などに適用 FD710 説明書付き	320	FBA15CFS6W88	KIX1

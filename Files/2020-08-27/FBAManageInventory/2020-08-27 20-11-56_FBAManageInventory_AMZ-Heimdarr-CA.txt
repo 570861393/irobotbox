@@ -1,0 +1,12 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+HDAR-3D0005-UNBK0A-H1V1	X002LM853P	B083J9YXQ1		Unknown					0	0	0	0	0		0	0	0	0
+HDAR-H202A-USWH0A-H1V1	X002M7936R	B085ZMDF4B		Unknown					0	0	0	0	0		0	0	0	0
+HDAR-H203-USWH0A-H1V1	X002M792UT	B07YXPW7JJ		Unknown					0	0	0	0	0		0	0	0	0
+HDAR-H206X-USBK0A-H1V1	X002MDOPL9	B0885WVDXJ		Unknown					0	0	0	0	0		0	0	0	0
+HDAR-H245-USBK0A-H1V1	X002M0BXOT	B07ZGBMVJ9		Unknown					0	0	0	0	0		0	0	0	0
+HDAR-HM132X-USWH0A-H3V3	X002M78MUP	B0894FBZ68		Unknown					0	0	0	0	0		0	0	0	0
+HDAR-HM311X-USWH0A-H2V4	X002MGLUYV	B088LLVHL8		Unknown					0	0	0	0	0		0	0	0	0
+HDAR-HMA2-USWH0A-H1V1	X002M7OHBX	B0893191H3		Unknown					0	0	0	0	0		0	0	0	0
+HDAR-HMD2-USWH0A-H1V1	X002LY95W3	B07T2Q7WJ5		Unknown					0	0	0	0	0		0	0	0	0
+HDAR-S7FK-USPK1A-H1V1	X002MO3843	B089DH5B6C		Unknown					0	0	0	0	0		0	0	0	0
+HDAR-SE01-USBK0A-H1V1	X002L81AI1	B07TMXZF5Q		Unknown					0	0	0	0	0		0	0	0	0

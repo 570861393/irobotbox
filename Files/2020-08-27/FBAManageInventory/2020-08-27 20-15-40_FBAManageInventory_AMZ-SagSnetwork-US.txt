@@ -1,0 +1,6 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity	afn-reserved-future-supply	afn-future-supply-buyable
+SPH01-SHPW01-USWH0A-A1S1	B08GHGTGQ2	B08GHGTGQ2	Sagino Shine PW01 Slow Rebound Memory Foam Pillow	New	40.00	No		Yes	0	0	0	0	0		0	0	0	0	0	0
+SPH01-SHPW02-USWH1A-A1S1	X002MMQHKH	B08GH81M3C	Sagino Shine PW02 Hypoallergenic Pillow Standard Size	New	20.00	No		Yes	0	0	0	0	96	0.67	96	0	0	0	0	0
+SPH01-SHPW02-USWH2A-A1S1	X002MMQH6V	B08GHBM9J7	Sagino Shine PW02 Hypoallergenic Pillow Queen Size	New	20.00	No		Yes	0	0	0	0	120	0.72	120	0	0	0	0	0
+SPH01-SHPW02-USWH3A-A1S1	X002MMQKG3	B08GHH2M7S	Sagino Shine PW02 Hypoallergenic Pillow King Size	New	20.00	No		Yes	0	0	0	0	96	0.82	96	0	0	0	0	0
+SPH01-SHPW03-USWH2A-A1S1	B08GHLBR34	B08GHLBR34	Sagino Shine PW03 Shredded Memory Foam Pillow Queen Size	New	50.00	No		Yes	0	0	0	0	0		0	0	0	0	0	0

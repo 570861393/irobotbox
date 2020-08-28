@@ -1,0 +1,8 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity	afn-reserved-future-supply	afn-future-supply-buyable
+ES1-5A005-USWH5A-S1A1	B08BLNBVNL	B08BLNBVNL	VANKYO StayTrue Projector Screen, 120 Inch Projection Screen 4K HD, 16:9, Foldable Wrinkle-Free Movies Screen(1.1 GAIN, 160°Viewing Cone) for Home Theater, Support Front & Rear Projection	New	42.99	No		Yes	0	0	0	0	600	0.24	0	600	0	0	0	0
+ES1-VKS200-USBU0A-S1A1	X002MJ8PHN	B089KM429V	SNUGMAX Vickers 200 Portable Power Station with 222Wh Backup Lithium Battery, Solar Generator with 110V/200W Pure Sine Wave AC Outlet & Type-C Port for Indoor CPAP Outdoors Camping Travel Emergency	New	249.99	No		Yes	8	0	0	8	24	0.38	0	0	16	0	0	0
+ES2-5A0004-CAWH4A-A1S3	B08619NSD2	B08619NSD2		Unknown					0	0	0	0	0		0	0	0	0	0	0
+ES2-5A0005-CAWH5A-1S5	B08DDBH9X6	B08DDBH9X6		Unknown					0	0	0	0	0		0	0	0	0	0	0
+ES2-L430WX-CAWH2A-1S5	B089K55DHG	B089K55DHG		Unknown					0	0	0	0	0		0	0	0	0	0	0
+ES2-L470-CAWH0B-S5A3	B081CVBMWL	B081CVBMWL		Unknown					0	0	0	0	0		0	0	0	0	0	0
+ES2-LS3WDX-CABK1A-S7A1	B08869KH64	B08869KH64		Unknown					0	0	0	0	0		0	0	0	0	0	0

@@ -1,0 +1,280 @@
+snapshot-date	fnsku	sku	product-name	quantity	fulfillment-center-id	detailed-disposition	country
+2020-08-26T01:00:00+09:00	X000VI49KX	DB1-L430WX-JPWH2A-AC2SC4	VANKYO プロジェクター 小型 4600ルーメン HDプロジェクター スマホ接続可 ホームシアター 1080Pに対応 タブレット/パソコン/DVD/TV Stick/iPhone/Android/ゲーム機に対応 Leisure 430W	1	KIX5	WAREHOUSE_DAMAGED	JP
+2020-08-26T01:00:00+09:00	X000VI49KX	DB1-L430WX-JPWH2A-AC2SC4	VANKYO プロジェクター 小型 4600ルーメン HDプロジェクター スマホ接続可 ホームシアター 1080Pに対応 タブレット/パソコン/DVD/TV Stick/iPhone/Android/ゲーム機に対応 Leisure 430W	199	KIX5	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000VG4QN5	DB1-S10FAX-JPBK3A-AD1SD8	VANKYO S10 タブレット 10.1インチ Android 9.0 RAM2GB/ROM32GB Wi-Fiモデル デュアルカメラ GPS FM機能搭載 日本語取扱説明書	22	KIX5	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000VCGZE7	DB1-2A0009-JPBK0A-AD1SD1	Kyvol 掃除機専用 消耗品アクセサリ フィルター サイドブラシ メインブラシ 清掃ツール	140	KIX3	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000VCGZE7	DB1-2A0009-JPBK0A-AD1SD1	Kyvol 掃除機専用 消耗品アクセサリ フィルター サイドブラシ メインブラシ 清掃ツール	1	FSZ1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V9J6UF	DB1-E20XXX-JPWH0A-AD1SD1	Kyvol E20 ロボット掃除機 2500Pa 超薄型 静音 自動充電 アレクサ 落下防止 衝突防止 150分間稼働 進入禁止	594	TYO1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V742SN	DB1-A80S-JPWH0A-AD1SD1	目覚まし時計 光 大音量 WiFi 目覚ましライト コンセント式 Alexa/Google homeで制御 スヌーズ&ラジオ機能付き ホワイトノイズ 快眠 20段階調光 HeimVision A80S	500	NGO2	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	34	TYO1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-26T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	3	NGO2	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	505	KIX5	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	1	KIX1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	3	NRT1	DEFECTIVE	JP
+2020-08-26T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	179	KIX5	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	337	KIX3	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	2	HSG1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	1	FSZ1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	1	*XFR	SELLABLE	
+2020-08-26T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	6	NRT1	DEFECTIVE	JP
+2020-08-26T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	2	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-26T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	364	KIX5	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	5	KIX3	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	1	KIX1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	3	*XFR	SELLABLE	
+2020-08-26T01:00:00+09:00	X000UY4QBF	DB1-S350-JPBU0A-AC1SC1	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	1	NRT1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UY4QBF	DB1-S350-JPBU0A-AC1SC1	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	2	NRT1	DEFECTIVE	JP
+2020-08-26T01:00:00+09:00	X000UY4QBF	DB1-S350-JPBU0A-AC1SC1	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	224	KIX5	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UY4QBF	DB1-S350-JPBU0A-AC1SC1	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	91	KIX1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000URYX01	DB1-HMB2XX-JPWH0A-AC1SC3	HeimVision ワイヤレステレビドアホン 1080P HDインターホン 無線WiFi スマホ対応 双方向音声 暗視機能 動体検知 IP65防塵防水 工事不要 日本仕様 HMB1	3	NRT1	DEFECTIVE	JP
+2020-08-26T01:00:00+09:00	X000URYX01	DB1-HMB2XX-JPWH0A-AC1SC3	HeimVision ワイヤレステレビドアホン 1080P HDインターホン 無線WiFi スマホ対応 双方向音声 暗視機能 動体検知 IP65防塵防水 工事不要 日本仕様 HMB1	327	KIX5	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UPU10T	DB1-S5C0-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き バッテリー2個付き 飛行時間15分 室内向け 200g未満 WIFI FPV リアルタイム 720P HDカメラ 高度維持機能 体感モード 3D VRサポート ワンキー起動/着陸 初心者 子供に対応可能S5C	792	KIX5	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UPU10T	DB1-S5C0-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き バッテリー2個付き 飛行時間15分 室内向け 200g未満 WIFI FPV リアルタイム 720P HDカメラ 高度維持機能 体感モード 3D VRサポート ワンキー起動/着陸 初心者 子供に対応可能S5C	408	KIX3	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UPU10T	DB1-S5C0-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き バッテリー2個付き 飛行時間15分 室内向け 200g未満 WIFI FPV リアルタイム 720P HDカメラ 高度維持機能 体感モード 3D VRサポート ワンキー起動/着陸 初心者 子供に対応可能S5C	96	KIX1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UPD92B	DB1-S650-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き 1080P HD 120°広角カメラ 200g未満 最大24分飛行時間 WIFI FPVリアルタイム伝送 高度維持 自動ホバリング 低電圧アラーム ヘッドレスモード 高速回転ホバー機能 体感モード モード１/２転換可能 国内認証済みSP650	479	HND8	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	3	NRT1	DEFECTIVE	JP
+2020-08-26T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-26T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	13	NGO2	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	1	FSZ1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	1	NRT1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	1	NGO2	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	1	KIX1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	3	HSG1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	74	FSZ1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	1	*XFR	SELLABLE	
+2020-08-26T01:00:00+09:00	X000UMZN2X	DB1-4D0002-JPCR2A-AC1SC1	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	239	TYO1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMZN2X	DB1-4D0002-JPCR2A-AC1SC1	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-26T01:00:00+09:00	X000UMZN2X	DB1-4D0002-JPCR2A-AC1SC1	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	1	HND9	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMZN2X	DB1-4D0002-JPCR2A-AC1SC1	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	1	*XFR	SELLABLE	
+2020-08-26T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	149	TYO1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	NRT1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	3	NRT1	DEFECTIVE	JP
+2020-08-26T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-26T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	5	NGO2	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	KIX5	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	KIX3	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	2	KIX1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	HND8	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	172	TYO1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	1	NRT1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	1	NRT1	DEFECTIVE	JP
+2020-08-26T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	4	NGO2	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	1	KIX5	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	1	KIX1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UMW8KN	DB1-CT07-JPBK0A-AC1SC1	SNAPTAIN A15 ドローン用バッテリー2個＋充電器セット バッテリー2個同時充電可能	94	NGO2	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UKFBDV	DB1-A15H-JPGY0A-AC1SC1	SNAPTAIN ドローン カメラ付き 小型 折り畳み式 バッテリー2個 飛行時間20分 ワンキーリターン 軌跡飛行 WIFI fpv リアルタイム 高度維持 720P HD 自動ホバリング 体感モード ヘッドレスモード 200g未満 初心者 子供 対応可能 音声制御 国内認証済み A15H	1	NRT1	DEFECTIVE	JP
+2020-08-26T01:00:00+09:00	X000UKFBDV	DB1-A15H-JPGY0A-AC1SC1	SNAPTAIN ドローン カメラ付き 小型 折り畳み式 バッテリー2個 飛行時間20分 ワンキーリターン 軌跡飛行 WIFI fpv リアルタイム 高度維持 720P HD 自動ホバリング 体感モード ヘッドレスモード 200g未満 初心者 子供 対応可能 音声制御 国内認証済み A15H	66	HND9	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	2	NRT1	DEFECTIVE	JP
+2020-08-26T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	179	KIX5	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	1	KIX3	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	186	FSZ1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	1	NRT2	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	6	NRT1	DEFECTIVE	JP
+2020-08-26T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	6	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-26T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	489	KIX5	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	1	KIX3	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	3	KIX1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	35	HND8	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	1	HND6	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	2	FSZ1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	2	*XFR	SELLABLE	
+2020-08-26T01:00:00+09:00	X000UG0BNF	DB1-E30XXX-JPBK0A-A2S1	Kyvol E30 ロボット掃除機 2200Pa 弓形働く マッピング 150分間稼働 静音 境界線テープ 衝突防止 自動充電	198	NRT1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	2	NRT1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	2	NRT1	DEFECTIVE	JP
+2020-08-26T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	2	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-26T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	180	NGO2	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	1	KIX3	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	4	KIX1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	4	HSG1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	117	HND9	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	1	HND6	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	1	FSZ1	WAREHOUSE_DAMAGED	JP
+2020-08-26T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	4	FSZ1	SELLABLE	JP
+2020-08-26T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	1	*XFR	SELLABLE	
+2020-08-25T01:00:00+09:00	X000VI49KX	DB1-L430WX-JPWH2A-AC2SC4	VANKYO プロジェクター 小型 4600ルーメン HDプロジェクター スマホ接続可 ホームシアター 1080Pに対応 タブレット/パソコン/DVD/TV Stick/iPhone/Android/ゲーム機に対応 Leisure 430W	1	KIX5	WAREHOUSE_DAMAGED	JP
+2020-08-25T01:00:00+09:00	X000VI49KX	DB1-L430WX-JPWH2A-AC2SC4	VANKYO プロジェクター 小型 4600ルーメン HDプロジェクター スマホ接続可 ホームシアター 1080Pに対応 タブレット/パソコン/DVD/TV Stick/iPhone/Android/ゲーム機に対応 Leisure 430W	199	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000VG4QN5	DB1-S10FAX-JPBK3A-AD1SD8	VANKYO S10 タブレット 10.1インチ Android 9.0 RAM2GB/ROM32GB Wi-Fiモデル デュアルカメラ GPS FM機能搭載 日本語取扱説明書	22	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000VCGZE7	DB1-2A0009-JPBK0A-AD1SD1	Kyvol 掃除機専用 消耗品アクセサリ フィルター サイドブラシ メインブラシ 清掃ツール	142	KIX3	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V9J6UF	DB1-E20XXX-JPWH0A-AD1SD1	Kyvol E20 ロボット掃除機 2500Pa 超薄型 静音 自動充電 アレクサ 落下防止 衝突防止 150分間稼働 進入禁止	594	TYO1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V742SN	DB1-A80S-JPWH0A-AD1SD1	目覚まし時計 光 大音量 WiFi 目覚ましライト コンセント式 Alexa/Google homeで制御 スヌーズ&ラジオ機能付き ホワイトノイズ 快眠 20段階調光 HeimVision A80S	500	NGO2	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	34	TYO1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-25T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	3	NGO2	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	505	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	1	KIX1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	3	NRT1	DEFECTIVE	JP
+2020-08-25T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	1	NGO2	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	184	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	346	KIX3	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	1	KIX1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	1	FSZ1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	3	*XFR	SELLABLE	
+2020-08-25T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	6	NRT1	DEFECTIVE	JP
+2020-08-25T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	2	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-25T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	373	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	14	KIX3	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	1	KIX1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UY4QBF	DB1-S350-JPBU0A-AC1SC1	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	1	NRT1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UY4QBF	DB1-S350-JPBU0A-AC1SC1	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	2	NRT1	DEFECTIVE	JP
+2020-08-25T01:00:00+09:00	X000UY4QBF	DB1-S350-JPBU0A-AC1SC1	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	224	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UY4QBF	DB1-S350-JPBU0A-AC1SC1	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	91	KIX1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000URYX01	DB1-HMB2XX-JPWH0A-AC1SC3	HeimVision ワイヤレステレビドアホン 1080P HDインターホン 無線WiFi スマホ対応 双方向音声 暗視機能 動体検知 IP65防塵防水 工事不要 日本仕様 HMB1	3	NRT1	DEFECTIVE	JP
+2020-08-25T01:00:00+09:00	X000URYX01	DB1-HMB2XX-JPWH0A-AC1SC3	HeimVision ワイヤレステレビドアホン 1080P HDインターホン 無線WiFi スマホ対応 双方向音声 暗視機能 動体検知 IP65防塵防水 工事不要 日本仕様 HMB1	327	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UPU10T	DB1-S5C0-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き バッテリー2個付き 飛行時間15分 室内向け 200g未満 WIFI FPV リアルタイム 720P HDカメラ 高度維持機能 体感モード 3D VRサポート ワンキー起動/着陸 初心者 子供に対応可能S5C	792	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UPU10T	DB1-S5C0-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き バッテリー2個付き 飛行時間15分 室内向け 200g未満 WIFI FPV リアルタイム 720P HDカメラ 高度維持機能 体感モード 3D VRサポート ワンキー起動/着陸 初心者 子供に対応可能S5C	408	KIX3	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UPU10T	DB1-S5C0-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き バッテリー2個付き 飛行時間15分 室内向け 200g未満 WIFI FPV リアルタイム 720P HDカメラ 高度維持機能 体感モード 3D VRサポート ワンキー起動/着陸 初心者 子供に対応可能S5C	96	KIX1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UPD92B	DB1-S650-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き 1080P HD 120°広角カメラ 200g未満 最大24分飛行時間 WIFI FPVリアルタイム伝送 高度維持 自動ホバリング 低電圧アラーム ヘッドレスモード 高速回転ホバー機能 体感モード モード１/２転換可能 国内認証済みSP650	479	HND8	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	1	NRT1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	3	NRT1	DEFECTIVE	JP
+2020-08-25T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-25T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	13	NGO2	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	1	FSZ1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	2	NGO2	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	1	HSG1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	81	FSZ1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	4	*XFR	SELLABLE	
+2020-08-25T01:00:00+09:00	X000UMZN2X	DB1-4D0002-JPCR2A-AC1SC1	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	241	TYO1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMZN2X	DB1-4D0002-JPCR2A-AC1SC1	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-25T01:00:00+09:00	X000UMZN2X	DB1-4D0002-JPCR2A-AC1SC1	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	1	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMZN2X	DB1-4D0002-JPCR2A-AC1SC1	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	1	*XFR	SELLABLE	
+2020-08-25T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	149	TYO1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	NRT1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	3	NRT1	DEFECTIVE	JP
+2020-08-25T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-25T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	5	NGO2	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	KIX3	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	2	KIX1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	HND8	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	172	TYO1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	1	NRT1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	1	NRT1	DEFECTIVE	JP
+2020-08-25T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	4	NGO2	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	1	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	1	KIX1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UMW8KN	DB1-CT07-JPBK0A-AC1SC1	SNAPTAIN A15 ドローン用バッテリー2個＋充電器セット バッテリー2個同時充電可能	94	NGO2	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UKFBDV	DB1-A15H-JPGY0A-AC1SC1	SNAPTAIN ドローン カメラ付き 小型 折り畳み式 バッテリー2個 飛行時間20分 ワンキーリターン 軌跡飛行 WIFI fpv リアルタイム 高度維持 720P HD 自動ホバリング 体感モード ヘッドレスモード 200g未満 初心者 子供 対応可能 音声制御 国内認証済み A15H	1	NRT1	DEFECTIVE	JP
+2020-08-25T01:00:00+09:00	X000UKFBDV	DB1-A15H-JPGY0A-AC1SC1	SNAPTAIN ドローン カメラ付き 小型 折り畳み式 バッテリー2個 飛行時間20分 ワンキーリターン 軌跡飛行 WIFI fpv リアルタイム 高度維持 720P HD 自動ホバリング 体感モード ヘッドレスモード 200g未満 初心者 子供 対応可能 音声制御 国内認証済み A15H	66	HND9	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	2	NRT1	DEFECTIVE	JP
+2020-08-25T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	1	NGO2	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	181	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	1	HND2	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	187	FSZ1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	1	*XFR	SELLABLE	
+2020-08-25T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	1	NRT2	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	8	NRT1	DEFECTIVE	JP
+2020-08-25T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	6	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-25T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	537	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	2	KIX3	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	1	KIX1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	1	HSG1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	53	HND8	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	1	HND6	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	2	*XFR	SELLABLE	
+2020-08-25T01:00:00+09:00	X000UG0BNF	DB1-E30XXX-JPBK0A-A2S1	Kyvol E30 ロボット掃除機 2200Pa 弓形働く マッピング 150分間稼働 静音 境界線テープ 衝突防止 自動充電	198	NRT1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000UG0BNF	DB1-E30XXX-JPBK0A-A2S1	Kyvol E30 ロボット掃除機 2200Pa 弓形働く マッピング 150分間稼働 静音 境界線テープ 衝突防止 自動充電	1	KIX5	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	2	NRT1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	2	NRT1	DEFECTIVE	JP
+2020-08-25T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	2	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-25T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	183	NGO2	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	4	KIX1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	4	HSG1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	117	HND9	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	1	FSZ1	WAREHOUSE_DAMAGED	JP
+2020-08-25T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	3	FSZ1	SELLABLE	JP
+2020-08-25T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	1	*XFR	SELLABLE	
+2020-08-24T01:00:00+09:00	X000VI49KX	DB1-L430WX-JPWH2A-AC2SC4	VANKYO プロジェクター 小型 4600ルーメン HDプロジェクター スマホ接続可 ホームシアター 1080Pに対応 タブレット/パソコン/DVD/TV Stick/iPhone/Android/ゲーム機に対応 Leisure 430W	1	KIX5	WAREHOUSE_DAMAGED	JP
+2020-08-24T01:00:00+09:00	X000VI49KX	DB1-L430WX-JPWH2A-AC2SC4	VANKYO プロジェクター 小型 4600ルーメン HDプロジェクター スマホ接続可 ホームシアター 1080Pに対応 タブレット/パソコン/DVD/TV Stick/iPhone/Android/ゲーム機に対応 Leisure 430W	199	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000VG4QN5	DB1-S10FAX-JPBK3A-AD1SD8	VANKYO S10 タブレット 10.1インチ Android 9.0 RAM2GB/ROM32GB Wi-Fiモデル デュアルカメラ GPS FM機能搭載 日本語取扱説明書	1	TYO1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000VG4QN5	DB1-S10FAX-JPBK3A-AD1SD8	VANKYO S10 タブレット 10.1インチ Android 9.0 RAM2GB/ROM32GB Wi-Fiモデル デュアルカメラ GPS FM機能搭載 日本語取扱説明書	178	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000VG4QN5	DB1-S10FAX-JPBK3A-AD1SD8	VANKYO S10 タブレット 10.1インチ Android 9.0 RAM2GB/ROM32GB Wi-Fiモデル デュアルカメラ GPS FM機能搭載 日本語取扱説明書	1	KIX1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000VG4QN5	DB1-S10FAX-JPBK3A-AD1SD8	VANKYO S10 タブレット 10.1インチ Android 9.0 RAM2GB/ROM32GB Wi-Fiモデル デュアルカメラ GPS FM機能搭載 日本語取扱説明書	1	FSZ1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000VG4QN5	DB1-S10FAX-JPBK3A-AD1SD8	VANKYO S10 タブレット 10.1インチ Android 9.0 RAM2GB/ROM32GB Wi-Fiモデル デュアルカメラ GPS FM機能搭載 日本語取扱説明書	2	*XFR	SELLABLE	
+2020-08-24T01:00:00+09:00	X000VCGZE7	DB1-2A0009-JPBK0A-AD1SD1	Kyvol 掃除機専用 消耗品アクセサリ フィルター サイドブラシ メインブラシ 清掃ツール	143	KIX3	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V9J6UF	DB1-E20XXX-JPWH0A-AD1SD1	Kyvol E20 ロボット掃除機 2500Pa 超薄型 静音 自動充電 アレクサ 落下防止 衝突防止 150分間稼働 進入禁止	594	TYO1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V742SN	DB1-A80S-JPWH0A-AD1SD1	目覚まし時計 光 大音量 WiFi 目覚ましライト コンセント式 Alexa/Google homeで制御 スヌーズ&ラジオ機能付き ホワイトノイズ 快眠 20段階調光 HeimVision A80S	500	NGO2	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	38	TYO1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-24T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	3	NGO2	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	505	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	1	KIX3	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	2	KIX1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V508VF	DB1-S8FA-JPBK2A-AD1SD2	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	1	*XFR	SELLABLE	
+2020-08-24T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	3	NRT1	DEFECTIVE	JP
+2020-08-24T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	2	NGO2	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	188	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	357	KIX3	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V2AK2F	DB1-SP500J-JPBK0A-AD1SD1	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	1	*XFR	SELLABLE	
+2020-08-24T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	1	NRT1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	6	NRT1	DEFECTIVE	JP
+2020-08-24T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-24T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	374	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	27	KIX3	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000V0IHIL	DB1-C07H-HM311X-AD1SD1	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	2	KIX1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UY4QBF	DB1-S350-JPBU0A-AC1SC1	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	1	NRT1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UY4QBF	DB1-S350-JPBU0A-AC1SC1	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	2	NRT1	DEFECTIVE	JP
+2020-08-24T01:00:00+09:00	X000UY4QBF	DB1-S350-JPBU0A-AC1SC1	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	224	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UY4QBF	DB1-S350-JPBU0A-AC1SC1	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	91	KIX1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000URYX01	DB1-HMB2XX-JPWH0A-AC1SC3	HeimVision ワイヤレステレビドアホン 1080P HDインターホン 無線WiFi スマホ対応 双方向音声 暗視機能 動体検知 IP65防塵防水 工事不要 日本仕様 HMB1	3	NRT1	DEFECTIVE	JP
+2020-08-24T01:00:00+09:00	X000URYX01	DB1-HMB2XX-JPWH0A-AC1SC3	HeimVision ワイヤレステレビドアホン 1080P HDインターホン 無線WiFi スマホ対応 双方向音声 暗視機能 動体検知 IP65防塵防水 工事不要 日本仕様 HMB1	327	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UPU10T	DB1-S5C0-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き バッテリー2個付き 飛行時間15分 室内向け 200g未満 WIFI FPV リアルタイム 720P HDカメラ 高度維持機能 体感モード 3D VRサポート ワンキー起動/着陸 初心者 子供に対応可能S5C	792	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UPU10T	DB1-S5C0-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き バッテリー2個付き 飛行時間15分 室内向け 200g未満 WIFI FPV リアルタイム 720P HDカメラ 高度維持機能 体感モード 3D VRサポート ワンキー起動/着陸 初心者 子供に対応可能S5C	408	KIX3	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UPU10T	DB1-S5C0-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き バッテリー2個付き 飛行時間15分 室内向け 200g未満 WIFI FPV リアルタイム 720P HDカメラ 高度維持機能 体感モード 3D VRサポート ワンキー起動/着陸 初心者 子供に対応可能S5C	96	KIX1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UPD92B	DB1-S650-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き 1080P HD 120°広角カメラ 200g未満 最大24分飛行時間 WIFI FPVリアルタイム伝送 高度維持 自動ホバリング 低電圧アラーム ヘッドレスモード 高速回転ホバー機能 体感モード モード１/２転換可能 国内認証済みSP650	479	HND8	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	1	NRT1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	3	NRT1	DEFECTIVE	JP
+2020-08-24T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-24T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	13	NGO2	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UNGRHR	DB1--HM203-JPWH0A-AC1SC4	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	1	FSZ1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	3	NGO2	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	87	FSZ1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMZNC3	DB1-3D0002-JPGY2A-AC1SC1	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	3	*XFR	SELLABLE	
+2020-08-24T01:00:00+09:00	X000UMZN2X	DB1-4D0002-JPCR2A-AC1SC1	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	244	TYO1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMZN2X	DB1-4D0002-JPCR2A-AC1SC1	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-24T01:00:00+09:00	X000UMZN2X	DB1-4D0002-JPCR2A-AC1SC1	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	2	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMZN2X	DB1-4D0002-JPCR2A-AC1SC1	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	3	FSZ1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	149	TYO1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	NRT1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	3	NRT1	DEFECTIVE	JP
+2020-08-24T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-24T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	5	NGO2	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	KIX3	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	2	KIX1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMY9OL	DB1-Z1AK-JPPK1A-AC1SC2	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	1	HND8	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	172	TYO1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	1	NRT1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	2	NRT1	DEFECTIVE	JP
+2020-08-24T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	4	NGO2	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	1	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	1	KIX3	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMXVIV	DB1-Z1AK-JPBU1A-AC1SC1	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	1	KIX1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UMW8KN	DB1-CT07-JPBK0A-AC1SC1	SNAPTAIN A15 ドローン用バッテリー2個＋充電器セット バッテリー2個同時充電可能	94	NGO2	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UKFBDV	DB1-A15H-JPGY0A-AC1SC1	SNAPTAIN ドローン カメラ付き 小型 折り畳み式 バッテリー2個 飛行時間20分 ワンキーリターン 軌跡飛行 WIFI fpv リアルタイム 高度維持 720P HD 自動ホバリング 体感モード ヘッドレスモード 200g未満 初心者 子供 対応可能 音声制御 国内認証済み A15H	1	NRT1	DEFECTIVE	JP
+2020-08-24T01:00:00+09:00	X000UKFBDV	DB1-A15H-JPGY0A-AC1SC1	SNAPTAIN ドローン カメラ付き 小型 折り畳み式 バッテリー2個 飛行時間20分 ワンキーリターン 軌跡飛行 WIFI fpv リアルタイム 高度維持 720P HD 自動ホバリング 体感モード ヘッドレスモード 200g未満 初心者 子供 対応可能 音声制御 国内認証済み A15H	66	HND9	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	2	NRT1	DEFECTIVE	JP
+2020-08-24T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	1	NGO2	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	184	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	189	FSZ1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UJ9ZQL	DB1-A10XXX-JPWH0A-A1S2	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	1	*XFR	SELLABLE	
+2020-08-24T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	1	NRT2	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	1	NRT1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	4	NRT1	DEFECTIVE	JP
+2020-08-24T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	5	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-24T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	579	KIX5	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	1	KIX3	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	1	HND9	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	67	HND8	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UHZH01	DB1--HM202A-JPWH0A-AC1SC1	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	3	*XFR	SELLABLE	
+2020-08-24T01:00:00+09:00	X000UG0BNF	DB1-E30XXX-JPBK0A-A2S1	Kyvol E30 ロボット掃除機 2200Pa 弓形働く マッピング 150分間稼働 静音 境界線テープ 衝突防止 自動充電	213	NRT1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000UG0BNF	DB1-E30XXX-JPBK0A-A2S1	Kyvol E30 ロボット掃除機 2200Pa 弓形働く マッピング 150分間稼働 静音 境界線テープ 衝突防止 自動充電	1	FSZ1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	2	NRT1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	1	NRT1	CUSTOMER_DAMAGED	JP
+2020-08-24T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	186	NGO2	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	2	KIX1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	1	HSG1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	119	HND9	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	1	FSZ1	WAREHOUSE_DAMAGED	JP
+2020-08-24T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	1	FSZ1	SELLABLE	JP
+2020-08-24T01:00:00+09:00	X000U77QTL	DB1-E20XXX-JPBK0A	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	6	*XFR	SELLABLE	

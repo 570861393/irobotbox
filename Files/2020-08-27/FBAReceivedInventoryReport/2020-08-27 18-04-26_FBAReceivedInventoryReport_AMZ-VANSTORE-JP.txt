@@ -1,0 +1,2 @@
+received-date	fnsku	sku	product-name	quantity	fba-shipment-id	fulfillment-center-id
+2020-08-26T00:00:00+09:00	X000V7IXYH	VNST1-5A0004-JPWH3A-AC1SC7	VANKYO 壁掛け式スクリーン 折りたたみ式 スクリーン プロジェクター用 ホームシアター スクリーン ポータブル 投射スクリーン 映画鑑賞/オフィス会議/プレゼン 16:9 しわなし (100インチ)	-17	FBA15CFVMJ02	NGO2

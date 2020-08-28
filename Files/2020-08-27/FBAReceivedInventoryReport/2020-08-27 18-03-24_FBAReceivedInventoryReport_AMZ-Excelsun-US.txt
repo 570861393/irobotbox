@@ -1,0 +1,13 @@
+received-date	fnsku	sku	product-name	quantity	fba-shipment-id	fulfillment-center-id
+2020-08-26T00:00:00-07:00	X002MJ8PHN	ES1-VKS200-USBU0A-S1A1	SNUGMAX Vickers 200 Portable Power Station with 222Wh Backup Lithium Battery, Solar Generator with 110V/200W Pure Sine Wave AC Outlet & Type-C Port for Indoor CPAP Outdoors Camping Travel Emergency	8	FBA15QDLFFRS	MDW2
+2020-08-25T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	10	FBA15PGHJCX0	YYZ4
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	80	FBA15PGDRLQ5	YYZ4
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	120	FBA15PGJM8FG	YYZ4
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	90	FBA15PGG5DBM	YYZ4
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	110	FBA15PGHK0KP	YYZ4
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	70	FBA15PGHK0K1	YYZ4
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	70	FBA15PGHJCX0	YYZ4
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	70	FBA15PGHKDJ0	YYZ4
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	70	FBA15PGJM9D4	YYZ4
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	80	FBA15PGDS9N5	YYZ4
+2020-08-24T00:00:00-07:00	B08869KH64	ES2-LS3WDX-CABK1A-S7A1	Selfie Ring Light, 3 Different Model,LED Circle Light ,for Cell Phone Laptop Camera Photography Video Lighting Clip On Rechargeable	101	FBA15PGHK1FS	YYZ4

@@ -1,0 +1,8 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+HFL-3A0004-UNBK0A-K1L1	X002K20XSV	B089YNKFNY		Unknown					0	0	0	0	0		0	0	0	0
+HFL-3D0001-USGY1A-K1L1	B083K64JR3	B083K64JR3		Unknown					0	0	0	0	0		0	0	0	0
+HFL-3D0002-USGY2A-K1L2	X002MF07XR	B082TTS6X7		Unknown					0	0	0	0	0		0	0	0	0
+HFL-3D0004-USGY3A-K1L1	X002ME8NHF	B083S774XZ		Unknown					0	0	0	0	0		0	0	0	0
+HFL-S30H-USSV4A-K1L1	B083BRVG28	B083BRVG28		Unknown					0	0	0	0	0		0	0	0	0
+HFL-S7FK-USPK1A-K1L1	B089DH5B6C	B089DH5B6C		Unknown					0	0	0	0	0		0	0	0	0
+HFL-S7FK-USPK1A-K1L2	X002MNFIOH	B089DH5B6C		Unknown					0	0	0	0	0		0	0	0	0

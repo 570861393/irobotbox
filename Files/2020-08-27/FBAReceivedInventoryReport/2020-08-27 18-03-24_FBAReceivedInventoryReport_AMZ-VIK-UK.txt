@@ -1,0 +1,6 @@
+received-date	fnsku	sku	product-name	quantity	fba-shipment-id	fulfillment-center-id
+2020-08-26T04:00:00+04:00	B082CNKZKC	VIK01-S20I-FRGY4A-A1S1	Vankyo Tablette Tactile 10 Pouces HD, 8 CÅurs CPU, 64Go+128Go Stockage, 3Go RAM, 8MP+5MP CamÃ©ra, Bluetooth 5.0, 5G WiFi, Android 9.0, 6000mAh, GPS, USB C	2	FBA15D3ZS1L8	ORY4
+2020-08-26T04:00:00+04:00	X001801ER7	VK1-S10FAX-FRBK3A-AE1SE1	Vankyo Tablette Tactile 10 Pouces HD, 32Go+128Go Stockage, 2Go RAM, 8MP CamÃ©ra ArriÃ¨re, Android 9.0, 6000mAh, GPS, Bluetooth, WiFi, USB C, Noir	12	FBA15D3YQ2F5	LIL1
+2020-08-25T04:00:00+04:00	B082CNKZKC	VIK01-S20I-FRGY4A-A1S1	Vankyo Tablette Tactile 10 Pouces HD, 8 CÅurs CPU, 64Go+128Go Stockage, 3Go RAM, 8MP+5MP CamÃ©ra, Bluetooth 5.0, 5G WiFi, Android 9.0, 6000mAh, GPS, USB C	291	FBA15D3ZS1L8	ORY4
+2020-08-24T04:00:00+04:00	B082CNKZKC	VIK01-S20I-FRGY4A-A1S1	Vankyo Tablette Tactile 10 Pouces HD, 8 CÅurs CPU, 64Go+128Go Stockage, 3Go RAM, 8MP+5MP CamÃ©ra, Bluetooth 5.0, 5G WiFi, Android 9.0, 6000mAh, GPS, USB C	100	FBA15D3ZS1L8	ORY4
+2020-08-24T04:00:00+04:00	X001801ER7	VK1-S10FAX-FRBK3A-AE1SE1	Vankyo Tablette Tactile 10 Pouces HD, 32Go+128Go Stockage, 2Go RAM, 8MP CamÃ©ra ArriÃ¨re, Android 9.0, 6000mAh, GPS, Bluetooth, WiFi, USB C, Noir	12	FBA15D3YQ2F5	LIL1

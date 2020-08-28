@@ -1,0 +1,11 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+MRA-2A08-USBK0A-3WAS1	X002JCBW7N	B0894PTTGC		Unknown					0	0	0	0	0		0	0	0	0
+MRA-2A09-USBK0A-3WAS1	X002JBQRO7	B0894SQRBV		Unknown					0	0	0	0	0		0	0	0	0
+MRA-E20X-CABK0A-3WBS1	X002KTX1YR	B088WVZR3Z	Kyvol Cybovac E20 Robot Vacuum, 2000Pa Strong Suction Robotic Vacuum Cleaner, 150 Mins Runtime & Self-Charging, Robotic Vacuum Works with Wi-Fi Connected & Voice Control, Good for Pet Hair Hard Floor	New	299.99	No		Yes	0	0	0	0	150	17075.98	150	0	0	0
+MRA-E20X-USBK0A-3WAS1	X002J8GFSX	B088WMZSP5		Unknown					0	0	0	0	0		0	0	0	0
+MRA-E20X-USWH0A-3WAS1	X002L0JNWT	B08CXG6SFD		Unknown					0	0	0	0	0		0	0	0	0
+MRA-E30X-USBK0A-3WAS1	X002JW2D0X	B089CV1N97		Unknown					0	0	0	0	0		0	0	0	0
+MRA-E31X-USBK0A-3WAS1	X002JR06D9	B089R3K2X6		Unknown					0	0	0	0	0		0	0	0	0
+MRA-KYHD-USDG0A-3WAS1	X002KZHLKV	B08CGTBN6Z		Unknown					0	0	0	0	0		0	0	0	0
+MRA-KYHD-USWH0A-3WAS1	X002KZWQFB	B08CGK75DM		Unknown					0	0	0	0	0		0	0	0	0
+MRA-KYHD-USWH0A-3WAS2	X002L3UYLZ	B08CGK75DM		Unknown					0	0	0	0	0		0	0	0	0

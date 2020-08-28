@@ -1,0 +1,38 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+CPJV-C680-USSV0A-A1S4	X002EB7K43	B07XD25GCJ		Unknown					0	0	0	0	0		0	0	0	0
+CPJV-EX30-USWH0A-A1S2	X002CIMDBN	B07Z7NPXVG		Unknown					0	0	0	0	0		0	0	0	0
+FHA-FL10-USBK0A-S1A1	B07Y6CGLGB	B07Y6CGLGB		Unknown					0	0	0	0	0		0	0	0	0
+LH07-M110-USBU0A-A1S4	X002LAVXBD	B088BMS7HG		Unknown					0	0	0	0	0		0	0	0	0
+LH07-V630WX-USWH3A-A1S2	X002KXBFKZ	B08CS82TJT		Unknown					0	0	0	0	0		0	0	0	0
+LH07-V630WX-USWH3A-A2S2	X002L2SY6X	B08CZ7M2TY		Unknown					0	0	0	0	0		0	0	0	0
+LH1-FL20-USBK0A-S2A1	B07XWXS6YX	B07XWXS6YX		Unknown					0	0	0	0	0		0	0	0	0
+LH2-C100-CABU0A-1S8	X002LN8N13	B07X211MYR	VANKYO Cinemango 100 Mini Projector, 220" Display and 1080P Supported, 3800 LUX Projector with 50,000 Hrs Lamp Life, Suitable for Home Theater	New	170.99	No		Yes	49	44	0	5	49	8046.38	0	0	0	0
+LH2-PT20-CABK0A-1S3	X002M150RT	B07D54QSJM	VANKYO Aluminum Tripod Projector Stand, Adjustable Laptop Stand, Multi-Function Stand, Computer Stand Adjustable Height 17'' to 46'' for Laptop with Plate and Carrying Bag (2-Black)	New	84.99	No		Yes	0	0	0	0	270	20369.78	180	90	0	0
+LH2-PT20-CAWH0A-1S3	X002M11L9Z	B079DNGNGQ	VANKYO Aluminum Tripod Projector Stand Adjustable Laptop Stand Multi-Function Stand Computer Stand Adjustable Height 17'' to 46'' for Laptop with Plate and Carrying Bag (1-Silver)	New	84.99	No		Yes	0	0	0	0	270	20787.32	180	90	0	0
+LHA-5A0005-USWH5A-S1A1	X002L2OE2B	B08BLNBVNL		Unknown					0	0	0	0	0		0	0	0	0
+LHA-A10CXX-USWH0A-S1A1	X002L9C59N	B07GV5FSC5		Unknown					0	0	0	0	0		0	0	0	0
+LHA-C100XX-USWH2A-A1S1	X002J33ZZJ	B088N6ZHF1		Unknown					0	0	0	0	0		0	0	0	0
+LHA-EX2PDX-USWH2A-S2A1	X002J63U5L	B07Z52FDF4		Unknown					0	0	0	0	0		0	0	0	0
+LHA-GD100X-USWH0A-S1A1	X002KQ13M7	B08CDVM6HR		Unknown					0	0	0	0	0		0	0	0	0
+LHA-HM203-USWH0A-S1A1	X002KTQDL5	B07YXPW7JJ		Unknown					0	0	0	0	0		0	0	0	0
+LHA-L410-USWH0A-S1A1	B07D467KPD	B07D467KPD		Unknown					0	0	0	0	0		0	0	0	0
+LHA-L410XX-USWH2A-S1A1	B085HMVXNP	B085HMVXNP		Unknown					0	0	0	0	0		0	0	0	0
+LHA-L430WX-USWH2A-S1A4	X002LBBHBD	B08CV7BXQM		Unknown					0	0	0	0	0		0	0	0	0
+LHA-LS30-USWH0A-S1A1	X002LEJQLX	B078KF8CSX		Unknown					0	0	0	0	0		0	0	0	0
+LHA-LS3PRO-USWH2A-S1A1	B08B63Z4T4	B08B63Z4T4		Unknown					0	0	0	0	0		0	0	0	0
+LHA-LS3PRO-USWH4A-S1A1	X002K81HHL	B08BLNBVNL		Unknown					0	0	0	0	0		0	0	0	0
+LHA-LS3WXX-USWH2A-S1A1	B0894QZD13	B0894QZD13		Unknown					0	0	0	0	0		0	0	0	0
+LHA-PM60-USSV0A-S1A1	B07RWLZ8JX	B07RWLZ8JX		Unknown					0	0	0	0	0		0	0	0	0
+LHA-PS05-USWH4A-S1A1	X002K7Q7KT	B08BLNBVNL		Unknown					0	0	0	0	0		0	0	0	0
+LHA-PS05-USWH5A-S1A1	X002K81JSD	B08BLNBVNL		Unknown					0	0	0	0	0		0	0	0	0
+LHA-PS100A-USWH4A-S1A1	X002MBFM3L	B08G1PC8LQ		Unknown					0	0	0	0	0		0	0	0	0
+LHA-VKS200-USBU0A-S1A1	X002M54TJ5	B089KM429V		Unknown					0	0	0	0	0		0	0	0	0
+LHA-VKS200-USBU0A-S2A1	X002M66UQT	B089KM429V		Unknown					0	0	0	0	0		0	0	0	0
+LHB-5A0004-CAWH4A-A1S2	X002LG4RZ1	B08619NSD2	VANKYO 100 inch Projector Screen	New	99.99	No		Yes	0	0	0	0	200	4356.01	0	200	0	0
+LHB-5A0005-CAWH5A-A1S4	X002L9G5RB	B08DDBH9X6	VANKYO 120 inch Projector VANKYO StayTrue Projector Screen, 120 Inch Projection Screen 4K HD, 16:9, Foldable Wrinkle-Free Movies Screen(1.1 GAIN, 160�Viewing Cone) for Home Theater, Support Front & Rear ProjectionScreen	New	99.99	No		Yes	209	153	0	56	409	5897.38	0	200	0	0
+LHB-L430WX-CAWH2A-A1S4	X002KZTKK5	B089K55DHG	VANKYO Leisure 430W Mini WiFi Projector with Synchronize Smartphone Screen, Full HD 1080P Supported with 4500 LUX, Portable Projector for Home/Outdoor, Compatible with TV Stick, Smartphone, PS4	New	226.99	No		Yes	499	437	0	62	500	8021.3	0	0	1	0
+LHB-L470-CAWH0B-A3S4	X002KZAQ49	B081CVBMWL	VANKYO Leisure 470 Wireless Projector, Synchronize Smart Phone Screen, Mini WiFi Projector for iOS/Android, 1080P Supported, 4500 LUX with 250" Size, Movie Portable Projector for Home & Outdoor	New	229.99	No		Yes	200	198	0	2	400	8421.64	200	0	0	0
+LHB-LS3WDX-CABK1A-A1S10	X002MDPG7L	B08869KH64	VANKYO Leisure 3W Mini WiFi Projector with Smart Phone Synchronize, 1080P Supported, 3600 LUX Portable Projector for iOS/Android Devices, Suitable for Home & Outdoor	New	189.99	No		Yes	0	0	0	0	0	6624.96	0	0	0	0
+LHB-LS3WDX-CABK1A-A1S4	X002IQS2UZ	B08869KH64	VANKYO Leisure 3W Mini WiFi Projector with Smart Phone Synchronize, 1080P Supported, 3600 LUX Portable Projector for iOS/Android Devices, Suitable for Home & Outdoor	New	188.99	No		Yes	1222	1140	26	42	1522	6624.96	300	0	0	14
+LHB-V630WX-CAWH3A-A1S3	X002L2CD29	B08CZCYGKX	VANKYO Performance V630W Native 1080P Wifi Projector, Upgraded 7000LUX Portable Projector with Zoom Function, Synchronized Smartphone Screen for iOS/Android Devices, Compatible with TV Stick, HDMI, TV Box and More	New	369.99	No		Yes	112	111	0	1	480	21124.56	300	0	68	0
+LHB-V630WX-CAWH3A-A1S4	X002LG0BJR	B08CZCYGKX	VANKYO Performance V630W Native 1080P Wifi Projector, Upgraded 7000LUX Portable Projector with Zoom Function, Synchronized Smartphone Screen for iOS/Android Devices, Compatible with TV Stick, HDMI, TV Box and More	New	488.99	No		Yes	100	100	0	0	100	21124.56	0	0	0	0

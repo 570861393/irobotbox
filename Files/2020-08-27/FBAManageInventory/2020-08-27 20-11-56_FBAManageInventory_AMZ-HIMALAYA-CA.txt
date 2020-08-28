@@ -1,0 +1,179 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+3M-NHFI-B4D7	B07F7WNPHG	B07F7WNPHG		Unknown					0	0	0	0	0		0	0	0	0
+70-F72H-BMDI	B07CSK2211	B07CSK2211		Unknown					0	0	0	0	0		0	0	0	0
+8G-OJ0E-5IFK	B07G2Y5LX9	B07G2Y5LX9		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PM20-USBK0A	B07HRMZ6KF	B07HRMZ6KF		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PM20-USBK0A-A1S1	B07M59Q249	B07M59Q249		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PM20-USBK0A-A3S1	B07M87MZPJ	B07M87MZPJ		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PM20-USWH0A-A1S1	B07M59Q249	B07M59Q249		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PM50-USSV0A-A2S1	X00268BFHR	B07RVBPWW4		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PM60-CASV0A	X0028CZRBB	B07TXCWGGJ	VANKYO Adjustable Mini Projector Mount 11.8" - 19.7" Height Extendable, 360�Angle Rotatable Drop Ceiling Projector Mount Universal for Projectors, DVR and Security Cameras.	New	23.99	No		Yes	1	1	0	0	521	1750.3	520	0	0	0
+CACK-PM60-USSV0A	X0026954GT	B07RWLZ8JX		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PS04-CAWH3A	B07DF87B9L	B07DF87B9L	VANKYO Projector Screen 100 inches 16:9 Portable Indoor Outdoor Projection Polyester Spandex Movie Screen Foldable Wall Mounted with Peel and Hooks	New	34.99	No		Yes	0	0	0	0	0	6327.54	0	0	0	0
+CACK-PS04-USWH3A	B07DF87B9L	B07DF87B9L		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PS04-USWH3A-A2S2	B07M8L799V	B07M8L799V		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PS05-CAWH4A	B07DFCMHKL	B07DFCMHKL	VANKYO Projector Screen 120 inches 16:9 Portable Indoor Outdoor Projection Polyester Spandex Movie Screen Foldable Wall Mounted with Peel and Hooks	New	36.99	No		Yes	1	0	1	0	1	6582.85	0	0	0	0
+CACK-PS05-USWH4A	B07DFCMHKL	B07DFCMHKL		Unknown					1	0	1	0	1		0	0	0	0
+CACK-PS05-USWH4A-A2S1	B07LH34LW8	B07LH34LW8		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PS05-USWH4A-A2S2	X002F81YD3	B07LH34LW8		Unknown					0	0	0	0	0		0	0	0	0
+CACK-PT20-CABK1B	B07D54QSJM	B07D54QSJM	VANKYO Aluminum Tripod Projector Stand, Adjustable Laptop Stand, Multi-Function Stand, Computer Stand Adjustable Height 17'' to 46'' for Laptop with Plate and Carrying Bag (2-Black)	New	55.99	No		Yes	181	0	1	180	181	20369.78	0	0	0	0
+CACK-PT20-CAWH1A	B079DNGNGQ	B079DNGNGQ	VANKYO Aluminum Tripod Projector Stand Adjustable Laptop Stand Multi-Function Stand Computer Stand Adjustable Height 17'' to 46'' for Laptop with Plate and Carrying Bag (1-Silver)	New	55.99	No		Yes	151	0	1	150	151	20787.32	0	0	0	0
+CACK-PT20-USBK1A	X001OR77JV	B079DNGNGQ	VANKYO Aluminum Tripod Projector Stand Adjustable Laptop Stand Multi-Function Stand Computer Stand Adjustable Height 17'' to 46'' for Laptop with Plate and Carrying Bag (1-Silver)	New	59.99	No		Yes	0	0	0	0	0	20787.32	0	0	0	0
+CACK-PT20-USBK1A-A1S2	B07D54QSJM	B07D54QSJM		Unknown					181	0	1	180	181		0	0	0	0
+CACK-PT20-USWH1A	B07D54QSJM	B07D54QSJM		Unknown					181	0	1	180	181		0	0	0	0
+CACT-TS60-USBU4A	B07DJ12L2D	B07DJ12L2D		Unknown					0	0	0	0	0		0	0	0	0
+CHBK-HC80-USGY0A	B07K196FQG	B07K196FQG		Unknown					0	0	0	0	0		0	0	0	0
+CHBK-HC80-USGY0A-A2S1	B07K196FQG	B07K196FQG		Unknown					0	0	0	0	0		0	0	0	0
+CHBK-HC80-USGY0A-A2S3	X0026GPOTJ	B07K196FQG		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-B101-CAWH0A-A1S1	X00295FYS3	B07VQQ1HM2		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-B101-USWH0A	X0025CEVD9	B07RGGCJB4		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-C100-USBU0A-A1S1	X002AN1AL9	B07X3TK1P1		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L410-CABK0A	B07FFMCKKX	B07FFMCKKX	VANKYO Leisure 410 (Upgraded Version) 3600 LUX Portable Projector, Support HD 1080P, Mini Projector with Dual-Fan Cooling System, Compatible with HDMI/VGA/USB/SD/AV for Home Entertainment, Party, Video Game, Outdoor Activities and More (Black)	New	120.99	No		Yes	0	0	0	0	0	7724.7	0	0	0	0
+CPJK-L410-CAWH0A	B07DXQ9NNY	B07DXQ9NNY		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L410-CAWH0A-Remote	X001WLDFQ3	B07HNYK9T4	Leisure 410 Remote Control	New	10.99	No		Yes	0	0	0	0	0	76.2	0	0	0	0
+CPJK-L410-CAWH0B	B07DXQ9NNY	B07DXQ9NNY	VANKYO Leisure 410 (Upgraded Version) 2800 Lux Portable Projector, Support HD 1080P, Mini Projector with Dual-Fan Cooling System, Compatible with HDMI/VGA/USB/SD/AV for Home Entertainment, Party, Video Game, Outdoor Activities and More (White)	New	120.99	No		Yes	0	0	0	0	0	7693.56	0	0	0	0
+CPJK-L410-USBK0A	B07FFMCKKX	B07FFMCKKX		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L410-USRD0A	B07F7WNPHG	B07F7WNPHG		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L410-USWH0A	B07D467KPD	B07D467KPD		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L410-USWH0A-A3S1	X001W25GJL	B07D467KPD		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L410-USWH0A-A3S2	X001YOZQUV	B07D467KPD		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L410-USWH0A-LXM0624	B07D467KPD	B07D467KPD		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L410-USWH0B-TEST	B07DXQ9NNY	B07DXQ9NNY		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L430-USWH0A-A2S2	X0029624KN	B07VKL7YPG		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L510-CABK0A	B07GF45M73	B07GF45M73	VANKYO Leisure 510 Portable Projector, 4200 LUX Full HD 230" Screen Movie Projector with 1080P supported, Free HDMI Cable, Carrying Bag (1-Black)	New	249.99	No		Yes	3	0	3	0	3	19077.33	0	0	0	0
+CPJK-L510-CABK0A-A1S2	B07GF45M73	B07GF45M73		Unknown					3	0	3	0	3		0	0	0	0
+CPJK-L510-CABK0A-A1S3	B07GF45M73	B07GF45M73		Unknown					3	0	3	0	3		0	0	0	0
+CPJK-L510-CAWH0A	B07GKQQZ1D	B07GKQQZ1D	VANKYO Leisure 510 Portable Projector, 4500 LUX Full HD 1080P Supported, 230" Big Screen Movie Projector with 50,000 Hrs LED Lamp Life, Compatible with TV Stick, HDMI and USB, Suitable for Home Cinema (2-White)	New	239.99	No		Yes	27	1	5	21	27	18173.91	0	0	0	0
+CPJK-L510-USBK0A	B07G2Y5LX9	B07G2Y5LX9		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L510-USBK0A-A1S3	B07G2Y5LX9	B07G2Y5LX9		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-L510-USWH0A	B07GDNVND9	B07GDNVND9		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-LS30-CABK0A	B07CSK2211	B07CSK2211	VANKYO LEISURE 3 (Upgraded Version) 2400 LUX LED Portable Projector with Carrying Bag, Video Projector with 170'' Display and 1080P Support, Compatible with PS4, HDMI, VGA, TF, AV and USB with HDMI Cable (Black)	New	109.99	No		Yes	0	0	0	0	0	6386.37	0	0	0	0
+CPJK-LS30-CAWH0A	X0022GX6DJ	B078KF8CSX	VANKYO Leisure 3 Mini Projector, 1080P and 170'' Display Supported, Portable Movie Projector with 40,000 Hrs LED Lamp Life, Compatible with TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	129.99	No		Yes	1	0	1	0	1	7013.34	0	0	0	0
+CPJK-LS30-CAWH0A-A1S2	B078KF8CSX	B078KF8CSX	VANKYO Leisure 3 Mini Projector, 1080P and 170'' Display Supported, Portable Movie Projector with 40,000 Hrs LED Lamp Life, Compatible with TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	119.99	No		Yes	2	0	2	0	2	7013.34	0	0	0	0
+CPJK-LS30-CAWH0A-A1S3	X002F82QNZ	B078KF8CSX	VANKYO Leisure 3 Mini Projector, 1080P and 170'' Display Supported, Portable Movie Projector with 40,000 Hrs LED Lamp Life, Compatible with TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	119.99	No		Yes	1	0	1	0	501	7013.34	0	500	0	0
+CPJK-LS30-USBK0A	B07CSK2211	B07CSK2211		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-LS30-USBK0A-A3S5	X0026V6O8J	B07R9M6KVL		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-LS30-USWH0A	B078KF8CSX	B078KF8CSX	VANKYO Leisure 3 Mini Projector, 1080P and 170'' Display Supported, Portable Movie Projector with 40,000 Hrs LED Lamp Life, Compatible with TV Stick, PS4, HDMI, VGA, TF, AV and USB	New	119.99	No		Yes	2	0	2	0	2	7013.34	0	0	0	0
+CPJK-LS30-USWH0A-2	X001VPSP47	B078KF8CSX		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-LS30-USWH0A-A1S6	B078KF8CSX	B078KF8CSX		Unknown					2	0	2	0	2		0	0	0	0
+CPJK-LS30-USWH0A-A1S7	X001W6ONP5	B078KF8CSX		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-LS30-USWH0A-A1S8	B078KF8CSX	B078KF8CSX		Unknown					2	0	2	0	2		0	0	0	0
+CPJK-LS30-USWH0A-FBM-VAR1	B078KF8CSX	B078KF8CSX		Unknown					2	0	2	0	2		0	0	0	0
+CPJK-V600-CASV0A-A1S3	X0025OILN3	B07RHHBDZ8		Unknown					1	0	0	1	1		0	0	0	0
+CPJK-V600-USSV0A	X0020YJQJV	B07NBNCNLM		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-V600-USSV0A-A4S11	X002460MTX	B07NBNCNLM		Unknown					0	0	0	0	0		0	0	0	0
+CPJK-V600-USSV0A-A4S7	X002ANUYYN	B07NBNCNLM		Unknown					0	0	0	0	0		0	0	0	0
+CPJV-L420-USSV0A-A1S1	X001X1INAZ	B07J4MPDXV		Unknown					0	0	0	0	0		0	0	0	0
+CPJV-M500-USBK0A-1	X001VJXYG7	B07GV8F4R6		Unknown					0	0	0	0	0		0	0	0	0
+CSCH-H203-CAWH0A-A1S4	X00280A65P	B07PX1YXVM	HeimVision HM203 Security Camera, 1080P Surveillance WiFi Camera with Night Vision/PTZ/Two-Way Audio, 2.4Ghz Wireless Home IP Camera for Pet/ Baby/ Elder/ Dog Camera Monitor, Cloud Service/ MicroSD Support	New	59.99	No		Yes	1	0	1	0	1	2279.93	0	0	0	0
+CSCH-H203-USWH0A	X0022OC00V	B07N819P4K		Unknown					0	0	0	0	0		0	0	0	0
+CSCH-H203-USWH0A-A1S4	B07N819P4K	B07N819P4K		Unknown					0	0	0	0	0		0	0	0	0
+CSCH-H205-USWH0A-A1S2	B07P6QTBPZ	B07P6QTBPZ		Unknown					0	0	0	0	0		0	0	0	0
+CSCH-H205-USWH0A-A2S4	B07R6HVN3K	B07R6HVN3K		Unknown					0	0	0	0	0		0	0	0	0
+CSKH-A80S-CAWH0A-A1S3	B07MZ4V3H4	B07MZ4V3H4	HeimVision Sunrise Alarm Clock, [Work with Alexa] Smart Wake up Light Sleep Aid Digital Alarm Clock with Sunset Simulation and FM Radio, 4 Alarms /7 Alarm Sounds/Snooze/20 Brightness	New	55.99	No		Yes	1	0	1	0	1	3014.56	0	0	0	0
+CSKH-A80S-USWH0A-A1S5	X002206VCD	B07MZ2WFLJ		Unknown					0	0	0	0	0		0	0	0	0
+CSSH-S620-CAWH0A-A1S3	B07G7YY7NN	B07G7YY7NN	Mini Smart Plug, HeimVision 2 Pack Smart Wifi Outlets Works with Amazon Alexa Google Assistant IFTTT, Smart Outlet Voice APP Remote Control Socket from Anywhere with Timer Function	New	49.99	No		Yes	0	0	0	0	0	556.01	0	0	0	0
+CSSH-S620-USWH0A-A1S4	B07G7YY7NN	B07G7YY7NN		Unknown					0	0	0	0	0		0	0	0	0
+CTAK-PH01-USGY0A-A1S1	X00259QWJ3	B07QSR8PRT		Unknown					0	0	0	0	0		0	0	0	0
+CTAK-Z1AA-USBK1A	B07PXB4F7N	B07PXB4F7N		Unknown					0	0	0	0	0		0	0	0	0
+CTBK-X95A-USBK0A-A3S3	X002460TPF	B07Q869TKN		Unknown					0	0	0	0	0		0	0	0	0
+LFA-CM70-CARD0A-A1S2	X002EITTTF	B07W22F9G3	VANKYO Gaming Headset CM7000 Pro PS4 headset with 7.1 Surround Sound Stereo Xbox One Headset, Gaming Headphones with Noise Canceling Mic & Memory Foam Ear Pads for PC, PS4, Xbox One, Nintendo Switch	New	39.99	No		Yes	0	0	0	0	2000	4947.58	2000	0	0	0
+NV-960K-F4VM	B07DXQ9NNY	B07DXQ9NNY		Unknown					0	0	0	0	0		0	0	0	0
+Universal Remote	X0029OOPVB	B07HNJMP1Q	Leisure 3 Remote Control	New	10.99	No		Yes	0	0	0	0	0	98.49	0	0	0	0
+V630 Remote	X002H5H7JT	B08576285N	V630 Remote	New	12.99	No		Yes	0	0	0	0	0	89.96	0	0	0	0
+VDCA-3D0002-USGY2A-A1S2	X002FBNV9P	B083BVXKHP	VANKYO MatrixPad S8 8 inch Tablet Case, Stand Folio Cover for VANKYO MatrixPad S8, Premuim PU Leather Slim Fit with Multiple Viewing Angles	New	26.99	No		Yes	0	0	0	0	0	618.78	0	0	0	0
+VDCA-4D0002-CACR2A-A1S2	X002FF9U3R	B083BXBQZP	(2 Pack) Vankyo Glass Screen Protector for Vankyo MatrixPad S8 Tablet 8 inch, Tempered Glass High Definition/Scratch Resistant	New	29.99	No		Yes	0	0	0	0	0	499.48	0	0	0	0
+VDCA-C100-CABU0A-A1S1	X002ARS7GV	B07X211MYR		Unknown					0	0	0	0	0		0	0	0	0
+VDCA-C100-CABU0A-A1S4	X002CJZJDB	B07X211MYR		Unknown					1	0	1	0	1		0	0	0	0
+VDCA-CE20-CASV0A-A1S1	X002B78BOD	B07XL7XLM4	HDMI Adapter Cable for iOS Devices	New	29.99	No		Yes	0	0	0	0	0	284.15	0	0	0	0
+VDCA-GS01-CABK0A-A1S1	X0029DJTEP	B07VW61LVT	VANKYO 3D Active Shutter Glasses for DLP Projector, Rechargeable 3D Glasses Compatible with Vankyo Burger 101 Projector and Other DLP-Link Projectors	New	29.99	No		Yes	0	0	0	0	0	527.34	0	0	0	0
+VDCA-H203-CAWH0A-A1S1	X0029C2V69	B07PX1YXVM	HeimVision HM203 Security Camera, 1080P Surveillance WiFi Camera with Night Vision/PTZ/Two-Way Audio, 2.4Ghz Wireless Home IP Camera for Pet/ Baby/ Elder/ Dog Camera Monitor, Cloud Service/ MicroSD Support	New	49.98	No		Yes	3	0	3	0	303	2279.93	300	0	0	0
+VDCA-H205-CAWH0A-A1S1	X002988ZO5	B07RWB4WJT	HeimVision HM205 Security Camera 1080P?Works with Alexa?WiFi Camera with Night Vision/PTZ/Two-Way Audio, Wireless Home Camera for Pet/Baby/Elder/Dog Camera Monitor, Cloud Service Support	New	49.99	No		Yes	2	0	1	1	2	2078.86	0	0	0	0
+VDCA-H211-CAWH0A-A1S1	X00297AP9J	B07TTSJWGK	HeimVision HM211 Outdoor Security Camera Wireless, 1080P WiFi Surveillance Camera with Night Vision, Floodlight, Siren Alarm, Two-Way Audio, Motion Detection, Waterproof, Cloud Service/Microsd Support	New	109.99	No		Yes	0	0	0	0	480	3417.03	0	480	0	0
+VDCA-H302-CABK0A-A1S1	X002BNSUF7	B07Y9ZS6FK	Heimvision HM302 3MP Security Camera, 2K HD Wifi Camera with Night Vision/PTZ/2-Way Audio, 2.4Ghz Wireless Home IP Indoor Camera for Pet/Baby/Elder/Dog Camera Monitor, Cloud Service, Compatible with Alexa	New	109.99	No		Yes	0	0	0	0	0	2044.94	0	0	0	0
+VDCA-HMD2-CAWH0A-A1S3	X002AQ3J5V	B07WH1C8MM	HeimVision HMD2 Wireless Rechargeable Battery-Powered Security Camera, 1080P Video with 2-Way Audio, Night Vision, Waterproof Home Indoor/Outdoor WiFi Cameras with Cloud Service	New	109.99	No		Yes	0	0	0	0	0	1131.04	0	0	0	0
+VDCA-MT01-CASV0A-A1S1	X0029IBSJT	B07VXHJTDD	VANKYO Adjustable Tablet Stand, Compatible with iPhone, iPad Mini, Samsung Galaxy, VANKYO MatrixPad Z1, Z4 & Z4 pro, and More Tablets, 270� Adjustable Tablet Holder for 4.0-10.1 inch Tablets, E-readers and Phones - Silver	New	29.99	No		Yes	0	0	0	0	0	786.25	0	0	0	0
+VDCA-PH06-CAGY0A-A1S2	X002F712D1	B0834X4DMV	VANKYO Tablet Case for MatrixPad Z10 Tablet 10.1 inch, VANKYO MatrixPad Z10 Tablet Slim Stand Folio Cover, Premium PU Leather Fit with Multiple Viewing Angles	New	29.99	No		Yes	3	0	3	0	3	1246.73	0	0	0	0
+VDCA-PM20-CABK0A-A1S1	X002B45XOR	B07XRFKBHN	Universal Extending Black Ceiling Projector Mount	New	100.00	No		Yes	0	0	0	0	0	2089.35	0	0	0	0
+VDCA-PM20-CAWH0A-A1S1	X002CJW0VZ	B07Z3BQTB8	Universal Extending White Ceiling Projector Mount	New	100.00	No		Yes	0	0	0	0	0	2182.76	0	0	0	0
+VDCA-PM50-CASV0A-A1S1	X002F1QNCH	B082X3T21C	VANKYO Universal Mini Ceiling Projector Mount, Angle Adjustable Wall Ceiling Projector Mount with 360 Degrees Rota-table Heads, Compatible with Leisure 3	New	17.99	No		Yes	1	1	0	0	1	856.88	0	0	0	0
+VDCA-S20H-CAGY4A-A1S2	X002FBF369	B083BT92M1		Unknown					0	0	0	0	200		200	0	0	0
+VDCA-S30H-CASV4A-A1S2	X002FBODB5	B083BTHGDR	Vankyo MatrixPad S30 10 inch Android Tablet, Octa-Core Processor, Android 9.0 Pie, 3GB RAM, 32GB Storage, 13MP Rear Camera, 1920x1200 IPS Full HD Display, Bluetooth 5.0, 5G Wi-Fi, GPS, Type C Port	New	239.99	No		Yes	0	0	0	0	300	3490.44	0	300	0	0
+VDCA-TM03-CACR4A-A1S2	X0029WOIZL	B07VN38JMZ	Vankyo Glass Screen Protector for Vankyo MatrixPad Z4, Z4 Pro 10 inch (2 Pack), Tempered Glass High Definition/Scratch Resistant	New	10.99	No		Yes	0	0	0	0	0	613.53	0	0	0	0
+VDCA-V600-CASV0A-A1S5	X002BTYCOJ	B07RHHBDZ8		Unknown					1	0	1	0	1		0	0	0	0
+VDCA-V620-CAGV0A-A1S1	X002BKHEX9	B07Y4RQFXC		Unknown					0	0	0	0	0		0	0	0	0
+VDCA-V630-CAWH0A-A1S1	X002CK1HLN	B07Z91YH3S		Unknown					0	0	0	0	0		0	0	0	0
+VDCA-X200-CABK0A-A1S1	X002HEDHT9	B07ZQCST89	True Wireless Earbuds, VANKYO X200 Bluetooth 5.0 Earbuds in-Ear TWS Stereo Headphones with Smart LED Display Charging Case IPX8 Waterproof 120H Playtime Built-in Mic with Deep Bass for Sports Work	New	69.99	No		Yes	0	0	0	0	500	584.03	500	0	0	0
+VDCA-Z4AA-CABK4A-A1S1	X0029AVXWJ	B07TC5J3KH	Vankyo MatrixPad Z4 10.1 inch Tablet, Android 9.0 Pie, 2 GB RAM, 32 GB Storage, 8MP Rear Camera?Quad-Core Processor, IPS HD Display, Wi-Fi, BT 4.0, Black	New	149.99	No		Yes	0	0	0	0	0	3203.67	0	0	0	0
+VDCA-ZTBB-CABK4A-A1S1	X002EE7YMX	B07ZRFSQGZ	VANKYO MatrixPad Z10 Tablet, Android 9.0 Pie, 3 GB RAM, 32 GB Storage, 10 inch Android Tablets, 1920x1200 IPS Display, 13MP Rear Camera, Quad-Core Processor, 2.4/5G WiFi, HDMI, GPS, Gray	New	229.99	No		Yes	0	0	0	0	200	2612.75	0	200	0	0
+VDUS-3D0001-USGY1A-A1S2	X002FQCYRZ	B083K64JR3		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-3D0004-USGY3A-AC1SC1	X002FOUZKZ	B083S774XZ		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-A60C-USWH0A-A1S2	X002BKHIWL	B07Y5WYQT1		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-A80S-USWH0A-A1S5	B07MZ2WFLJ	B07MZ2WFLJ		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-BA04-USBU0A-A1S2	B07W8NCPD6	B07W8NCPD6		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-BA04-USPK0A-A1S1	B07W3SHSBK	B07W3SHSBK		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-CA01-USWH0A-A1S3	X002BUUD41	B07TD4GK65		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-CM70-USRD0A-A1S1	X0029GS8P3	B07W22F9G3		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-CM70-USRD0A-S5A1	X002AZXJJD	B07W22F9G3		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-H136-USWH0A-A1S3	X0028QTJFH	B07TY1C6KL		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-H13C-USWH0A-A1S2	X002C9FFGH	B07W66WZ2G		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-H203-USWH0A-A2S1	X002C96DG3	B07YXPW7JJ		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-H203-USWH0A-A3S1	X002HRLNFV	B07YXPW7JJ		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-H211-USWH0A-A2S3	X002BUTZZ9	B07W96YXQY		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-H241-USWH0A-A1S5	X0027SQMN3	B07RKJDK65		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-H241-USWH0A-A2S1	X002E6XPO7	B07RKJDK65		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-H243-USWH0A-A1S3	X002CC4RPT	B07YB38CM8		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-H245-USBK0A-A1S1	X002CRSHC3	B07ZGBMVJ9		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-H302-USBK0A-A1S1	X002BMCNOR	B07YFW8SRN		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-H302-USBK0A-S3A1	X002CB59RP	B07YFW8SRN		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-HMD2-USWH0A-A1S1	X0027Q7YQT	B07T2Q7WJ5		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-HMD2-USWH0A-A1S3	X0028JVAA1	B07T2Q7WJ5		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-HMD2-USWH0A-S8A1N	X002D736PF	B07T2Q7WJ5		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-L410-USBK0A-RF1	X002H2LD1F	B07FFMCKKX		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-L420-USSV0A-RF1	X002H5AQK1	B07J4MPDXV		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-L460-USWH0A-A2S1	X002CQ4XM7	B07ZH362WF		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-L470-USWH0A-A2S1	X002E9ZIRL	B07ZSCWL6C		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-L510-USWH0A-RF1	X002H5C4M9	B07GDNVND9		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-LS30-USWH0A-A1S8	X0027JRVDR	B078KF8CSX		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-LS30-USWH0A-A1S9	X0028GEQ2N	B078KF8CSX		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-LS3W-USBK0A-A1S1	X002COMYX9	B07ZF9KL1T		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-MT01-USSV0A-A1S1	B07VXGM4KG	B07VXGM4KG		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-PH04-USGY0A-A1S1	B07V233DJW	B07V233DJW		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-PM20-USWH0A-A1S2	X002AZB57V	B07M59Q249		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-PS07-USWH3A-A1S1	X002BEOZNR	B07DF87B9L		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-PT20-USWH1A-A1S4	X002B974OJ	B079DNGNGQ		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-RR01-USWH0A-A2S1	X002AKRGVP	B07WHQFY97		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-S20H-USGY4A-A1S2	X002FNM2VV	B083J7DVY1		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-S7FA-USBK1A-A1S3	X002ELKS3N	B0821B76WY		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-S8FA-EUBK2A-A1S1	X002HFQN49	B0868RQYTC		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-SE01-USBK0A-A1S1	X0029WUFHB	B07TMXZF5Q		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-SE01-USBK0A-A1S3	X002CTSGKT	B07TMXZF5Q		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-TM01-USCR1A-A2S1	B07VX5NTRZ	B07VX5NTRZ		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-TM03-USCR4A-A1S1	B07VFNMG64	B07VFNMG64		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-V610-USBK0A-A1S4	X002D10XSJ	B07ZSCPDM9		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-V620-USGV0A-A1S1	X002ALCYOX	B07WV9JRS2		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-V630-USWH0A-A1S1	X002CIJDKH	B07Z7FSQHN		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-V630-USWH0A-A1S2	B07Z7FSQHN	B07Z7FSQHN		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-V630-USWH0A-A1S3	X002F820FJ	B07Z7FSQHN		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-X200-USBK0A-S1A1	X002DM1G6V	B07ZQCST89		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-X95M-USBK0K-A1S1	X0029J12W1	B07VPPLZQ4		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-X95M-USBK0L-A1S1	X0029GC7EB	B07VLGPY34		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-X95M-USBK0L-A1S2	X002BM2HGB	B07VLGPY34		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-Z1AA-USBK1A-A1S2	X002809VY7	B07PXB4F7N		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-Z1AA-USBU1A-A1S1	X002E0PGQN	B07ZYVLQBX		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-Z1AK-USBU1A-A1S1	X0029BBNSH	B07VFWRVPS		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-Z1AK-USBU1A-A2S1	B07VFWRVPS	B07VFWRVPS		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-Z1AK-USPK1A-A1S1	X0029HUAQR	B07VM866DV		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-Z1AK-USPK1A-A1S2	B07VM866DV	B07VM866DV		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-Z4AA-USBK4A-A1S1	X00287VYEF	B07TBM1SVR		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-Z4AA-USBK4A-A1S2	B07TBM1SVR	B07TBM1SVR		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-Z4AA-USGY4A-A2S2	X002DRHE2L	B07ZVNSX4Z		Unknown					0	0	0	0	0		0	0	0	0
+VDUS-Z4BB-USBK4A-A1S1	X0029CXMUN	B07TYCN1PG		Unknown					0	0	0	0	0		0	0	0	0
+VNTP1-3D0002-USGY2A-AC1SC1	X002F3YHQJ	B082TTS6X7		Unknown					0	0	0	0	0		0	0	0	0
+VNTP1-4D0002-USCR2A-AC1SC1	X002FBLRNR	B083BMD4VJ		Unknown					0	0	0	0	0		0	0	0	0
+VNTP1-PH05-USGY0A-AC1SC1	X002A3UWXL	B07WGXXCWR		Unknown					0	0	0	0	0		0	0	0	0
+VNTP1-PH06-USGY0A-AC1SC1	B07X9YBJZQ	B07X9YBJZQ		Unknown					0	0	0	0	0		0	0	0	0
+VNTP1-S30H-USSV4A-AC1SC1	X002FE30EX	B083BRVG28		Unknown					0	0	0	0	0		0	0	0	0
+VNTP1-TM04-USCR4A-AC1SC1	X002BUWVO1	B07YJT9Q71		Unknown					0	0	0	0	0		0	0	0	0
+VNTP1-ZTBB-USBK4A-AC1SC1	X002ATT2YZ	B07WZC91PF		Unknown					0	0	0	0	0		0	0	0	0
+X8-HLRI-A9OG	B07DXQ9NNY	B07DXQ9NNY		Unknown					0	0	0	0	0		0	0	0	0

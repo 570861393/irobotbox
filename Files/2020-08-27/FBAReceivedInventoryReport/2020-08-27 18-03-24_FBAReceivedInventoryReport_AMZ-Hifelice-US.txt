@@ -1,0 +1,2 @@
+received-date	fnsku	sku	product-name	quantity	fba-shipment-id	fulfillment-center-id
+2020-08-24T00:00:00-07:00	X002MF07XR	HFL-3D0002-USGY2A-K1L2	VANKYO Tablet Case for MatrixPad S8 Tablet 8 inch, VANKYO MatrixPad S8 Slim Stand Folio Cover, Premium PU Leather Fit with Multiple Viewing Angles Black	81	FBA15Q8MH16S	LAX9

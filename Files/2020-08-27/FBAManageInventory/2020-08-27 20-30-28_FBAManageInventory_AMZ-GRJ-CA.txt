@@ -1,0 +1,8 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+GRJ02-C751XX-USBK0A-A14S1	X002ML5A1F	B0868MDSL5		Unknown					0	0	0	0	0		0	0	0	0
+GRJ02-CM70-USRD0B-S13A1	X002MEV6ZB	B07W22F9G3		Unknown					0	0	0	0	0		0	0	0	0
+GRJ02-X180XX-CABK0A-A2S8	X002MMMJL3	B08G4G59ZC	VANKYO Wireless Earbuds X180 in-Ear Bluetooth 5.0 Earphones for iPhone Android with USB-C Charging Case, IPX7 Waterproof Sport Headphones with Mic, Touch Control for Gym, Home, Office, Single/Twin	New	89.99	No		Yes	0	0	0	0	0	481.78	0	0	0	0
+GRJ02-X180XX-USBK0A-S6A1	X002MDGB4X	B087423FSS		Unknown					0	0	0	0	0		0	0	0	0
+GRJ02-X200-CABU0A-A1S2	X002MMMQYX	B08FSSGRB3	VANKYO Wireless Earbuds X200 in-Ear Bluetooth 5.0 Earphones	New	88.88	No		Yes	0	0	0	0	200	370.35	0	200	0	0
+GRJ02-X200-USBK0A-S14A1	X002MDKFB3	B07ZQCST89		Unknown					0	0	0	0	0		0	0	0	0
+GRJ02-X400XX-USBK0A-S8A1	X002MK3H11	B08FLGHKHB		Unknown					0	0	0	0	0		0	0	0	0

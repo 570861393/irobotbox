@@ -1,39 +1,45 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/08/05
 # @Author  : coolchen
-import os
-import sys
-import threading
-import time
+
 import traceback
-from urllib.parse import quote
-import requests
-import datetime
+import schedule
+from apscheduler import job
+
 from setting import *
-from lxml import etree
 import re
-import logging  # 引入logging模块
-import os.path
+from get_cookie import do_login
 import time
-# 第一步，创建一个logger
-logger = logging.getLogger()
-logger.setLevel(logging.INFO)  # Log等级总开关
-# 第二步，创建一个handler，用于写入日志文件
-rq = time.strftime('%Y%m%d', time.localtime(time.time()))
-log_path = os.path.dirname(os.getcwd()) + '/Logs/'
-log_name = rq + '.log'
-logfile = log_name
-fh = logging.FileHandler(logfile, mode='w+')
-fh.setLevel(logging.DEBUG)  # 输出到file的log等级的开关
-# 第三步，定义handler的输出格式
-formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s")
-fh.setFormatter(formatter)
-# 第四步，将logger添加到handler里面
-logger.addHandler(fh)
+from urllib.request import urlretrieve
+from dingding_notice import dingtalk_robot
+import pandas as pd
+from apscheduler.schedulers.blocking import BlockingScheduler
 
-redis_conn = redis.Redis(host='47.115.181.162', port=6379, password='123456', db=dbnum, encoding='utf-8',
-                                      decode_responses=True)
+today = datetime.date.today()-datetime.timedelta()
+yesterday = datetime.date.today()-datetime.timedelta(days=1)
+three_days_ago = datetime.date.today()-datetime.timedelta(days=3)
+four_days_ago = datetime.date.today()-datetime.timedelta(days=4)
 
+daytime = datetime.datetime.now().strftime('%Y-%m-%d')
+pwd1 = os.getcwd()+"\\Files\\"+daytime+"\\FBADailyInventoryHistoryReport"
+pwd2 = os.getcwd()+"\\Files\\"+daytime+"\\FBAManageInventory"
+pwd3 = os.getcwd()+"\\Files\\"+daytime+"\\FBAReceivedInventoryReport"
+pwd4 = os.getcwd()+"\\Files\\"+daytime+"\\FlatFileAllOrdersReportbyLastUpdate"
+# print(pwd)
+# 文件路径
+word_name1 = os.path.exists(pwd1)
+word_name2 = os.path.exists(pwd2)
+word_name3 = os.path.exists(pwd3)
+word_name4 = os.path.exists(pwd4)
+
+if not word_name1:
+    os.makedirs(pwd1)
+if not word_name2:
+    os.makedirs(pwd2)
+if not word_name3:
+    os.makedirs(pwd3)
+if not word_name4:
+    os.makedirs(pwd4)
 
 class Myspider(object):
     def __init__(self):
@@ -41,70 +47,23 @@ class Myspider(object):
         self.thread_num = 1 #多线程的个数
         self.keynum = 0
         self.browser_list = {}
-        self.headers={
 
+        cookies = do_login()
+        cookiestr = ''
+        for cookie in cookies:
+            str1 = cookie + '=' + cookies[cookie] + '; '
+            cookiestr += str1
+        self.headers = {
+            'Accept': 'application/json, text/javascript, */*; q=0.01',
+            'Accept-Encoding': 'gzip, deflate',
+            'Accept-Language': 'zh-CN,zh;q=0.9',
+            'Connection': 'keep-alive',
+            'Cookie': cookiestr.rstrip('; '),
+            'Host': 'gg55.irobotbox.com',
+            'Referer': 'http://gg55.irobotbox.com/IrobotBox/ReportCentre/AmazonReportOut.aspx',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36',
+            'X-Requested-With': 'XMLHttpRequest',
         }
-        # 多线程ip的设置
-        # for i in range(self.thread_num):
-        #     self.browser_list[i] = get_proxy()
-        # self.ff = open('cityname.txt', 'r', encoding='utf-8')
-        # self.pp = open('error.txt', 'a+', encoding='utf-8')
-        self.headers={
-            'accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-            'accept-encoding':'gzip, deflate, br',
-            # 'accept-language':'zh-CN,zh;q=0.9',
-            'cache-control':'max-age=0',
-            'sec-fetch-dest':'document',
-            'sec-fetch-mode':'navigate',
-            'sec-fetch-site':'none',
-            'sec-fetch-user':'?1',
-            'upgrade-insecure-requests':'1',
-            'user-agent':UserAgent().random,
-            'x-client-data':'CJW2yQEIprbJAQjEtskBCKmdygEImbXKAQj+vMoBCJm9ygEIi7/KAQjnyMoBCOnIygEI78nKAQi0y8oBGPC/ygE=',
-        }
-
-        dbnum = 15
-        #测试环境
-        # self.redis_conn = redis.Redis(host='127.0.0.1', port=6379, db=dbnum, encoding='utf-8', decode_responses=True)
-
-
-        #来源表
-        self.conn2 = pymysql.connect(host='rm-wz9bd2h2i9846lv92to.mysql.rds.aliyuncs.com',
-                                     port=3306,
-                                     user='spider_user',
-                                     password='K845CTp8',
-                                     db='apidb',
-                                     charset='utf8')
-
-        # 结果表
-        self.conn1 = pymysql.connect(host='rm-wz9bd2h2i9846lv92to.mysql.rds.aliyuncs.com',
-                                     port=3306,
-                                     user='spider_user',
-                                     password='K845CTp8',
-                                     db='datav',
-                                     charset='utf8')
-
-        # mysql--spider
-        # self.conn1 = pymysql.connect(host='218.17.184.119',
-        #                             port=33306,
-        #                             user='spider',
-        #                             password='aJX4$vQOgdrUJ$u0',
-        #                             db='spider_db',
-        #                             charset='utf8')
-        # # mysql--aliyun
-        # self.conn2 = pymysql.connect(host='rm-wz9bd2h2i9846lv92to.mysql.rds.aliyuncs.com',
-        #                              port=3306,
-        #                              user='spider_user',
-        #                              password='K845CTp8',
-        #                              db='datav',
-        #                              charset='utf8')
-        # # mysql--10.0.2.108
-        # self.conn3 = pymysql.connect(host='10.0.2.108',
-        #                              port=3306,
-        #                              user='ops',
-        #                              password='jS0rarzFQIltwJCC',
-        #                              db='dev2_nextop',
-        #                              charset='utf8')
 
     def create_sql(self,column_item, table_name):
         column = ' ('
@@ -113,198 +72,395 @@ class Myspider(object):
             if str(column_item[i]) == 'None':
                 continue
             column += i + ","
-            one_word = re.sub("'", "\"", str(column_item[i]).replace('\n', '').replace('\r', '').replace(
-                '\t', '').replace('\\', '').replace('<em>', ''))
+            one_word = re.sub("'", "\"", str(column_item[i]).replace('\n', '').replace('\r', '').replace('\t', '').replace('\\', '').replace('<em>', ''))
             values += repr(one_word) + ","
         column = column[:-1] + ',insert_time'
         values = values[:-1] + ',CURRENT_TIMESTAMP'
         sql = 'insert into ' + table_name + column.lower() + ') values' + values + ');'
         return sql
 
-    # sql的链接
-    # def select_db(self,sql):
-    #     try:
-    #         cur = self.conn.cursor()
-    #         cur.execute(sql)
-    #         wait_crawler = cur.fetchall()  # fetchall    fetchamany   fetchone
-    #         return wait_crawler
-    #     except Exception as e:
-    #         self.conn.rollback()
-    #         print('出错信息：' + str(e))
-
-    def db_insert(self,sql):
-        try:
-            self.conn1.ping(reconnect=True)
-            cur = self.conn1.cursor()
-            cur.execute(sql)
-            self.conn1.commit()
-            print('数据插入成功')
-        except Exception as e:
-            print('mysql连接出错信息:{}'.format(e))
-            self.conn1.rollback()
-
     # 清除数据中的脏乱字符
     def replaceall(self,word):
         return word.replace('\n','').replace(' ','').replace('\t','').replace('\xa0','').replace('\u3000','')
 
     # 放入任务到redis用于多线程
-    def redis_put_task(self):
-        for i in self.ff:
-            item = i.strip('\n')
-            redis_conn.rpush(redis_task,str(item))
-
-    def mysql_put_task(self):
-        today = datetime.date.today()
-        ts = int(round(time.mktime(time.strptime(str(today), "%Y-%m-%d"))*1000))
-        print(ts)
-        cur = self.conn2.cursor()
-        sql = 'SELECT city FROM test_amazon_shipping_address where create_time < {}'.format(ts)
-        cur.execute(sql)
-        result = cur.fetchall()
-        for item in result:
-            print(item[0])
-            if redis_conn.sadd(redis_all_city,item[0]) == 1:
-                redis_conn.rpush(redis_task,item[0])
-    # 爬取核心代码
-    def spider_start(self,thread_num):
-        errornum=0
-        s = 0
+    def redis_put_task1(self):
+        # ② FBA Daily Inventory History Report  白天可运行
+        list2 = ["{'action':'SaveAmazonReportTask','begindate':'" + str(four_days_ago) + "','enddate':'" + str(today) + "','osid':'54000001,645,81,658,386,830,456,112000001,737,853','reporttype':'36','typename':'FBA Daily Inventory History Report'}",
+                 "{'action':'SaveAmazonReportTask','begindate':'" + str(four_days_ago) + "','enddate':'" + str(today) + "','osid':'84,91,848,891,754,320,807,818,881,825','reporttype':'36','typename':'FBA Daily Inventory History Report'}",
+                 "{'action':'SaveAmazonReportTask','begindate':'" + str(four_days_ago) + "','enddate':'" + str(today) + "','osid':'306,740,840,826,742,878,834,837,768,54','reporttype':'36','typename':'FBA Daily Inventory History Report'}",
+                 "{'action':'SaveAmazonReportTask','begindate':'" + str(four_days_ago) + "','enddate':'" + str(today) + "','osid':'814,310,461,308,879,739,883,888,889','reporttype':'36','typename':'FBA Daily Inventory History Report'}",
+                 "{'action':'SaveAmazonReportTask','begindate':'" + str(four_days_ago) + "','enddate':'" + str(today) + "','osid':'538,836,838,760,82,89,666,816,427','reporttype':'36','typename':'FBA Daily Inventory History Report'}"]
+        # ③ FBA Received Inventory Report   白天可运行
+        list3 = ["{'action':'SaveAmazonReportTask','begindate':'" + str(four_days_ago) + "','enddate':'" + str(today) + "','osid':'54000001,645,81,658,386,830,456,112000001,737,853','reporttype':'24','typename':'FBA Received Inventory Report'}",
+                 "{'action':'SaveAmazonReportTask','begindate':'" + str(four_days_ago) + "','enddate':'" + str(today) + "','osid':'84,91,848,891,754,320,807,818,881,825','reporttype':'24','typename':'FBA Received Inventory Report'}",
+                 "{'action':'SaveAmazonReportTask','begindate':'" + str(four_days_ago) + "','enddate':'" + str(today) + "','osid':'306,740,840,826,742,878,834,837,768,54','reporttype':'24','typename':'FBA Received Inventory Report'}",
+                 "{'action':'SaveAmazonReportTask','begindate':'" + str(four_days_ago) + "','enddate':'" + str(today) + "','osid':'814,310,461,308,879,739,883,888,889','reporttype':'24','typename':'FBA Received Inventory Report'}",
+                 "{'action':'SaveAmazonReportTask','begindate':'" + str(four_days_ago) + "','enddate':'" + str(today) + "','osid':'538,836,838,760,82,89,666,816,427','reporttype':'24','typename':'FBA Received Inventory Report'}",]
+        # TODO 生成任务放入到redis中开始进行生成报告
+        # list2+list3为白天跑，list1+list4为晚上跑
+        for i in list2+list3:
+            redis_conn.rpush(redis_task,str(i))
+        errornum = 0
         while redis_conn.llen(redis_task) != 0:
-            item2 = redis_conn.rpoplpush(redis_task,redis_task_backup)
-            city=str(item2.strip('\n'))
+            item2 = redis_conn.rpoplpush(redis_task, redis_task_backup)
+            data = eval(item2.strip('\n'))
+            print(data)
             try:
-                url = 'https://maps.googleapis.com/maps/api/geocode/json?address={}&key=AIzaSyBwJ3Z3aTdEu39gbpNcjWZ4OVhBVb5VlqA&language=us'.format(city)
+                url = 'http://gg55.irobotbox.com/ASHX/irobotbox/AmazonReportCentre.ashx'
                 print(url)
                 # proxies = {'https': "http://" + str(self.browser_list[thread_num]), }
-                res = requests.get(url=url,headers=self.headers,timeout=10)
-                item = res.json()
-                print(item)
-                if 'ZERO_RESULTS' in str(item) or 'REQUEST_DENIED' in str(item):
-                    logger.error('搜索结果有误的城市:'+city)
-                    print('搜索结果有误')
+                res = requests.post(url=url, headers=self.headers, timeout=10, data=data, verify=False)
+                print(res.text)
+                if res.text == 'ok':
+                    print('请求成功')
+                    time.sleep(30)
                     redis_conn.lrem(redis_task_backup, 0, item2)
-                    continue
-                dc = {}
-                dc['cityname'] = city
-                name = item['results'][0]['address_components'][0]
-                country = item['results'][0]['address_components']
-                for cool in country:
-                    if cool['types'] == ['country', 'political']:
-                        country=cool['long_name']
-                        country_code = cool['short_name']
-
-                print(country)
-                dc['country'] = country
-                dc['country_code'] = country_code
-                dc['long_name'] = name['long_name']
-                longname = dc['long_name'].replace(' ','')
-                if len(longname)<3 or longname.isdigit() == True:
-                    print('搜索结果不对')
-                    logger.error('搜索结果不匹配的城市'+city)
+                else:
+                    errornum += 1
+                    print('出错次数为' + str(errornum))
                     redis_conn.lrem(redis_task_backup, 0, item2)
-                    continue
-                dc['short_name'] = name['short_name']
-                dc['types'] = str(name['types'])
-                formatted_address = item['results'][0]['formatted_address']
-                dc['formatted_address'] = formatted_address
-                loc = item['results'][0]['geometry']['location']
-                location_type = item['results'][0]['geometry']['location_type']
-                dc['location_type'] = location_type
-                dc['lat'] = loc['lat']
-                dc['lon'] = loc['lng']
-                #导入到redis
-                # redis_conn.rpush(redis_result, total)
-                # redis_conn.lrem(redis_task_backup, 0, item2)
-                # errornum = 0
-                # print(item1)
-
-                #直接导入mysql
-                print(dc)
-                insert_sql = self.create_sql(dc,'dim_city_location_test')
-                print(insert_sql)
-                self.db_insert(insert_sql)
-                redis_conn.lrem(redis_task_backup, 0, item2)
+                    redis_conn.lpush(redis_task, item2)
+                    if errornum > 20:
+                        dingtalk_robot('赛盒亚马逊---放入白天的任务过程中出错', ['18682156942'], False)
+                        os._exit(0)
             except:
-                errornum+=1
-                print('出错次数为'+str(errornum))
+                errornum += 1
+                print('出错次数为' + str(errornum))
+                if errornum > 20:
+                    dingtalk_robot('赛盒亚马逊---放入任务过程中出错', ['18682156942'], False)
+                    os._exit(0)
                 traceback.print_exc()
                 print('出现问题，任务放回')
-                time.sleep(2)
+                redis_conn.lrem(redis_task_backup, 0, item2)
+                redis_conn.lpush(redis_task, item2)
+                time.sleep(5)
                 continue
+        dingtalk_robot('白天的任务已经放入完毕', ['18682156942'], False)
 
-    # 检查任务是否清空
-    def whether_task(self):
-        if redis_conn.llen(redis_task) == 0 and redis_conn.llen(redis_task_backup) == 0:
-            print('任务队列已经清空')
-            time.sleep(1)
-            os._exit(0)
-        else:
-            pass
-
-    # 守护线程，保证任务的不丢失
-    def checkthread(self, initThreadsName):
-        while True:
-            self.whether_task()
-            if redis_conn.llen(redis_task) == 0:
-                sys.exit()
-            newThreadsName = []
-            for i in threading.enumerate():
-                # TODO 记录正在运行的线程
-                newThreadsName.append(i.getName())
-
-            # print(newThreadsName)
-            # TODO 判断有没有线程中途挂掉 如果有就重启线程
-            for oldname in initThreadsName:
-                if oldname in newThreadsName:
-                    pass
+    def redis_put_task2(self):
+        errornum = 0
+        # ① Flat File All Orders Reportby Last Update  晚上8点后运行
+        list1 = ["{'action':'SaveAmazonReportTask','begindate':'" + str(three_days_ago) + "','enddate':'" + str(
+            today) + "','osid':'54000001,645,81,658,386,830,456,112000001,737,853','reporttype':'9','typename':'Flat File All Orders Reportby Last Update'}",
+                 "{'action':'SaveAmazonReportTask','begindate':'" + str(three_days_ago) + "','enddate':'" + str(
+                     today) + "','osid':'84,91,848,891,754,320,807,818,881,825','reporttype':'9','typename':'Flat File All Orders Reportby Last Update'}",
+                 "{'action':'SaveAmazonReportTask','begindate':'" + str(three_days_ago) + "','enddate':'" + str(
+                     today) + "','osid':'306,740,840,826,742,878,834,837,768,54','reporttype':'9','typename':'Flat File All Orders Reportby Last Update'}",
+                 "{'action':'SaveAmazonReportTask','begindate':'" + str(three_days_ago) + "','enddate':'" + str(
+                     today) + "','osid':'814,310,461,308,879,739,883,888,889','reporttype':'9','typename':'Flat File All Orders Reportby Last Update'}",
+                 "{'action':'SaveAmazonReportTask','begindate':'" + str(three_days_ago) + "','enddate':'" + str(
+                     today) + "','osid':'538,836,838,760,82,89,666,816,427','reporttype':'9','typename':'Flat File All Orders Reportby Last Update'}"]
+        # ④ FBA Manage Inventory  晚上8点后运行
+        list4 = [
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'54000001,645,81,658,386,830,456,112000001,737,853','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'84,91,848,891,754,320,807,818,881,825','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'306,740,840,826,742,878,834,837,768,54','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'814,310,461,308,879,739,883,888,889','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'538,836,838,760,82,89,666,816,427','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'892,753,321,819,882,307,749,841,821,885','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'835,877,820,55,815,319,462,309,880,750','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'884,539,839,761,83,90,667,817,804','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'41000001,734,717,871,867,855,85,92,849','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'212000001,874,736,870,857,88,95,851','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'38000001,733,872,868,854,86,93,847','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'112000001,737,853,84,91,848','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'53000001,735,873,869,856,87,94,824,850','reporttype':'20','typename':'FBA Manage Inventory'}",
+            "{'action':'SaveAmazonReportTask','begindate':'" + str(today) + "','enddate':'" + str(
+                today) + "','osid':'76000001,876,875,858,743,852','reporttype':'20','typename':'FBA Manage Inventory'}",
+        ]
+        for y in list1 + list4:
+            redis_conn.rpush(redis_task, str(y))
+        while redis_conn.llen(redis_task) != 0:
+            item2 = redis_conn.rpoplpush(redis_task, redis_task_backup)
+            data = eval(item2.strip('\n'))
+            print(data)
+            try:
+                url = 'http://gg55.irobotbox.com/ASHX/irobotbox/AmazonReportCentre.ashx'
+                print(url)
+                # proxies = {'https': "http://" + str(self.browser_list[thread_num]), }
+                res = requests.post(url=url, headers=self.headers, timeout=10, data=data, verify=False)
+                print(res.text)
+                if res.text == 'ok':
+                    print('请求成功')
+                    time.sleep(30)
+                    redis_conn.lrem(redis_task_backup, 0, item2)
                 else:
-                    print(oldname)
-                    thread = threading.Thread(target=self.spider_start,args=(oldname,))
-                    thread.setName(oldname)
-                    thread.start()
-                    print('重新启动了 线程：{}'.format(oldname))
-            time.sleep(30)
+                    errornum += 1
+                    print('出错次数为' + str(errornum))
+                    redis_conn.lrem(redis_task_backup, 0, item2)
+                    redis_conn.rpush(redis_task, item2)
+                    if errornum > 10:
+                        dingtalk_robot('赛盒亚马逊---放入晚上的任务过程中出错', ['18682156942'], False)
+                        os._exit(0)
+            except:
+                errornum += 1
+                print('出错次数为' + str(errornum))
+                if errornum > 10:
+                    dingtalk_robot('赛盒亚马逊---放入任务过程中出错', ['18682156942'], False)
+                    os._exit(0)
+                traceback.print_exc()
+                print('出现问题，任务放回')
+                redis_conn.lrem(redis_task_backup, 0, item2)
+                redis_conn.rpush(redis_task, item2)
+                time.sleep(5)
+                continue
+        dingtalk_robot('晚上的任务已经放入完毕', ['18682156942'], False)
 
-    # 多线程的设置
-    def thread_start(self):
-        global recursion_num
-        thread_list = []
-        init_thread_name = []  # TODO 记录线程名
-        for i in range(self.thread_num):
-            thread = threading.Thread(target=self.spider_start,args=(i,))
-            # TODO 给线程赋值
-            thread.setName(i)
-            thread_list.append(thread)
+    def down_url(self):
+        print('等待报告生成中...')
+        # TODO 开始下载报告
+        t = int(round(time.time() * 1000000))
+        yesterday = datetime.datetime.today() - datetime.timedelta(days=1)
+        print(yesterday)
+        page = 0
+        check = 0
+        while True:
+            page += 1
+            time.sleep(1)
+            try:
+                url = 'http://gg55.irobotbox.com/IrobotBox/ReportCentre/AmazonReportOut.aspx?action=InitData&pageIndex={}&type=&cate=&osid=&beginDate=&endDate=&_={}'.format(str(page), str(t))
+                res = requests.get(url=url, headers=self.headers, timeout=10)
+            except:
+                time.sleep(3)
+                page -= 1
+                continue
+            if check == 1:
+                print('筛选完成')
+                break
+            for down_item in res.json()['Data']:
+                print(down_item)
+                AddTime = datetime.datetime.strptime(down_item['AddTime'], '%Y-%m-%d %H:%M:%S')
+                nowtime = datetime.datetime.now().strptime(show_time(), '%Y-%m-%d %H:%M:%S')
+                one_hour = datetime.datetime.now().strptime('1:00:00', '%H:%M:%S')
+                three_hour = datetime.datetime.now().strptime('6:00:00', '%H:%M:%S')
+                time_del = (nowtime - AddTime).total_seconds()
+                # 3600为一小时 ，86400为一天
+                if time_del > 3600 * 5:
+                    check = 1
+                    break
+                AdminName = down_item['AdminName']
+                TaskLog = down_item['TaskLog']
+                FilePath = down_item['FilePath']
+                if '报告下载成功' in TaskLog and AdminName == '爬虫':
+                    down_item['downloadurl'] = 'http://gg55.irobotbox.com/' + FilePath.replace('至', '%E8%87%B3')
+                    redis_conn.rpush(redis_downloadurl, str(down_item))
 
-        for thread in thread_list:
-            thread.start()
-            time.sleep(0.1)
-        # TODO 获取初始化的线程对象
-        init = threading.enumerate()
-        for i in init:
-            # TODO 保存初始化线程名字
-            init_thread_name.append(i.getName())
-        time.sleep(1)
-        thread_pro = threading.Thread(target=self.checkthread, args=(init_thread_name,))
-        thread_pro.start()
-        for thread in thread_list:
-            thread.join()
-        time.sleep(10)
-        while redis_conn.llen(redis_task_backup) != 0:  # 多线程导致同时获取但是只有一个被测试
-            redis_conn.rpoplpush(redis_task_backup, redis_task)
-        recursion_num += 1
-        if recursion_num > 10 and redis_conn.llen(redis_task) <= 10:
-            redis_conn.delete(redis_task_backup)
-            print('删除redis_task_backup')
-            os._exit(0)
-        time.sleep(1)
-        self.thread_start()
-        thread_pro.join()
+    # 爬取核心代码
+    def spider_start(self):
+        # TODO 下载文件到本地
+        down_error = 0
+        down_num = 0
+        while redis_conn.llen(redis_downloadurl) != 0:
+            # time.sleep(2)
+            orginal_item = redis_conn.rpoplpush(redis_downloadurl, redis_downloadurl_backup)
+            url_item = eval(orginal_item)
+            down_url = url_item['downloadurl']
+            OrderSourceName = url_item['OrderSourceName']
+            BuildTime = url_item['BuildTime'].replace(':','-')
+            TaskTitle = url_item['TaskTitle']
+            TaskLog = url_item['TaskLog']
+            if '发送报告请求成功' in TaskLog:
+                dingtalk_robot(str(url_item),['18682156942'],False)
+            dir = os.path.abspath('./Files/{}/'.format(str(daytime))+TaskTitle)
+            #  特殊替换
+            if 'Dreambig' in OrderSourceName:
+                OrderSourceName = OrderSourceName.replace('Dreambig','SnugMax')
+            work_path = os.path.join(dir, BuildTime+'_'+TaskTitle+'_'+OrderSourceName+'.txt')
+            try:
+                urlretrieve(down_url, work_path)
+                down_num += 1
+                redis_conn.lrem(redis_downloadurl_backup, 0, orginal_item)
+            except:
+                traceback.print_exc()
+                down_error += 1
+                redis_conn.lrem(redis_downloadurl_backup, 0, orginal_item)
+                redis_conn.lpush(redis_downloadurl, orginal_item)
+                if down_error > 50:
+                    dingtalk_robot('赛盒亚马逊---下载文件的过程中出错,出错次数超过50次了', ['18682156942'], False)
+                    os._exit(0)
+        dingtalk_robot('一共下载文件数为：{}'.format(str(down_num)), ['18682156942'], False)
 
-recursion_num = 0
+    # 对文件进行解析，存入到数据库
+    def file_to_four(self):
+        for path in [pwd1,pwd2,pwd3,pwd4]:
+            files = os.listdir(path=path)
+            file_list = []
+            for file in files:
+                account = file.split('_')[-1].split('-')[1]
+                country_export = file.split('_')[-1].split('-')[2].rstrip('.txt')
+                export_time = file.split('_')[0]
+                try:
+                    data = pd.read_csv(path + '/' + file, delimiter='\t', encoding=encod(path +'/'+file), low_memory=False,quoting=3)
+                except:
+                    print(file,'出错了')
+                    break
+                if data.shape[0] == 0:
+                    continue
+                data['account'] = account
+                data['country_export'] = country_export
+                data['export_time'] = export_time
+                data['create_time'] = show_time()
+                data['update_time'] = show_time()
+                data['create_id'] = 'Spider'
+                data['update_id'] = 'Spider'
+                file_list.append(data)
+
+            if 'FlatFileAllOrdersReportbyLastUpdate' in path:
+                cloumn_list = ['account', 'country_export', 'amazon_order_id', 'merchant_order_id', 'purchase_date',
+                               'last_updated_date',
+                               'order_status', 'fulfillment_channel', 'sales_channel', 'order_channel', 'url',
+                               'ship_service_level',
+                               'product_name', 'sku_amazon', 'asin', 'item_status', 'quantity', 'currency', 'item_price',
+                               'item_tax',
+                               'shipping_price', 'shipping_tax', 'gift_wrap_price', 'gift_wrap_tax',
+                               'item_promotion_discount',
+                               'ship_promotion_discount', 'ship_city', 'ship_state', 'ship_postal_code', 'ship_country',
+                               'promotion_ids',
+                               'is_business_order', 'purchase_order_number', 'price_designation', 'export_time',
+                               'create_time',
+                               'create_id', 'update_time', 'update_id']
+                table_name = 'ods_amz_allod'
+                rename_cloumn = {'gift-wrap-tax': 'gift_wrap_tax', 'order-status': 'order_status', 'ship-city': 'ship_city',
+                                 'promotion-ids': 'promotion_ids', 'price-designation ': 'price_designation',
+                                 'sales-channel': 'sales_channel', 'ship-country': 'ship_country',
+                                 'shipping-tax': 'shipping_tax', 'product-name': 'product_name',
+                                 'item-status': 'item_status', 'currency': 'currency', 'quantity': 'quantity',
+                                 'is-business-order': 'is_business_order', 'amazon-order-id': 'amazon_order_id',
+                                 'ship-state': 'ship_state', 'sku': 'sku_amazon', 'merchant-order-id': 'merchant_order_id',
+                                 'item-tax': 'item_tax', 'purchase-order-number': 'purchase_order_number',
+                                 'gift-wrap-price': 'gift_wrap_price', 'order-channel': 'order_channel',
+                                 'fulfillment-channel': 'fulfillment_channel', 'item-price': 'item_price',
+                                 'purchase-date': 'purchase_date', 'last-updated-date': 'last_updated_date',
+                                 'ship-service-level': 'ship_service_level', 'asin': 'asin',
+                                 'ship-postal-code': 'ship_postal_code', 'url': 'url', 'shipping-price': 'shipping_price',
+                                 'item-promotion-discount': 'item_promotion_discount',
+                                 'ship-promotion-discount': 'ship_promotion_discount', 'is-sold-by-ab ': 'is_sold_by_ab',
+                                 'price-designation': 'price_designation', 'promotion-ids ': 'promotion_ids'}
+            if 'FBADailyInventoryHistoryReport' in path:
+                cloumn_list = ['account', 'country_export', 'snapshot_date', 'fnsku', 'sku_amazon', 'product_name',
+                               'quantity',
+                               'fulfillment_center_id', 'detailed_disposition', 'country', 'export_time', 'create_time',
+                               'create_id', 'update_time', 'update_id']
+                table_name = 'ods_amz_daily_inv'
+                rename_cloumn = {'sku': 'sku_amazon', 'fnsku': 'fnsku', 'country': 'country',
+                                 'snapshot-date': 'snapshot_date', 'detailed-disposition': 'detailed_disposition',
+                                 'product-name': 'product_name', 'quantity': 'quantity',
+                                 'fulfillment-center-id': 'fulfillment_center_id'}
+            if 'FBAReceivedInventoryReport' in path:
+                cloumn_list = ['account', 'country_export', 'received_date', 'fnsku', 'sku_amazon', 'product_name',
+                               'quantity',
+                               'fba_shipment_id', 'fulfillment_center_id', 'export_time', 'create_time', 'create_id',
+                               'update_time', 'update_id']
+                table_name = 'ods_amz_rec_inv'
+                rename_cloumn = {'sku': 'sku_amazon', 'fnsku': 'fnsku', 'received-date': 'received_date',
+                                 'fba-shipment-id': 'fba_shipment_id', 'product-name': 'product_name',
+                                 'quantity': 'quantity', 'fulfillment-center-id': 'fulfillment_center_id',
+                                 'FBA Shipment ID': 'fba_shipment_id', 'Quantity': 'quantity', 'FNSKU': 'fnsku',
+                                 'Date': 'received_date', 'Merchant SKU': 'sku_amazon', 'Title': 'product_name',
+                                 'FC': 'fulfillment_center_id'}
+            if 'FBAManageInventory' in path:
+                cloumn_list = ['account', 'country_export', 'sku_amazon', 'fnsku', 'asin', 'product_name', 'condition',
+                               'your_price', 'mfn_listing_exists', 'mfn_fulfillable_quantity', 'afn_listing_exists',
+                               'afn_warehouse_quantity', 'afn_fulfillable_quantity', 'afn_unsellable_quantity',
+                               'afn_reserved_quantity', 'afn_total_quantity', 'per_unit_volume',
+                               'afn_inbound_working_quantity',
+                               'afn_inbound_shipped_quantity', 'afn_inbound_receiving_quantity', 'afn_researching_quantity',
+                               'afn_reserved_future_supply', 'afn_future_supply_buyable', 'export_time', 'create_time',
+                               'create_id', 'update_time', 'update_id']
+                table_name = 'ods_amz_man_inv'
+                rename_cloumn = {'afn-reserved-future-supply': 'afn_reserved_future_supply',
+                                 'mfn-listing-exists': 'mfn_listing_exists', 'your-price': 'your_price',
+                                 'afn-total-quantity': 'afn_total_quantity',
+                                 'afn-researching-quantity': 'afn_researching_quantity', 'fnsku': 'fnsku',
+                                 'afn-inbound-shipped-quantity': 'afn_inbound_shipped_quantity',
+                                 'afn-inbound-working-quantity': 'afn_inbound_working_quantity',
+                                 'afn-listing-exists': 'afn_listing_exists', 'per-unit-volume': 'per_unit_volume',
+                                 'afn-unsellable-quantity': 'afn_unsellable_quantity', 'product-name': 'product_name',
+                                 'afn-fulfillable-quantity': 'afn_fulfillable_quantity', 'sku': 'sku_amazon',
+                                 'afn-reserved-quantity': 'afn_reserved_quantity',
+                                 'mfn-fulfillable-quantity': 'mfn_fulfillable_quantity',
+                                 'afn-warehouse-quantity': 'afn_warehouse_quantity',
+                                 'afn-future-supply-buyable': 'afn_future_supply_buyable', 'asin': 'asin',
+                                 'condition': 'condition',
+                                 'afn-inbound-receiving-quantity': 'afn_inbound_receiving_quantity'}
+
+            result = pd.concat(file_list)
+            result.rename(columns=rename_cloumn, inplace=True)
+            data2 = result[cloumn_list]
+            print(data2.columns.values)
+            print(data2.shape[0])
+            pd.io.sql.to_sql(data2, table_name, con=engine, if_exists='append', index=False)
+
+    def file_to_only(self):
+        user_name = "root"
+        user_password = "Biadmin@123"
+        database_ip = "10.0.1.73:3306"
+        database_name = "vt_amz_inventory"
+        database_all = "mysql+pymysql://" + user_name + ":" + user_password + "@" + database_ip + \
+                       "/" + database_name + "?charset=utf8mb4"
+        engine = create_engine(database_all)
+        files = os.listdir(path=pwd1)
+        file_list = []
+        for file in files:
+            account = file.split('_')[-1].split('-')[1]
+            country_export = file.split('_')[-1].split('-')[2].rstrip('.txt')
+            try:
+                data = pd.read_csv(pwd1 + '/' + file, delimiter='\t', encoding=encod(pwd1 + '/' + file),low_memory=False, quoting=3)
+            except:
+                print(file, '出错了')
+                break
+
+            if data.shape[0] == 0:
+                continue
+            data['account'] = account
+            data['country_export'] = country_export
+
+            file_list.append(data)
+        cloumn_list = ['account', 'country_export', 'country', 'snapshot_date', 'fnsku', 'sku_amazon',
+                       'product_name', 'quantity',
+                       'fulfillment_center_id', 'detailed_disposition']
+        table_name = 'fba_inv_day_import'
+        rename_cloumn = {'sku': 'sku_amazon', 'fnsku': 'fnsku', 'country': 'country',
+                         'snapshot-date': 'snapshot_date', 'detailed-disposition': 'detailed_disposition',
+                         'product-name': 'product_name', 'quantity': 'quantity',
+                         'fulfillment-center-id': 'fulfillment_center_id'}
+
+        result = pd.concat(file_list)
+        result.rename(columns=rename_cloumn, inplace=True)
+        data3 = result[cloumn_list]
+
+        print(data3.columns.values)
+        print('----------------------')
+        print(data3)
+
+        pd.io.sql.to_sql(data3, table_name, con=engine, if_exists='append', index=False)
+
+    def run_spider(self):
+        # 6点开始生成白天的请求报告
+        # self.redis_put_task1()
+        # # 8点开始生成晚上的请求报告
+        # self.redis_put_task2()
+        # 下载所有报告生成后的链接
+        self.down_url()
+        # 下载所有文件存入本地
+        self.spider_start()
+        # 晚上11点半开始导入数据到4张表
+        self.file_to_four()
+        self.file_to_only()
 
 if __name__ == '__main__':
-    Myspider = Myspider()
-    Myspider.mysql_put_task()  #放入任务的程序
-    # Myspider.redis_put_task()
-    Myspider.thread_start() #程序启动
+    Myspider().run_spider()

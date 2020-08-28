@@ -1,0 +1,3 @@
+received-date	fnsku	sku	product-name	quantity	fba-shipment-id	fulfillment-center-id
+2020-08-27T00:00:00+09:00	X000VLCJ75	DB1-V630-JPWH0A-AD1SD6	VANKYO V630 1080PフルHDプロジェクター 6800ルーメン LED ±45°デジタル台形補正 1920×1080ネイティブ解像度 4K対応 TV Stick/HDMI/X-Box/Laptop/iPhone/ゲーム機に対応 300”大画面 ビジネス/ホームシアターに適用	40	FBA15CGTN2NH	KIX5
+2020-08-24T00:00:00+09:00	X000UPD92B	DB1-S650-JPBK6A-AC1SC1	SNAPTAIN ドローン カメラ付き 1080P HD 120°広角カメラ 200g未満 最大24分飛行時間 WIFI FPVリアルタイム伝送 高度維持 自動ホバリング 低電圧アラーム ヘッドレスモード 高速回転ホバー機能 体感モード モード１/２転換可能 国内認証済みSP650	-1	FBA15CFVYBG4	HND8

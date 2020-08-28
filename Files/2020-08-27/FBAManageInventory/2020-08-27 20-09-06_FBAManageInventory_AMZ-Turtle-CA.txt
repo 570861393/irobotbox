@@ -1,0 +1,15 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity	afn-researching-quantity
+TRL-2A09-USBK0A-3WCS1	X002JCCXM1	B0894SQRBV		Unknown					0	0	0	0	0		0	0	0	0
+TRL-E20X-USBK0A-3WCS1	X002KZWTDF	B088WMZSP5		Unknown					0	0	0	0	0		0	0	0	0
+TRL-E20X-USWH0A-3WCS1	X002KZV6X9	B08CXG6SFD		Unknown					0	0	0	0	0		0	0	0	0
+TRL-E30X-USBK0A-3WCS1	X002KZZSY7	B089CV1N97		Unknown					0	0	0	0	0		0	0	0	0
+TRL-E31X-USBK0A-3WCS1	X002L00373	B089R3K2X6		Unknown					0	0	0	0	0		0	0	0	0
+TRL-KYHD-CADG0A-3WCS1	B08CDB1Z2B	B08CDB1Z2B		Unknown					0	0	0	0	0		0	0	0	0
+TRL-KYHD-CADG0A-3WCS2	B08CDB1Z2B	B08CDB1Z2B		Unknown					0	0	0	0	0		0	0	0	0
+TRL-KYHD-CADG0A-3WCS3	X002KWZNP9	B08CDB1Z2B	Kyvol Humidifiers Cool Mist Humidifier, 4.5L Large Capacity, Ultrasonic for Home, 360Nozzle, grey	New	50.00	No		Yes	0	0	0	0	2700	18239.95	2700	0	0	0
+TRL-KYHD-CAWH0A-3WCS1	B08CB1X32Y	B08CB1X32Y		Unknown					0	0	0	0	0		0	0	0	0
+TRL-KYHD-CAWH0A-3WCS2	B08CB1X32Y	B08CB1X32Y		Unknown					0	0	0	0	0		0	0	0	0
+TRL-KYHD-CAWH0A-3WCS3	X002KWBY89	B08CB1X32Y	Kyvol Humidifiers Cool Mist Humidifier, 4.5L Large Capacity, Ultrasonic for Home, 360Nozzle	New	50.00	No		Yes	0	0	0	0	2904	18239.95	2904	0	0	0
+TRL-KYHD-USDG0A-3WCS1	X002KVA5RB	B08CGTBN6Z		Unknown					0	0	0	0	0		0	0	0	0
+TRL-KYHD-USWH0A-3WCS1	X002KVDXHZ	B08CGK75DM		Unknown					0	0	0	0	0		0	0	0	0
+TRL-S31X-USBK0A-3WCS1	X002LVK6BF	B08FBBCPB4		Unknown					0	0	0	0	0		0	0	0	0

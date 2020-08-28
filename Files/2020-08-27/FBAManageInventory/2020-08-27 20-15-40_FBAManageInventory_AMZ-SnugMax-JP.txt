@@ -1,0 +1,57 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity
+0O-98V3-U8K5	X000VHTSFZ	B07YFW8SRN		Unknown					0	0	0	0	0		0	0	0
+DB1--HM202A-JPWH0A-AC1SC1	X000UHZH01	B08698XJQF	HeimVision ネットワークWIFIカメラ 300万画素 ペット監視カメラ 子供/ペット/老人見守り 動体検知自動追跡 暗視機能 スマホ通知 双方向音声 安全対策WIFI/LAN-ケーブル対応 技適認証済み 日本仕様	New	3990.00	No		Yes	482	431	14	37	1346	2026.75	360	504	0
+DB1--HM203-JPWH0A-AC1SC4	X000UNGRHR	B07Q29917Z	HeimVision ネットワークカメラ 1080P 200万画素 WIFI/LAN-ケーブル接続 技適認証済み HM203	New	2990.00	No		Yes	18	14	4	0	330	2635.7	312	0	0
+DB1-2A0009-JPBK0A-AD1SD1	X000VCGZE7	B08936NPNC	Kyvol 掃除機専用 消耗品アクセサリ フィルター サイドブラシ メインブラシ 清掃ツール	New	2299.00	No		Yes	141	140	0	1	141	1335.87	0	0	0
+DB1-3D0002-JPGY2A-AC1SC1	X000UMZNC3	B086HPDSWJ	【VANKYO タブレットS8専用ケース】8インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	New	2399.00	No		Yes	71	59	0	12	71	701.2	0	0	0
+DB1-3D0006-JPGY3A-AD1SD3	X000VK2OX5	B087NPGZGJ	【VANKYO タブレットS10専用ケース】 10.1インチ 全面保護 キズ防止 角度調整 グレー タブレットPCケース	New	2380.00	No		Yes	0	0	0	0	180	825.58	180	0	0
+DB1-4B0001-JPGN0A-AD1SD1	X000VLN5BJ	B08GKL7XRT	Kyvol ロボット掃除機用バッテリー	New	2999.00	No		Yes	0	0	0	0	0	250.07	0	0	0
+DB1-4D0002-JPCR2A-AC1SC1	X000UMZN2X	B086XDBMYC	【VANKYO タブレットS8専用保護フィルム】2枚 8インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフイルム	New	1680.00	No		Yes	234	222	1	11	234	540.77	0	0	0
+DB1-4D0005-JPCR3A-AD1SD3	X000VHOADZ	B087NPK1Q7	【VANKYO タブレットS10専用保護フィルム】 2枚 10.1インチ 指紋防止 キズ防止 気泡防止 9H 高透明度 貼りやすい 強化ガラスフィルム	New	1580.00	No		Yes	0	0	0	0	200	590.59	200	0	0
+DB1-5A0002-JPWH2A-AD1SD4	X000VG6UVB	B07YJH5B9V	VANKYO 壁掛け式スクリーン 折りたたみ式 スクリーン プロジェクター用 ホームシアター スクリーン ポータブル 投射スクリーン 映画鑑賞/オフィス会議/プレゼン 16:9 しわなし (72インチ)	New	2399.00	No		Yes	0	0	0	0	380	6526.97	200	180	0
+DB1-5A0003-JPWH2A-AD1SD3	X000VG9MMZ	B07L51G7GH	VANKYO 壁掛け式スクリーン 折りたたみ式 スクリーン プロジェクター用 ホームシアター スクリーン ポータブル 投射スクリーン 映画鑑賞/オフィス会議/プレゼン 16:9 しわなし (84インチ)	New	2480.00	No		Yes	0	0	0	0	398	6681.01	200	198	0
+DB1-5A0004-JPWH3A-AD1SD8	X000VLR48J	B07DFDCMZD	VANKYO 壁掛け式スクリーン 折りたたみ式 スクリーン プロジェクター用 ホームシアター スクリーン ポータブル 投射スクリーン 映画鑑賞/オフィス会議/プレゼン 16:9 しわなし (100インチ)	New	2799.00	No		Yes	0	0	0	0	187	6687.4	187	0	0
+DB1-5A0005-JPWH5A-AD1SD4	X000VK4LC7	B07RT97TN6	VANKYO 壁掛け式スクリーン 折りたたみ式 スクリーン プロジェクター用 ホームシアター スクリーン ポータブル 投射スクリーン 映画鑑賞/オフィス会議/プレゼン 16:9 しわなし (120インチ)	New	2999.00	No		Yes	0	0	0	0	195	6457.49	195	0	0
+DB1-A10XXX-JPWH0A-A1S2	X000UJ9ZQL	B086PYBKLX	SNAPTAINドローン カメラ付き 折り畳み式 小型 こども向け バッテリー２個付き 最大飛行時間15分 高画質720P WIFI FPVリアルタイム 三段階速度調整 モード1/2自由転換可 体感モード 高度維持機能 国内認証済みA10	New	5280.00	No		Yes	364	361	1	2	364	3285.28	0	0	0
+DB1-A15H-JPGY0A-AC1SC1	X000UKFBDV	B07Q453XQD	SNAPTAIN ドローン カメラ付き 小型 折り畳み式 バッテリー2個 飛行時間20分 ワンキーリターン 軌跡飛行 WIFI fpv リアルタイム 高度維持 720P HD 自動ホバリング 体感モード ヘッドレスモード 200g未満 初心者 子供 対応可能 音声制御 国内認証済み A15H	New	8999.00	Yes	0	No	67	66	1	0	67	7160	0	0	0
+DB1-A80S-JPWH0A-AD1SD1	X000V742SN	B07MZ2W57T	目覚まし時計 光 大音量 WiFi 目覚ましライト コンセント式 Alexa/Google homeで制御 スヌーズ&ラジオ機能付き ホワイトノイズ 快眠 20段階調光 HeimVision A80S	New	4999.00	No		Yes	500	500	0	0	500	3164.01	0	0	0
+DB1-C07H-HM311X-AD1SD1	X000V0IHIL	B088LLVHL8	HeimVision 防犯カメラ 300万画素 屋内/屋外用 ワイヤレス/WiFi ネットワークカメラ 双方向通話 暗視撮影 110度の超広角レンズの搭載 IP65防水 ios/android/windows対応 音声付き録画可能 ipカメラ ＨＭ311	New	5480.00	No		Yes	366	342	8	16	366	3123.54	0	0	0
+DB1-CACK-PM20-JPBK0A-AD1SD1	X000VLR943	B07P6Z8XKX	VANKYO 天吊り金具 汎用 プロジェクターブラケット ホルダー プロジェクターマウント 壁掛け/天吊り オフィス/家庭用 ホームシアター (ブラック)	New	1899.00	No		Yes	0	0	0	0	100	2154.24	100	0	0
+DB1-CACK-PM20-JPWH0A-A1S6	X000VHOD37	B07P852FBW	VANKYO 天吊り金具 汎用 プロジェクターブラケット ホルダー プロジェクターマウント 壁掛け/天吊り オフィス/家庭用 ホームシアター (ホワイト)	New	1899.00	No		Yes	0	0	0	0	200	2078.7	200	0	0
+DB1-CT07-JPBK0A-AC1SC1	X000UMW8KN	B07RLL7H38	SNAPTAIN A15 ドローン用バッテリー2個＋充電器セット バッテリー2個同時充電可能	New	2399.00	No		Yes	94	94	0	0	94	313.48	0	0	0
+DB1-E20XXX-JPBK0A	X000U77QTL	B0863W8FPB	Kyvol E20 ロボット掃除機 2000Pa 強力吸引 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	New	20980.00	No		Yes	316	308	5	3	1402	17376.84	690	396	0
+DB1-E20XXX-JPWH0A-AD1SD1	X000V9J6UF	B08D6PGGXP	Kyvol E20 ロボット掃除機 2500Pa 超薄型 静音 自動充電 アレクサ 落下防止 衝突防止 150分間稼働 進入禁止	New	21980.00	No		Yes	594	591	0	3	1386	17556.12	0	792	0
+DB1-E30XXX-JPBK0A-A2S1	X000UG0BNF	B0874GNKVM	Kyvol E30 ロボット掃除機 2200Pa 弓形働く マッピング 150分間稼働 静音 境界線テープ 衝突防止 自動充電	New	26999.00	No		Yes	197	197	0	0	407	17448.45	210	0	0
+DB1-E30XXX-JPWH0A-AD1SD1	X000VEZXTD	B08F7TY9YQ	Kyvol E30 ロボット掃除機 2200Pa 強力吸引 弓形働く マッピング機能 150分間連続稼働 超薄型静音設計 小型ロボット掃除機 衝突防止 境界線テープ 自動充電 落下防止 Alexa Wi-Fi対応 掃除ロボット ホワイト	New	24999.00	No		Yes	0	0	0	0	396	57126.62	396	0	0
+DB1-E31XXX-JPWH0A-AD1SD1	X000V9JDWL	B08D6P36LL	Kyvol E31 ロボット掃除機 水拭き 2200Pa 強力吸引 マッピング機能 超薄型 畳 静音 自動充電 Alexa WiFi 落下防止 衝突防止 150分間連続稼働 掃除ロボット 境界線テープ	New	28980.00	No		Yes	0	0	0	0	1188	22469.45	1188	0	0
+DB1-EX2PDX-JPWH2A-AD1SD2	X000VEFG63	B088JW6WDY	VIVIMAGE Explore2 Mini WiFi プロジェクター 4500ルーメン スマホに直接接続 ワイヤレス 1080PフルHD対応 小型 プロジェクター ホームシアター TV Stick/HDMI/X-Box/Laptop/iPhone/ゲーム機に接続可 三脚スタンド（付属）	New	13999.00	No		Yes	0	0	0	0	400	7974.93	400	0	0
+DB1-G10XXX-JPBK0A-AD1SD1	X000VHFBT7	B087N6GX5S	VANKYO ゲーミングイヤホン ゲームイヤフォン ゲーミングヘッドセット イヤホン マイク付き マイクミュート機能 G10 有線 PS4 スマホ PC 高音質 重低音 Nintendo/Switch/Xbox One/PUBG 荒野行動対応	New	4280.00	No		Yes	0	0	0	0	1300	644.01	1300	0	0
+DB1-H302-JPBK0A-AD1SD1	X000VHSOEV	B07YFW8SRN	【新バージョン】HeimVision ネットワークWIFIカメラ1536P 300万画素Alexa対応 防犯 Wi-Fiカメラ 動体検知 暗視機能 警報通知 WIFI/LANケーブ対応 双方向音声 録画可能 安全対策 ペット/子供/老人見守り 技適認証済み 日本仕様	New	5980.00	No		Yes	0	0	0	0	200	2031.67	200	0	0
+DB1-H402-JPBK0A-AD1SD1	X000VKPS2T	B0811QF237	【最新版】HeimVision 400万高画素 ネットワークカメラ WiFiカメラ ベビーモニター 動体検知自動追跡 暗視機能 警報通知 双方向音声 録画可能 安全対策 遠隔操作 ペット/子供/老人見守り 技適認証済みiOS/Android/Windows/MACシステムに対応 HM402	New	8590.00	No		Yes	0	0	0	0	200	2083.62	200	0	0
+DB1-H612RX-JPBK0A-AD1SD1	X000VHPBM9	B089NSW6DC	【業界唯一の4K解像度】VanTopドライブレコーダー【SONY IMX415】【12インチ右ハンドル仕様】【最新版日本音声コントロール】【GPS搭載】最大128GB対応64GBカード付属 ミラー型ドラレコ 前後カメラ 電波障害対策 大広角レンズ 超鮮明夜間撮影フルスクリーン ドラレコ 前後同時録画/Gセンサー/衝撃録画/駐車監視/ループ録画/タイムラプス動画 日本語説明書	New	19880.00	No		Yes	0	0	0	0	400	893.75	400	0	0
+DB1-H82P-JPBU1A-AC1SC1	X000VHWSKH	B07KSSBK7M	SNAPTAIN H823H Plus ドローン 小型 ミニドローン 室内用 マイクロドローン ヘッドレスモード/360度フリップ/3段階スピード調節 プレゼント 国内認証済み (青)	New	3480.00	No		Yes	0	0	0	0	180	3164.51	180	0	0
+DB1-HM206X-JPBK0A-AD1SD1	X000V18DSJ	B08BJXP19S	TeamMe 超小型カメラ 隠しカメラ Wifi 長時間録画 監視カメラ 防犯カメラ HD1080P超高画質 動体検知 内蔵バッテリー スパイカメラ 赤外線暗視 広角150°日本語取扱説明書付	New	5899.00	No		Yes	0	0	0	0	0	-16.39	0	0	0
+DB1-HMB2XX-JPWH0A-AC1SC3	X000URYX01	B086C7C4X3	HeimVision ワイヤレステレビドアホン 1080P HDインターホン 無線WiFi スマホ対応 双方向音声 暗視機能 動体検知 IP65防塵防水 工事不要 日本仕様 HMB1	New	9980.00	No		Yes	321	316	3	2	321	2090.01	0	0	0
+DB1-HMD3XX-JPWH0A-AD1SD1	X000V3ET6R	B08BLNWVWQ		Unknown					0	0	0	0	480		480	0	0
+DB1-HMD3XX-JPWH0A-AD2SD1	X000VFZPBX	B08FDJGSH3	HeimVision 防犯カメラ Wi-Fi バッテリーカメラ 屋外対応 ソーラーパネル対応 完全無線 130°超広角 双方向通話 省エネルギー PIR人体検知センサー 強力磁石式スタンド ネジ止め不要 角度調整可能	New	9999.00	No		Yes	0	0	0	0	192	1022.88	192	0	0
+DB1-K600-JPBU0A-A4S2	X000UDUPF7	B086QJ1YPY	VanTop 子供用 デジタルカメラ 2000万画素 1080P HD録画 キッズカメラ MP3 連写 自撮り タイマー撮影 デジカメ トイカメラ 4倍ズーム 音楽 写真 動画 2インチIPS画面 プレゼント ギフト 知育 男女兼用 子供 カメラ USB充電 日本語説明書付き 収納袋付き 【32GBメモリーカード付き】	New	4999.00	No		Yes	0	0	0	0	0	901.29	0	0	0
+DB1-KYHD3X-JPWH0A-AD1SD1	X000VF5ZWH	B08F9X8QRV	Kyvol 加湿器 卓上 超音波式 4.5L大容量 次亜塩素酸水対応 除菌 空気清浄 霧量調整可能 超静音 長時間連続稼働 省エネ 空焚き防止 乾燥対策 家庭/オフィス/学校/幼稚園などに適用	New	5999.00	No		Yes	0	0	0	0	396	18239.95	396	0	0
+DB1-L430WX-JPWH2A-AC2SC4	X000VI49KX	B08CKC495F	VANKYO プロジェクター 小型 4600ルーメン HDプロジェクター スマホ接続可 ホームシアター 1080Pに対応 タブレット/パソコン/DVD/TV Stick/iPhone/Android/ゲーム機に対応 Leisure 430W	New	11900.00	No		Yes	200	199	1	0	200	9409.62	0	0	0
+DB1-L430XX-JPWH2A-AC1SC7	X000UKXD1X	B083BP39RZ	VANKYO Leisure 430XX 小型 プロジェクター LED 4500lm 1080PフルHD対応 内蔵スピーカー 台形補正 HDMI/USB/SD/AV/VGA対応 スマホ/パソコン/タブレット/ゲーム機/DVDプレーヤー/USB接続可 HDMI/AVケーブル/収納ケース付属	New	12999.00	Yes	0	No	0	0	0	0	0	8015.9	0	0	0
+DB1-PT20-JPWH1A-AD1SD1	X000VJ36J7	B07CWPV988	VANKYO プロジェクター台 ノートパソコンスタンド 業務用 三脚式 折りたたみ式プロジェクタースタンド 44-116まで高さ調節可能 オフィス/会議室/ホームシアターに対応 耐荷重15 (ホワイト)	New	4980.00	No		Yes	0	0	0	0	200	19954.36	200	0	0
+DB1-S10FAX-JPBK3A-AD1SD8	X000VG4QN5	B0872Q8JNL	VANKYO S10 タブレット 10.1インチ Android 9.0 RAM2GB/ROM32GB Wi-Fiモデル デュアルカメラ GPS FM機能搭載 日本語取扱説明書	New	13999.00	No		Yes	22	22	0	0	22	2878.72	0	0	0
+DB1-S10FAX-JPBK3A-AD1SD9	X000VLSBJ5	B0872Q8JNL	VANKYO S10 タブレット 10.1インチ Android 9.0 RAM2GB/ROM32GB Wi-Fiモデル デュアルカメラ GPS FM機能搭載 日本語取扱説明書	New	13999.00	No		Yes	0	0	0	0	0	2878.72	0	0	0
+DB1-S21FAX-JPBU3A-AD1SD2	X000VJUACD	B08FD61D47	VANKYO タブレットS21 10.1インチ 5GHz/2.4GHz Wi-Fi対応 Android9.0 RAM2GB/ROM32GB 大容量 1280*800 GPS Bluetooth5.0 一年保証	New	16999.00	No		Yes	0	0	0	0	200	3056.84	200	0	0
+DB1-S300-JPBK0A-AC1SC1	X000UKC0CV	B07XZ9WW3R	SNAPTAIN ドローン こども向け ミニドローン 室内用 放り投げ飛行機能 ジェスチャー制御 自動回避障害機能 重力センサーブレスレット制御 ヘッドレスモード 360°フリップ 初心者/子供向けSP300	New	3999.00	No		Yes	0	0	0	0	480	4476.13	480	0	0
+DB1-S350-JPBU0A-AC1SC1	X000UY4QBF	B07Z1VYWGZ	SNAPTAIN ドローン こども向け ミニドローン バッテリー3個付き 最大飛行時間21分 高度維持機能 ワンキー離陸/着陸 ヘッドレスモード 360°宙返り ワンキーリターン 初心者/子供向け 国内認証済みSP350	New	3299.00	No		Yes	318	316	2	0	318	1332.76	0	0	0
+DB1-S5C0-JPBK6A-AC1SC1	X000UPU10T	B07KXNW5WF	SNAPTAIN ドローン カメラ付き バッテリー2個付き 飛行時間15分 室内向け 200g未満 WIFI FPV リアルタイム 720P HDカメラ 高度維持機能 体感モード 3D VRサポート ワンキー起動/着陸 初心者 子供に対応可能S5C	New	7380.00	No		Yes	1297	1297	0	0	1297	7769.27	0	0	0
+DB1-S650-JPBK6A-AC1SC1	X000UPD92B	B07VBM89DB	SNAPTAIN ドローン カメラ付き 1080P HD 120°広角カメラ 200g未満 最大24分飛行時間 WIFI FPVリアルタイム伝送 高度維持 自動ホバリング 低電圧アラーム ヘッドレスモード 高速回転ホバー機能 体感モード モード１/２転換可能 国内認証済みSP650	New	10399.00	No		Yes	479	479	0	0	480	9201.34	0	0	1
+DB1-S7FA-JPBK1A-AD1SD3	X000VJYZNX	B085FYXD48	VANKYO S7 7インチ タブレット Android9.0 RAM2GB/ROM32GB GPS WiFi 目に優しい 子供にも適当 プレゼント 日本語マニュアル付き 一年保証	New	10999.00	No		Yes	0	0	0	0	300	1193.14	300	0	0
+DB1-S7FA-JPPK1A-AD1SD2	X000VLLHWN	B0878T5YNW	VANKYO タブレット 7インチ S7-Pink Android9.0 RAM2GB/ROM32GB GPS WiFi 日本語マニュアル付き 一年保証	New	9999.00	No		Yes	0	0	0	0	400	1216.58	400	0	0
+DB1-S8FA-JPBK2A	X000UAZ4D3	B08612D8B1	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	New	11999.00	No		Yes	0	0	0	0	0	1586.27	0	0	0
+DB1-S8FA-JPBK2A-AD1SD2	X000V508VF	B08612D8B1	VANKYO S8 タブレット 8インチ 液晶ディスプレイ gps搭載 目に優しい WIFI ROM32GB RAM2GB 4000mAh Android9.0 Bluetooth4.2	New	12999.00	No		Yes	543	536	1	6	543	1586.27	0	0	0
+DB1-SP500J-JPBK0A-AD1SD1	X000V2AK2F	B08BFZR4MG	SNAPTAINドローン GPS搭載 2K 110°広角HDカメラ付き バッテリー2個付き 26分飛行時間 200g未満 折り畳み式 フォローミーモード リターンモード FPVリアルタイム伝送 2.4GHz ヘッドレスモード モード1/2転換可能 国内認証済みSP500	New	16990.00	No		Yes	514	495	5	14	514	7327.64	0	0	0
+DB1-V630-JPWH0A-AD1SD6	X000VLCJ75	B07YTVMJVL	VANKYO V630 1080PフルHDプロジェクター 6800ルーメン LED ±45°デジタル台形補正 1920×1080ネイティブ解像度 4K対応 TV Stick/HDMI/X-Box/Laptop/iPhone/ゲーム機に対応 300”大画面 ビジネス/ホームシアターに適用	New	25900.00	No		Yes	40	40	0	0	40	21765.13	0	0	0
+DB1-VKS30S-JPBU0A-AD1SD2	X000VGQH2X	B089PZZRD9	SNUGMAX ポータブル電源 バッテリー 人気 大容量 60000mAh/222Wh AC(300W 瞬間最大400W)/DC/USB出力 純正弦波 家庭用 蓄電池 非常用電源 急速充電 PD45W QC3.0 車中泊 キャンプ 釣り アウトドア 防災グッズ 地震 停電 PSE認証済 12ヶ月保証	New	22999.00	No		Yes	0	0	0	0	400	12074.81	400	0	0
+DB1-Z1AK-JPBU1A-AC1SC1	X000UMXVIV	B07WCLLJ9K	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ブルー	New	9580.00	No		Yes	180	179	1	0	180	2397.92	0	0	0
+DB1-Z1AK-JPPK1A-AC1SC2	X000UMY9OL	B07W9JCL7D	タブレット VANKYO 子供用タブレット 目に優しい 7インチ ROM32GB キッズモデル HDディスプレイ キッズタブレット 子供向け ペアレンタルコントロール付き Android 8.1 Go WIFI モデル ピンク	New	9580.00	No		Yes	163	159	4	0	163	2397.92	0	0	0

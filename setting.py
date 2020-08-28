@@ -67,9 +67,6 @@ database_all = "mysql+pymysql://" + user_name + ":" + user_password + "@" + data
 "/" + database_name + "?charset=utf8mb4"
 engine = create_engine(database_all)
 
-# engine=sqlalchemy.create_engine('mysql+mysqldb://{user}:{password}@{host}:3306/{database}'.format
-#         (user='root',password='Biadmin@123',host='10.0.1.73',database='amazon_bdata'))
-
 def encod(file):
     f = open(file, 'rb')
     f_charInfo = chardet.detect(f.read())

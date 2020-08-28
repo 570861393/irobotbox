@@ -1,11 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/08/05
 # @Author  : coolchen
-
 import traceback
-import schedule
-from apscheduler import job
-
 from setting import *
 import re
 from get_cookie import do_login

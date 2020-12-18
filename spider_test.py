@@ -263,7 +263,7 @@ class Myspider(object):
                 country_export = file.split('_')[-1].split('-')[2].rstrip('.txt')
                 export_time = file.split('_')[0]
                 try:
-                    data = pd.read_csv(path + '/' + file, delimiter='\t', encoding=encod(path +'/'+file), low_memory=False,quoting=3)
+                    data = pd.read_csv(path + '/' + file, delimiter='\t', encoding=encod(path +'/'+file), low_memory=False,quoting=3,error_bad_lines=False)
                 except Exception as E:
                     print('错误6:'+str(E))
                     break
@@ -356,15 +356,17 @@ class Myspider(object):
                                  'afn-future-supply-buyable': 'afn_future_supply_buyable', 'asin': 'asin',
                                  'condition': 'condition',
                                  'afn-inbound-receiving-quantity': 'afn_inbound_receiving_quantity'}
-
-            result = pd.concat(file_list)
+            try:
+                result = pd.concat(file_list)
+            except:
+                pass
             result.rename(columns=rename_cloumn, inplace=True)
             data2 = result[cloumn_list]
             print(data2.columns.values)
             print(data2.shape[0])
             try:
-            	pd.io.sql.to_sql(data2, table_name, con=engine, if_exists='append', index=False)
-               	#dingtalk_robot('赛盒亚马逊---数据导入\n{}新增数据总量为:{}'.format(table_name,data2.shape[0]), ['18682156942', '18124772343'], False)
+                # pd.io.sql.to_sql(data2, table_name, con=engine, if_exists='append', index=False)
+                dingtalk_robot('赛盒亚马逊---数据导入\n{}新增数据总量为:{}'.format(table_name,str(data2.shape[0])), ['18682156942', '18124772343'], False)
             except Exception as E:
                 print('错误7:'+str(E))
                 dingtalk_robot('数据有点错误'+str(E), ['18682156942'], False)
@@ -411,16 +413,16 @@ class Myspider(object):
         dingtalk_robot('赛盒亚马逊---库存数据导入数据总量为{}'.format(data3.shape[0]), ['18682156942','15017227189'], False)
 
     def run_spider(self):
-        # # 下午6点开始生成白天的请求报告
-        # self.redis_put_task2()
-        # time.sleep(3600*1.9)
-        # # 下午8点开始生成晚上的请求报告
-        # self.redis_put_task1()
-        # # 下载所有报告生成后的链接
-        # time.sleep(3600*3)
-        # self.down_url()
-        # # 下载所有文件存入本地
-        # self.spider_start()
+        # 下午6点开始生成白天的请求报告
+        self.redis_put_task2()
+        time.sleep(3600*1.9)
+        # 下午8点开始生成晚上的请求报告
+        self.redis_put_task1()
+        # 下载所有报告生成后的链接
+        time.sleep(3600*3)
+        self.down_url()
+        # 下载所有文件存入本地
+        self.spider_start()
         # 晚上11点半开始导入数据到4张表
         self.file_to_four()
         self.file_to_only()

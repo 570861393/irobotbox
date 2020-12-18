@@ -47,16 +47,16 @@ logger = logging.getLogger()
 logger.setLevel(logging.INFO)  # Log等级总开关
 # 第二步，创建一个handler，用于写入日志文件
 rq = time.strftime('%Y%m%d', time.localtime(time.time()))
-log_path = os.path.dirname(os.getcwd()) + '/Logs/'
-log_name = rq + '.log'
-logfile = log_name
-fh = logging.FileHandler(logfile, mode='w+')
-fh.setLevel(logging.DEBUG)  # 输出到file的log等级的开关
-# 第三步，定义handler的输出格式
-formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s")
-fh.setFormatter(formatter)
-# 第四步，将logger添加到handler里面
-logger.addHandler(fh)
+# log_path = os.path.dirname(os.getcwd()) + '/irobotbox/Logs/'
+# log_name = log_path + '.log'
+# logfile = log_name
+# fh = logging.FileHandler(logfile, mode='w+')
+# fh.setLevel(logging.DEBUG)  # 输出到file的log等级的开关
+# # 第三步，定义handler的输出格式
+# formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s")
+# fh.setFormatter(formatter)
+# # 第四步，将logger添加到handler里面
+# logger.addHandler(fh)
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='utf8')
 user_name = "root"
@@ -75,19 +75,24 @@ def encod(file):
 
 # redis的队列设置
 dbnum = 15
-# redis_conn = redis.Redis(host='127.0.0.1', port=6379, db=dbnum, encoding='utf-8', decode_responses=True)
+redis_conn = redis.Redis(host='127.0.0.1', port=6379, db=dbnum, encoding='utf-8', decode_responses=True)
 # redis_conn = redis.Redis(host='47.115.181.162', port=6379, password='123456', db=dbnum, encoding='utf-8',decode_responses=True)
-redis_conn = redis.Redis(host='10.0.1.201', port=6379, password='iA7gahY7l', db=dbnum, encoding='utf-8',decode_responses=True)
+# redis_conn = redis.Redis(host='10.0.1.201', port=6379, password='iA7gahY7l', db=dbnum, encoding='utf-8',decode_responses=True)
 
 
 redis_name = 'irobotbox'
 redis_all_city = '{}:all_city'.format(redis_name)
 redis_task = '{}:task'.format(redis_name)
+redis_task_backup = '{}:backup_task'.format(redis_name)
+
+redis_task2 = '{}:task2'.format(redis_name)
+redis_task2_backup = '{}:backup_task2'.format(redis_name)
+
 redis_downloadurl = '{}:downloadurl'.format(redis_name)
 redis_downloadurl_backup = '{}:downloadurl_backup'.format(redis_name)
-redis_task_backup = '{}:backup_task'.format(redis_name)
-redis_error = '{}:error'.format(redis_name)
+redis_downloadurl_error = '{}:downloadurl_error'.format(redis_name)
 redis_result = '{}:result'.format(redis_name)
+redis_error = '{}:error'.format(redis_name)
 redis_failure_point = '{}:failure_point'.format(redis_name)
 
 #来源表
@@ -210,3 +215,11 @@ def get_proxy():
         ip_port = str(json_str['data'][0]['ip']) + ':' + str(json_str['data'][0]['port'])
         print(ip_port)
         return ip_port
+
+# 共享目录
+if platform.system() == 'Windows':
+    SHARE_DIR = "Z:\data\工作\赛盒\Files\\"
+elif platform.system() == 'Linux':
+    SHARE_DIR = "/mnt/工作/赛盒/Files/"
+else:
+    print('无法找到共享盘的地址')
